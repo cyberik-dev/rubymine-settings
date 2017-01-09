@@ -7372,12 +7372,14 @@
     </library>
     <library name="sqlite3 (v1.3.8, RVM: ruby-2.0.0-p648 [railstutorial_rails_4_0]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/sqlite3/1.3.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p648@railstutorial_rails_4_0/gems/sqlite3-1.3.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p648@railstutorial_rails_4_0/gems/sqlite3-1.3.8/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p648@railstutorial_rails_4_0/gems/sqlite3-1.3.8/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p648@railstutorial_rails_4_0/gems/sqlite3-1.3.8/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/sqlite3/1.3.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p648@railstutorial_rails_4_0/gems/sqlite3-1.3.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p648@railstutorial_rails_4_0/gems/sqlite3-1.3.8/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p648@railstutorial_rails_4_0/gems/sqlite3-1.3.8/lib" />
