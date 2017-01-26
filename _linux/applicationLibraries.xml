@@ -688,6 +688,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/addressable-2.4.0/tasks" />
       </SOURCES>
     </library>
+    <library name="addressable (v2.5.0, RVM: ruby-2.3.3 [live_voice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/addressable-2.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/addressable-2.5.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/addressable-2.5.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/addressable-2.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/addressable-2.5.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/addressable-2.5.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="airbrussh (v1.1.1, RVM: ruby-2.3.1 [timeline-2.3.1]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@timeline-2.3.1/gems/airbrussh-1.1.1/bin" />
@@ -3930,6 +3942,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/launchy-2.4.3/tasks" />
       </SOURCES>
     </library>
+    <library name="launchy (v2.4.3, RVM: ruby-2.3.3 [live_voice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/launchy-2.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/launchy-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/launchy-2.4.3/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/launchy-2.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/launchy-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/launchy-2.4.3/tasks" />
+      </SOURCES>
+    </library>
     <library name="less (v2.6.0, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/less-2.6.0/bin" />
@@ -3984,6 +4008,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/letter_opener-1.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="letter_opener (v1.4.1, RVM: ruby-2.3.3 [live_voice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/letter_opener-1.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/letter_opener-1.4.1/lib" />
       </SOURCES>
     </library>
     <library name="libv8 (v3.16.14.15, RVM: ruby-2.2.4) [gem]">
@@ -5594,6 +5626,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pry-rails-0.3.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pry-rails-0.3.4/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="public_suffix (v2.0.5, RVM: ruby-2.3.3 [live_voice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/public_suffix-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/public_suffix-2.0.5/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/public_suffix-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/public_suffix-2.0.5/data" />
       </SOURCES>
     </library>
     <library name="puma (v3.6.0, RVM: ruby-2.2.4) [gem]">
