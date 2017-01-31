@@ -922,10 +922,12 @@
     </library>
     <library name="bcrypt (v3.1.11, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/bcrypt-3.1.11/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
@@ -1348,11 +1350,13 @@
     </library>
     <library name="byebug (v9.0.6, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/9.0.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/byebug-9.0.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/byebug-9.0.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/byebug-9.0.6/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/9.0.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/byebug-9.0.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/byebug-9.0.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/byebug-9.0.6/lib" />
@@ -1364,6 +1368,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/callsite-0.0.11/lib" />
+      </SOURCES>
+    </library>
+    <library name="callsite (v0.0.11, RVM: ruby-2.3.3 [live_voice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/callsite-0.0.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/callsite-0.0.11/lib" />
       </SOURCES>
     </library>
     <library name="cancancan (v1.15.0, RVM: ruby-2.3.1 [timeline-2.3.1]) [gem]">
@@ -2016,10 +2028,12 @@
     </library>
     <library name="debug_inspector (v0.0.2, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/debug_inspector-0.0.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/debug_inspector-0.0.2/lib" />
       </SOURCES>
@@ -2854,12 +2868,14 @@
     </library>
     <library name="ffi (v1.9.17, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.17" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/ffi-1.9.17/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/ffi-1.9.17/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/ffi-1.9.17/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/ffi-1.9.17/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.17" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/ffi-1.9.17/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/ffi-1.9.17/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/ffi-1.9.17/lib" />
@@ -3974,11 +3990,13 @@
     </library>
     <library name="kgio (v2.11.0, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/kgio/2.11.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/kgio-2.11.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/kgio-2.11.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/kgio-2.11.0/archive" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/kgio/2.11.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/kgio-2.11.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/kgio-2.11.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/kgio-2.11.0/archive" />
@@ -4136,11 +4154,13 @@
     </library>
     <library name="libv8 (v3.16.14.17, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/libv8/3.16.14.17" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/libv8-3.16.14.17-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/libv8-3.16.14.17-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/libv8-3.16.14.17-x86_64-linux/vendor" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/libv8/3.16.14.17" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/libv8-3.16.14.17-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/libv8-3.16.14.17-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/libv8-3.16.14.17-x86_64-linux/vendor" />
@@ -4390,6 +4410,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/meta_request-0.3.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="meta_request (v0.4.0, RVM: ruby-2.3.3 [live_voice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/meta_request-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/meta_request-0.4.0/lib" />
       </SOURCES>
     </library>
     <library name="method_source (v0.8.2, RVM: ruby-2.1.3) [gem]">
@@ -5114,11 +5142,13 @@
     </library>
     <library name="nio4r (v1.2.1, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/1.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/nio4r-1.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/nio4r-1.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/nio4r-1.2.1/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/1.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/nio4r-1.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/nio4r-1.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/nio4r-1.2.1/tasks" />
@@ -5240,6 +5270,7 @@
     </library>
     <library name="nokogiri (v1.7.0.1, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.7.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/nokogiri-1.7.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/nokogiri-1.7.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/nokogiri-1.7.0.1/lib" />
@@ -5248,6 +5279,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/nokogiri-1.7.0.1/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.7.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/nokogiri-1.7.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/nokogiri-1.7.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/nokogiri-1.7.0.1/lib" />
@@ -5534,11 +5566,13 @@
     </library>
     <library name="pg (v0.19.0, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.19.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/pg-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/pg-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/pg-0.19.0/sample" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.19.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/pg-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/pg-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/pg-0.19.0/sample" />
@@ -5804,12 +5838,14 @@
     </library>
     <library name="puma (v3.6.2, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.6.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/puma-3.6.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/puma-3.6.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/puma-3.6.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/puma-3.6.2/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.6.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/puma-3.6.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/puma-3.6.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/puma-3.6.2/lib" />
@@ -6014,6 +6050,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/rack-cache-1.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-contrib (v1.2.0, RVM: ruby-2.3.3 [live_voice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rack-contrib-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rack-contrib-1.2.0/lib" />
       </SOURCES>
     </library>
     <library name="rack-contrib (v1.3.0, RVM: ruby-2.1.3) [gem]">
@@ -6510,11 +6554,13 @@
     </library>
     <library name="raindrops (v0.17.0, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/raindrops/0.17.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/raindrops-0.17.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/raindrops-0.17.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/raindrops-0.17.0/archive" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/raindrops/0.17.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/raindrops-0.17.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/raindrops-0.17.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/raindrops-0.17.0/archive" />
@@ -6768,11 +6814,13 @@
     </library>
     <library name="rb-fsevent (v0.9.8, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rb-fsevent-0.9.8/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rb-fsevent-0.9.8/lib" />
@@ -8954,10 +9002,12 @@
     </library>
     <library name="therubyracer (v0.12.3, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/therubyracer-0.12.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/therubyracer-0.12.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/therubyracer-0.12.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/therubyracer-0.12.3/lib" />
       </SOURCES>
@@ -9552,6 +9602,7 @@
     </library>
     <library name="unicorn (v5.2.0, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/unicorn/5.2.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/unicorn-5.2.0/t" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/unicorn-5.2.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/unicorn-5.2.0/ext" />
@@ -9561,6 +9612,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/unicorn-5.2.0/Documentation" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/unicorn/5.2.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/unicorn-5.2.0/t" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/unicorn-5.2.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/unicorn-5.2.0/ext" />
@@ -9732,10 +9784,12 @@
     </library>
     <library name="websocket-driver (v0.6.4, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/websocket-driver/0.6.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/websocket-driver-0.6.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/websocket-driver-0.6.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/websocket-driver/0.6.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/websocket-driver-0.6.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/websocket-driver-0.6.4/lib" />
       </SOURCES>
