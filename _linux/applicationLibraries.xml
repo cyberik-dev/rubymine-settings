@@ -1934,6 +1934,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@timeline-2.3.1/gems/debase-0.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.1, RVM: ruby-2.3.3 [live_voice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/debase-0.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/debase-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/debase-0.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/debase-0.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.2.beta9, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/debase-0.2.2.beta9/ext" />
@@ -1954,6 +1964,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@timeline-2.3.1/gems/debase-0.2.2.beta9/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2.beta9, RVM: ruby-2.3.3 [live_voice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/debase-0.2.2.beta9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/debase-0.2.2.beta9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/debase-0.2.2.beta9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/debase-0.2.2.beta9/lib" />
+      </SOURCES>
+    </library>
     <library name="debase-ruby_core_source (v0.9.4, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/debase-ruby_core_source-0.9.4/lib" />
@@ -1968,6 +1988,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@timeline-2.3.1/gems/debase-ruby_core_source-0.9.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.9.6, RVM: ruby-2.3.3 [live_voice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/debase-ruby_core_source-0.9.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/debase-ruby_core_source-0.9.6/lib" />
       </SOURCES>
     </library>
     <library name="debug_inspector (v0.0.2, RVM: ruby-2.2.4) [gem]">
@@ -7610,6 +7638,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@timeline-2.3.1/gems/ruby-debug-ide-0.6.1.beta3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@timeline-2.3.1/gems/ruby-debug-ide-0.6.1.beta3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@timeline-2.3.1/gems/ruby-debug-ide-0.6.1.beta3/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1.beta3, RVM: ruby-2.3.3 [live_voice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/ruby-debug-ide-0.6.1.beta3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/ruby-debug-ide-0.6.1.beta3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/ruby-debug-ide-0.6.1.beta3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/ruby-debug-ide-0.6.1.beta3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/ruby-debug-ide-0.6.1.beta3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/ruby-debug-ide-0.6.1.beta3/lib" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.8.1, RVM: ruby-2.2.4) [gem]">
