@@ -520,6 +520,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/activerecord-5.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord5-redshift-adapter (v0.0.1, RVM: ruby-2.3.3 [live_voice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/activerecord5-redshift-adapter-0.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/activerecord5-redshift-adapter-0.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activeresource (v3.2.15, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/activeresource-3.2.15/lib" />
