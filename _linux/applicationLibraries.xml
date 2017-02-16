@@ -812,6 +812,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/airbrussh-1.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="airbrussh (v1.1.2, RVM: ruby-2.3.3 [lasertag]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/airbrussh-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/airbrussh-1.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/airbrussh-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/airbrussh-1.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="airbrussh (v1.1.2, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/airbrussh-1.1.2/bin" />
@@ -1620,6 +1630,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capistrano-3.6.1/features" />
       </SOURCES>
     </library>
+    <library name="capistrano (v3.7.1, RVM: ruby-2.3.3 [lasertag]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano-3.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano-3.7.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano-3.7.1/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano-3.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano-3.7.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano-3.7.1/features" />
+      </SOURCES>
+    </library>
     <library name="capistrano (v3.7.1, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/capistrano-3.7.1/bin" />
@@ -1650,6 +1674,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capistrano-bundler-1.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-bundler (v1.2.0, RVM: ruby-2.3.3 [lasertag]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano-bundler-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano-bundler-1.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-bundler (v1.2.0, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/capistrano-bundler-1.2.0/lib" />
@@ -1678,6 +1710,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capistrano-harrow-0.5.3/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-harrow (v0.5.3, RVM: ruby-2.3.3 [lasertag]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano-harrow-0.5.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano-harrow-0.5.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano-harrow-0.5.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano-harrow-0.5.3/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-harrow (v0.5.3, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/capistrano-harrow-0.5.3/bin" />
@@ -1704,6 +1746,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capistrano-rails-1.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-rails (v1.2.2, RVM: ruby-2.3.3 [lasertag]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano-rails-1.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano-rails-1.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-rails (v1.2.2, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/capistrano-rails-1.2.2/lib" />
@@ -1726,6 +1776,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capistrano-rails-console-2.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-rails-console (v2.2.0, RVM: ruby-2.3.3 [lasertag]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano-rails-console-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano-rails-console-2.2.0/lib" />
       </SOURCES>
     </library>
     <library name="capistrano-rails-console (v2.2.0, RVM: ruby-2.3.3 [live_voice]) [gem]">
@@ -1752,6 +1810,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capistrano-rvm-0.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-rvm (v0.1.2, RVM: ruby-2.3.3 [lasertag]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano-rvm-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano-rvm-0.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-rvm (v0.1.2, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/capistrano-rvm-0.1.2/lib" />
@@ -1774,6 +1840,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capistrano3-puma-1.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano3-unicorn (v0.2.1, RVM: ruby-2.3.3 [lasertag]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano3-unicorn-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/capistrano3-unicorn-0.2.1/lib" />
       </SOURCES>
     </library>
     <library name="capistrano3-unicorn (v0.2.1, RVM: ruby-2.3.3 [live_voice]) [gem]">
@@ -5708,6 +5782,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/net-scp-1.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="net-scp (v1.2.1, RVM: ruby-2.3.3 [lasertag]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/net-scp-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/net-scp-1.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="net-scp (v1.2.1, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/net-scp-1.2.1/lib" />
@@ -5734,6 +5816,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/net-ssh-3.2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/net-ssh-3.2.0/support" />
+      </SOURCES>
+    </library>
+    <library name="net-ssh (v4.0.1, RVM: ruby-2.3.3 [lasertag]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/net-ssh-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/net-ssh-4.0.1/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/net-ssh-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/net-ssh-4.0.1/support" />
       </SOURCES>
     </library>
     <library name="net-ssh (v4.0.1, RVM: ruby-2.3.3 [live_voice]) [gem]">
@@ -9866,6 +9958,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/sshkit-1.11.5/lib" />
       </SOURCES>
     </library>
+    <library name="sshkit (v1.12.0, RVM: ruby-2.3.3 [lasertag]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/sshkit-1.12.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/sshkit-1.12.0/lib" />
+      </SOURCES>
+    </library>
     <library name="sshkit-interactive (v0.2.0, RVM: ruby-2.3.1 [timeline-2.3.1]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@timeline-2.3.1/gems/sshkit-interactive-0.2.0/lib" />
@@ -9880,6 +9980,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sshkit-interactive-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sshkit-interactive (v0.2.0, RVM: ruby-2.3.3 [lasertag]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/sshkit-interactive-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/sshkit-interactive-0.2.0/lib" />
       </SOURCES>
     </library>
     <library name="sshkit-interactive (v0.2.0, RVM: ruby-2.3.3 [live_voice]) [gem]">
