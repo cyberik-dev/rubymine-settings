@@ -4692,6 +4692,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/kaminari-core-1.0.1/config" />
       </SOURCES>
     </library>
+    <library name="kgio (v2.11.0, RVM: ruby-2.3.3 [lasertag]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/kgio/2.11.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/kgio-2.11.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/kgio-2.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/kgio-2.11.0/archive" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/kgio/2.11.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/kgio-2.11.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/kgio-2.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/kgio-2.11.0/archive" />
+      </SOURCES>
+    </library>
     <library name="kgio (v2.11.0, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/kgio/2.11.0" />
@@ -7576,6 +7590,20 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/raindrops-0.13.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/raindrops-0.13.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="raindrops (v0.17.0, RVM: ruby-2.3.3 [lasertag]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/raindrops/0.17.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/raindrops-0.17.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/raindrops-0.17.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/raindrops-0.17.0/archive" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/raindrops/0.17.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/raindrops-0.17.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/raindrops-0.17.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/raindrops-0.17.0/archive" />
       </SOURCES>
     </library>
     <library name="raindrops (v0.17.0, RVM: ruby-2.3.3 [live_voice]) [gem]">
@@ -10998,6 +11026,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/unicorn-4.8.3/script" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/unicorn-4.8.3/archive" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/unicorn-4.8.3/Documentation" />
+      </SOURCES>
+    </library>
+    <library name="unicorn (v5.2.0, RVM: ruby-2.3.3 [lasertag]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/unicorn/5.2.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/unicorn-5.2.0/t" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/unicorn-5.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/unicorn-5.2.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/unicorn-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/unicorn-5.2.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/unicorn-5.2.0/archive" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/unicorn-5.2.0/Documentation" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/unicorn/5.2.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/unicorn-5.2.0/t" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/unicorn-5.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/unicorn-5.2.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/unicorn-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/unicorn-5.2.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/unicorn-5.2.0/archive" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/unicorn-5.2.0/Documentation" />
       </SOURCES>
     </library>
     <library name="unicorn (v5.2.0, RVM: ruby-2.3.3 [live_voice]) [gem]">
