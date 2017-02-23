@@ -332,6 +332,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/bundler/gems/activeadmin-66b74fb9c08f/gemfiles" />
       </SOURCES>
     </library>
+    <library name="activeadmin (v1.0.0.pre4@9541d9, RVM: ruby-2.3.3 [lasertag]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/bundler/gems/activeadmin-9541d9a33679/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/bundler/gems/activeadmin-9541d9a33679/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/bundler/gems/activeadmin-9541d9a33679/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/bundler/gems/activeadmin-9541d9a33679/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/bundler/gems/activeadmin-9541d9a33679/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/bundler/gems/activeadmin-9541d9a33679/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/bundler/gems/activeadmin-9541d9a33679/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/bundler/gems/activeadmin-9541d9a33679/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/bundler/gems/activeadmin-9541d9a33679/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/bundler/gems/activeadmin-9541d9a33679/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/bundler/gems/activeadmin-9541d9a33679/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/bundler/gems/activeadmin-9541d9a33679/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/bundler/gems/activeadmin-9541d9a33679/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/bundler/gems/activeadmin-9541d9a33679/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="activejob (v5.0.0.1, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/activejob-5.0.0.1/lib" />
