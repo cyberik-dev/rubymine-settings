@@ -636,6 +636,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/activerecord-5.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord-sqlserver-adapter (v5.0.4, RVM: ruby-2.3.3 [live_voice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/activerecord-sqlserver-adapter-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/activerecord-sqlserver-adapter-5.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord5-redshift-adapter (v0.0.1, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/activerecord5-redshift-adapter-0.0.1/lib" />
@@ -1030,6 +1038,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/awesome_nested_set-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="awesome_print (v1.7.0, RVM: ruby-2.3.3 [live_voice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/awesome_print-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/awesome_print-1.7.0/lib" />
       </SOURCES>
     </library>
     <library name="axiom-types (v0.1.1, RVM: ruby-2.3.3 [lasertag]) [gem]">
@@ -2782,6 +2798,24 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/diffy-3.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="dotenv (v2.2.0, RVM: ruby-2.3.3 [live_voice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/dotenv-2.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/dotenv-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/dotenv-2.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/dotenv-2.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="dotenv-rails (v2.2.0, RVM: ruby-2.3.3 [live_voice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/dotenv-rails-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/dotenv-rails-2.2.0/lib" />
       </SOURCES>
     </library>
     <library name="dragonfly (v0.9.15, RVM: ruby-2.1.3) [gem]">
@@ -8850,6 +8884,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/rubocop-0.47.1/config" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.47.1, RVM: ruby-2.3.3 [live_voice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rubocop-0.47.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rubocop-0.47.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rubocop-0.47.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rubocop-0.47.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rubocop-0.47.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rubocop-0.47.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rubocop-0.47.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rubocop-0.47.1/config" />
+      </SOURCES>
+    </library>
     <library name="ruby-debug-ide (v0.6.1.beta3, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/ruby-debug-ide-0.6.1.beta3/bin" />
@@ -8908,6 +8956,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/ruby-progressbar-1.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.8.1, RVM: ruby-2.3.3 [live_voice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/ruby-progressbar-1.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/ruby-progressbar-1.8.1/lib" />
       </SOURCES>
     </library>
     <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.1.3 [global]) [gem]">
@@ -10750,6 +10806,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/tilt-2.0.6/man" />
       </SOURCES>
     </library>
+    <library name="tiny_tds (v1.1.0, RVM: ruby-2.3.3 [live_voice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/tiny_tds-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/tiny_tds-1.1.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/tiny_tds-1.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/tiny_tds-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/tiny_tds-1.1.0/ports" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/tiny_tds-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/tiny_tds-1.1.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/tiny_tds-1.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/tiny_tds-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/tiny_tds-1.1.0/ports" />
+      </SOURCES>
+    </library>
     <library name="tool (v0.2.3, RVM: ruby-2.3.3 [lasertag]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/tool-0.2.3/lib" />
@@ -11076,6 +11148,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/unicode-display_width-1.1.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/unicode-display_width-1.1.3/data" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v1.1.3, RVM: ruby-2.3.3 [live_voice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/unicode-display_width-1.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/unicode-display_width-1.1.3/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/unicode-display_width-1.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/unicode-display_width-1.1.3/data" />
       </SOURCES>
     </library>
     <library name="unicorn (v4.8.3, RVM: ruby-2.1.3) [gem]">
