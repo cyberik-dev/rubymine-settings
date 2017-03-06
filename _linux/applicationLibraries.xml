@@ -10808,6 +10808,7 @@
     </library>
     <library name="tiny_tds (v1.1.0, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/tiny_tds/1.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/tiny_tds-1.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/tiny_tds-1.1.0/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/tiny_tds-1.1.0/ext" />
@@ -10815,6 +10816,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/tiny_tds-1.1.0/ports" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/tiny_tds/1.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/tiny_tds-1.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/tiny_tds-1.1.0/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/tiny_tds-1.1.0/ext" />
