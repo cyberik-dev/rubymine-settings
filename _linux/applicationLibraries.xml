@@ -5400,6 +5400,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/hike-1.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="hirb-unicode (v0.0.5, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/hirb-unicode-0.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/hirb-unicode-0.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="html2haml (v2.1.0, RVM: ruby-2.3.1 [mpp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/html2haml-2.1.0/bin" />
