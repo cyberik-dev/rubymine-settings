@@ -1288,6 +1288,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/awesome_nested_set-3.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="awesome_print (v1.7.0, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/awesome_print-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/awesome_print-1.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="awesome_print (v1.7.0, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/awesome_print-1.7.0/lib" />
@@ -5398,6 +5406,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/hike-1.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="hirb (v0.7.3, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/hirb-0.7.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/hirb-0.7.3/lib" />
       </SOURCES>
     </library>
     <library name="hirb-unicode (v0.0.5, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
@@ -15410,6 +15426,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/unf_ext-0.0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/unf_ext-0.0.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v0.1.1, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/unicode-display_width-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/unicode-display_width-0.1.1/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/unicode-display_width-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/unicode-display_width-0.1.1/data" />
       </SOURCES>
     </library>
     <library name="unicode-display_width (v1.1.1, RVM: ruby-2.2.4) [gem]">
