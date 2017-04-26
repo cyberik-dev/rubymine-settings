@@ -96,6 +96,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/actionmailer-4.1.14/lib" />
       </SOURCES>
     </library>
+    <library name="actionmailer (v4.1.9, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/actionmailer-4.1.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/actionmailer-4.1.9/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v4.2.1, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/actionmailer-4.2.1/lib" />
@@ -200,6 +208,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/actionpack-4.1.14/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v4.1.9, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/actionpack-4.1.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/actionpack-4.1.9/lib" />
+      </SOURCES>
+    </library>
     <library name="actionpack (v4.2.1, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/actionpack-4.2.1/lib" />
@@ -286,6 +302,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/actionview-4.1.14/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v4.1.9, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/actionview-4.1.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/actionview-4.1.9/lib" />
       </SOURCES>
     </library>
     <library name="actionview (v4.2.1, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
@@ -540,6 +564,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/activemodel-4.1.14/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel (v4.1.9, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/activemodel-4.1.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/activemodel-4.1.9/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v4.2.1, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/activemodel-4.2.1/lib" />
@@ -666,6 +698,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/activerecord-4.1.14/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v4.1.9, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/activerecord-4.1.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/activerecord-4.1.9/lib" />
       </SOURCES>
     </library>
     <library name="activerecord (v4.2.1, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
@@ -828,6 +868,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/activesupport-4.1.14/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v4.1.9, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/activesupport-4.1.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/activesupport-4.1.9/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v4.2.1, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/activesupport-4.2.1/lib" />
@@ -928,6 +976,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/acts_as_indexed-0.8.3/gemfiles" />
       </SOURCES>
     </library>
+    <library name="acts_as_indexed (v0.8.3, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/acts_as_indexed-0.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/acts_as_indexed-0.8.3/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/acts_as_indexed-0.8.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/acts_as_indexed-0.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/acts_as_indexed-0.8.3/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/acts_as_indexed-0.8.3/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="acts_as_indexed (v0.8.3, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/acts_as_indexed-0.8.3/lib" />
@@ -964,6 +1024,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/bundler/gems/adaptivepayments-sdk-ruby-5c53863163db/samples/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/bundler/gems/adaptivepayments-sdk-ruby-5c53863163db/samples/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/bundler/gems/adaptivepayments-sdk-ruby-5c53863163db/samples/script" />
+      </SOURCES>
+    </library>
+    <library name="addressable (v2.3.7, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/addressable-2.3.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/addressable-2.3.7/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/addressable-2.3.7/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/addressable-2.3.7/website" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/addressable-2.3.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/addressable-2.3.7/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/addressable-2.3.7/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/addressable-2.3.7/website" />
       </SOURCES>
     </library>
     <library name="addressable (v2.4.0, RVM: ruby-2.2.4) [gem]">
@@ -1106,6 +1180,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/arel-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="arel (v5.0.1.20140414130214, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/arel-5.0.1.20140414130214/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/arel-5.0.1.20140414130214/lib" />
       </SOURCES>
     </library>
     <library name="arel (v5.0.1.20140414130214, RVM: ruby-2.2.4) [gem]">
@@ -1280,6 +1362,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/awesome_nested_set-2.1.6/lib" />
       </SOURCES>
     </library>
+    <library name="awesome_nested_set (v3.0.2, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/awesome_nested_set-3.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/awesome_nested_set-3.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="awesome_nested_set (v3.0.3, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/awesome_nested_set-3.0.3/lib" />
@@ -1368,12 +1458,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/babosa-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="babosa (v1.0.2, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/babosa-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/babosa-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="babosa (v1.0.2, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/babosa-1.0.2/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/babosa-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="bcrypt (v3.1.10, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/bcrypt/3.1.10" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/bcrypt-3.1.10/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/bcrypt-3.1.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/bcrypt/3.1.10" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/bcrypt-3.1.10/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/bcrypt-3.1.10/lib" />
       </SOURCES>
     </library>
     <library name="bcrypt (v3.1.11, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
@@ -1492,6 +1602,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/bcrypt-ruby-3.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="better_errors (v2.1.1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/better_errors-2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/better_errors-2.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="better_errors (v2.1.1, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/better_errors-2.1.1/lib" />
@@ -1506,6 +1624,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/better_errors-2.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="binding_of_caller (v0.7.2, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/binding_of_caller/0.7.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/binding_of_caller-0.7.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/binding_of_caller-0.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/binding_of_caller/0.7.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/binding_of_caller-0.7.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/binding_of_caller-0.7.2/lib" />
       </SOURCES>
     </library>
     <library name="binding_of_caller (v0.7.2, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
@@ -1686,6 +1816,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/builder-3.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="builder (v3.2.2, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/builder-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/builder-3.2.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/builder-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/builder-3.2.2/rakelib" />
       </SOURCES>
     </library>
     <library name="builder (v3.2.2, RVM: ruby-2.2.4) [gem]">
@@ -1964,6 +2104,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@global/gems/bundler-1.7.3/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.8.4, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/bundler-1.8.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/bundler-1.8.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/bundler-1.8.4/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/bundler-1.8.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/bundler-1.8.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/bundler-1.8.4/man" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.8.4, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/bundler-1.8.4/bin" />
@@ -1990,6 +2142,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@global/gems/bundler-unload-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="bundler-unload (v1.0.2, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/bundler-unload-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/bundler-unload-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="bundler-unload (v1.0.2, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
@@ -2292,6 +2452,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/cancancan-1.16.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="capistrano (v2.15.5, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/capistrano-2.15.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/capistrano-2.15.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/capistrano-2.15.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/capistrano-2.15.5/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano (v3.6.1, RVM: ruby-2.3.1 [timeline-2.3.1]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@timeline-2.3.1/gems/capistrano-3.6.1/bin" />
@@ -2396,6 +2566,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/capistrano-bundler-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-ext (v1.2.1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/capistrano-ext-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/capistrano-ext-1.2.1/lib" />
       </SOURCES>
     </library>
     <library name="capistrano-harrow (v0.5.3, RVM: ruby-2.3.1 [mpp]) [gem]">
@@ -2790,6 +2968,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/coderay-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="coderay (v1.1.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/coderay-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/coderay-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/coderay-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/coderay-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="coderay (v1.1.1, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/coderay-1.1.1/bin" />
@@ -2876,6 +3064,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/coffee-rails-3.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="coffee-rails (v4.0.1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/coffee-rails-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/coffee-rails-4.0.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/coffee-rails-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/coffee-rails-4.0.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="coffee-rails (v4.0.1, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/coffee-rails-4.0.1/lib" />
@@ -2940,6 +3138,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/coffee-script-2.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-script (v2.3.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/coffee-script-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/coffee-script-2.3.0/lib" />
       </SOURCES>
     </library>
     <library name="coffee-script (v2.4.1, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
@@ -3044,6 +3250,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/coffee-script-source-1.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-script-source (v1.9.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/coffee-script-source-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/coffee-script-source-1.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="combine_pdf (v0.2.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/combine_pdf-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/combine_pdf-0.2.0/lib" />
       </SOURCES>
     </library>
     <library name="commonjs (v0.2.7, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
@@ -3164,6 +3386,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/connection_pool-2.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="constantcontact (v2.2.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/constantcontact-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/constantcontact-2.2.0/lib" />
       </SOURCES>
     </library>
     <library name="crack (v0.4.3, RVM: ruby-2.3.1 [mpp]) [gem]">
@@ -3336,6 +3566,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/debase-ruby_core_source-0.9.8/lib" />
       </SOURCES>
     </library>
+    <library name="debug_inspector (v0.0.2, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/debug_inspector/0.0.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/debug_inspector-0.0.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/debug_inspector-0.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/debug_inspector/0.0.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/debug_inspector-0.0.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/debug_inspector-0.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="debug_inspector (v0.0.2, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/debug_inspector/0.0.2" />
@@ -3452,6 +3694,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/decorators-1.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="decorators (v2.0.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/decorators-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/decorators-2.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="decorators (v2.0.2, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/decorators-2.0.2/lib" />
@@ -3534,6 +3784,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/devise-2.2.8/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/devise-2.2.8/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/devise-2.2.8/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="devise (v3.4.1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/devise-3.4.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/devise-3.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/devise-3.4.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/devise-3.4.1/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/devise-3.4.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/devise-3.4.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/devise-3.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/devise-3.4.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/devise-3.4.1/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/devise-3.4.1/gemfiles" />
       </SOURCES>
     </library>
     <library name="devise (v4.2.0, RVM: ruby-2.2.4) [gem]">
@@ -3900,6 +4166,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/domain_name-0.5.20170223/tool" />
       </SOURCES>
     </library>
+    <library name="domain_name (v0.5.24, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/domain_name-0.5.24/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/domain_name-0.5.24/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/domain_name-0.5.24/tool" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/domain_name-0.5.24/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/domain_name-0.5.24/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/domain_name-0.5.24/tool" />
+      </SOURCES>
+    </library>
     <library name="dotenv (v2.2.0, RVM: ruby-2.3.1 [mpp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/dotenv-2.2.0/bin" />
@@ -3990,12 +4268,34 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/dragonfly-1.0.12/samples" />
       </SOURCES>
     </library>
+    <library name="dragonfly (v1.0.7, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/dragonfly-1.0.7/dev" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/dragonfly-1.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/dragonfly-1.0.7/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/dragonfly-1.0.7/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/dragonfly-1.0.7/dev" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/dragonfly-1.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/dragonfly-1.0.7/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/dragonfly-1.0.7/samples" />
+      </SOURCES>
+    </library>
     <library name="draper (v3.0.0.pre1@0bb5cd, RVM: ruby-2.3.1 [mpp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/bundler/gems/draper-0bb5cded888d/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/bundler/gems/draper-0bb5cded888d/lib" />
+      </SOURCES>
+    </library>
+    <library name="email_validator (v1.5.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/email_validator-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/email_validator-1.5.0/lib" />
       </SOURCES>
     </library>
     <library name="equalizer (v0.0.11, RVM: ruby-2.3.1 [mpp]) [gem]">
@@ -4040,6 +4340,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/erubis-2.7.0/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/erubis-2.7.0/doc-api" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/erubis-2.7.0/benchmark" />
+      </SOURCES>
+    </library>
+    <library name="erubis (v2.7.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/erubis-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/erubis-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/erubis-2.7.0/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/erubis-2.7.0/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/erubis-2.7.0/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/erubis-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/erubis-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/erubis-2.7.0/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/erubis-2.7.0/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/erubis-2.7.0/benchmark" />
       </SOURCES>
     </library>
     <library name="erubis (v2.7.0, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
@@ -4272,6 +4588,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/execjs-2.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="execjs (v2.3.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/execjs-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/execjs-2.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="execjs (v2.7.0, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/execjs-2.7.0/lib" />
@@ -4366,6 +4690,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@global/gems/executable-hooks-1.3.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@global/gems/executable-hooks-1.3.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@global/gems/executable-hooks-1.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="executable-hooks (v1.3.2, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/executable-hooks-1.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/executable-hooks-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/executable-hooks-1.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/executable-hooks-1.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/executable-hooks-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/executable-hooks-1.3.2/lib" />
       </SOURCES>
     </library>
     <library name="executable-hooks (v1.3.2, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
@@ -4828,6 +5164,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/ffi-1.9.18/libtest" />
       </SOURCES>
     </library>
+    <library name="figaro (v1.1.1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/figaro-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/figaro-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/figaro-1.1.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/figaro-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/figaro-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/figaro-1.1.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="figaro (v1.1.1, RVM: ruby-2.3.1 [timeline-2.3.1]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@timeline-2.3.1/gems/figaro-1.1.1/bin" />
@@ -4964,6 +5312,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/friendly_id-4.0.10.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="friendly_id (v5.0.5, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/friendly_id-5.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/friendly_id-5.0.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/friendly_id-5.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/friendly_id-5.0.5/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="friendly_id (v5.1.0, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/friendly_id-5.1.0/lib" />
@@ -4982,6 +5340,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/fullcalendar-rails-2.0.2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/fullcalendar-rails-2.0.2.0/vendor" />
+      </SOURCES>
+    </library>
+    <library name="fullcalendar-rails (v2.3.1.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/fullcalendar-rails-2.3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/fullcalendar-rails-2.3.1.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/fullcalendar-rails-2.3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/fullcalendar-rails-2.3.1.0/vendor" />
       </SOURCES>
     </library>
     <library name="gem-wrappers (v1.2.5, RVM: ruby-2.1.3 [global]) [gem]">
@@ -5022,6 +5390,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@global/gems/gem-wrappers-1.2.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@global/gems/gem-wrappers-1.2.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="gem-wrappers (v1.2.7, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/gem-wrappers-1.2.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/gem-wrappers-1.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/gem-wrappers-1.2.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/gem-wrappers-1.2.7/lib" />
       </SOURCES>
     </library>
     <library name="gem-wrappers (v1.2.7, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
@@ -5248,6 +5626,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/globalize-3.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="globalize (v4.0.3, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/globalize-4.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/globalize-4.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="globalize (v5.0.1, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/globalize-5.0.1/lib" />
@@ -5392,12 +5778,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/headless-2.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="highline (v1.7.2, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/highline-1.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/highline-1.7.2/site" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/highline-1.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/highline-1.7.2/site" />
+      </SOURCES>
+    </library>
     <library name="hike (v1.2.3, RVM: ruby-2.1.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/hike-1.2.3/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/hike-1.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="hike (v1.2.3, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/hike-1.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/hike-1.2.3/lib" />
       </SOURCES>
     </library>
     <library name="hike (v1.2.3, RVM: ruby-2.2.4) [gem]">
@@ -5462,6 +5866,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/http-2.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="http-cookie (v1.0.2, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/http-cookie-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/http-cookie-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="http-cookie (v1.0.3, RVM: ruby-2.3.1 [mpp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/http-cookie-1.0.3/lib" />
@@ -5504,6 +5916,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/http_parser.rb-0.6.0/tasks" />
       </SOURCES>
     </library>
+    <library name="httpclient (v2.6.0.1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/httpclient-2.6.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/httpclient-2.6.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/httpclient-2.6.0.1/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/httpclient-2.6.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/httpclient-2.6.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/httpclient-2.6.0.1/sample" />
+      </SOURCES>
+    </library>
     <library name="i18n (v0.7.0, RVM: ruby-2.1.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/i18n-0.7.0/lib" />
@@ -5512,6 +5936,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/i18n-0.7.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/i18n-0.7.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v0.7.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/i18n-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/i18n-0.7.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/i18n-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/i18n-0.7.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="i18n (v0.7.0, RVM: ruby-2.2.4) [gem]">
@@ -5638,6 +6072,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/ice_nine-0.11.2/benchmarks" />
       </SOURCES>
     </library>
+    <library name="impressionist (v1.5.1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/impressionist-1.5.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/impressionist-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/impressionist-1.5.1/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/impressionist-1.5.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/impressionist-1.5.1/upgrade_migrations" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/impressionist-1.5.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/impressionist-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/impressionist-1.5.1/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/impressionist-1.5.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/impressionist-1.5.1/upgrade_migrations" />
+      </SOURCES>
+    </library>
     <library name="inflection (v1.0.0, RVM: ruby-2.3.1 [mpp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/inflection-1.0.0/lib" />
@@ -5664,6 +6114,72 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/inherited_resources-1.7.0/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/inherited_resources-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="io-console (v0.4.3, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rake" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/x86_64-linux" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/unicode_normalize" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rake" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/x86_64-linux" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
     <library name="io-console (v0.4.3, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
@@ -6318,6 +6834,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/io-like-0.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="jbuilder (v2.2.6, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/jbuilder-2.2.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/jbuilder-2.2.6/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/jbuilder-2.2.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/jbuilder-2.2.6/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="jbuilder (v2.6.0, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/jbuilder-2.6.0/lib" />
@@ -6432,6 +6958,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/journey-1.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="jquery-qtip2-rails (v0.5.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/jquery-qtip2-rails-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/jquery-qtip2-rails-0.5.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/jquery-qtip2-rails-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/jquery-qtip2-rails-0.5.0/vendor" />
+      </SOURCES>
+    </library>
     <library name="jquery-rails (v2.3.0, RVM: ruby-2.1.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/jquery-rails-2.3.0/lib" />
@@ -6450,6 +6986,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/jquery-rails-2.3.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/jquery-rails-2.3.0/vendor" />
+      </SOURCES>
+    </library>
+    <library name="jquery-rails (v3.1.2, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/jquery-rails-3.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/jquery-rails-3.1.2/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/jquery-rails-3.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/jquery-rails-3.1.2/vendor" />
       </SOURCES>
     </library>
     <library name="jquery-rails (v3.1.4, RVM: ruby-2.2.4) [gem]">
@@ -6552,6 +7098,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/jquery-rails-4.3.1/vendor" />
       </SOURCES>
     </library>
+    <library name="jquery-ui-rails (v5.0.3, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/jquery-ui-rails-5.0.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/jquery-ui-rails-5.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/jquery-ui-rails-5.0.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/jquery-ui-rails-5.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="jquery-ui-rails (v5.0.5, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/jquery-ui-rails-5.0.5/app" />
@@ -6630,6 +7186,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/json-1.8.2/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/json-1.8.2/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/json-1.8.2/diagrams" />
+      </SOURCES>
+    </library>
+    <library name="json (v1.8.2, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/json-1.8.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/json-1.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/json-1.8.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/json-1.8.2/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/json-1.8.2/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/json-1.8.2/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/json-1.8.2/diagrams" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/json-1.8.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/json-1.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/json-1.8.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/json-1.8.2/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/json-1.8.2/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/json-1.8.2/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/json-1.8.2/diagrams" />
       </SOURCES>
     </library>
     <library name="json (v1.8.3, RVM: ruby-2.2.4) [gem]">
@@ -6900,6 +7478,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/kgio-2.9.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/kgio-2.9.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/kgio-2.9.3/archive" />
+      </SOURCES>
+    </library>
+    <library name="kgio (v2.9.3, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/kgio/2.9.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/kgio-2.9.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/kgio-2.9.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/kgio-2.9.3/archive" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/kgio/2.9.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/kgio-2.9.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/kgio-2.9.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/kgio-2.9.3/archive" />
       </SOURCES>
     </library>
     <library name="koala (v2.5.0, RVM: ruby-2.3.1 [mpp]) [gem]">
@@ -7370,6 +7962,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/mail-2.5.4/lib" />
       </SOURCES>
     </library>
+    <library name="mail (v2.6.3, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/mail-2.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/mail-2.6.3/lib" />
+      </SOURCES>
+    </library>
     <library name="mail (v2.6.4, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/mail-2.6.4/lib" />
@@ -7534,6 +8134,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/method_source-0.8.2/lib" />
       </SOURCES>
     </library>
+    <library name="method_source (v0.8.2, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/method_source-0.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/method_source-0.8.2/lib" />
+      </SOURCES>
+    </library>
     <library name="method_source (v0.8.2, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/method_source-0.8.2/lib" />
@@ -7612,6 +8220,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/mime-types-1.25.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="mime-types (v2.4.3, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/mime-types-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/mime-types-2.4.3/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/mime-types-2.4.3/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/mime-types-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/mime-types-2.4.3/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/mime-types-2.4.3/support" />
       </SOURCES>
     </library>
     <library name="mime-types (v3.1, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
@@ -7842,6 +8462,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/mina-multistage-1.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="mini_portile (v0.6.2, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/mini_portile-0.6.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/mini_portile-0.6.2/lib" />
+      </SOURCES>
+    </library>
     <library name="mini_portile2 (v2.1.0, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/mini_portile2-2.1.0/lib" />
@@ -7954,6 +8582,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/minitest-5.10.1/lib" />
       </SOURCES>
     </library>
+    <library name="minitest (v5.4.3, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/minitest-5.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/minitest-5.4.3/lib" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.4.3, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/minitest-5.4.3/lib" />
@@ -7968,6 +8604,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/minitest-5.4.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.5.1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/minitest-5.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/minitest-5.5.1/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.8.3, RVM: ruby-2.3.0 [global]) [gem]">
@@ -8122,6 +8766,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/momentjs-rails-2.9.0/vendor" />
       </SOURCES>
     </library>
+    <library name="momentjs-rails (v2.9.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/momentjs-rails-2.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/momentjs-rails-2.9.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/momentjs-rails-2.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/momentjs-rails-2.9.0/vendor" />
+      </SOURCES>
+    </library>
     <library name="monetize (v1.6.0, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/monetize-1.6.0/lib" />
@@ -8174,6 +8828,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/multi_json-1.10.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.10.1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/multi_json-1.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/multi_json-1.10.1/lib" />
       </SOURCES>
     </library>
     <library name="multi_json (v1.12.1, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
@@ -8372,6 +9034,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/nesty-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="net-scp (v1.2.1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/net-scp-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/net-scp-1.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="net-scp (v1.2.1, RVM: ruby-2.3.1 [mpp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/net-scp-1.2.1/lib" />
@@ -8410,6 +9080,24 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/net-scp-1.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-sftp (v2.1.2, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/net-sftp-2.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/net-sftp-2.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-ssh (v2.9.2, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/net-ssh-2.9.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/net-ssh-2.9.2/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/net-ssh-2.9.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/net-ssh-2.9.2/support" />
       </SOURCES>
     </library>
     <library name="net-ssh (v3.2.0, RVM: ruby-2.3.1 [timeline-2.3.1]) [gem]">
@@ -8460,6 +9148,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/net-ssh-4.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/net-ssh-4.1.0/support" />
+      </SOURCES>
+    </library>
+    <library name="net-ssh-gateway (v1.2.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/net-ssh-gateway-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/net-ssh-gateway-1.2.0/lib" />
       </SOURCES>
     </library>
     <library name="net-telnet (v0.1.1, RVM: ruby-2.3.0 [global]) [gem]">
@@ -8550,6 +9246,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/net-telnet-0.1.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/net-telnet-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="netrc (v0.10.3, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/netrc-0.10.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/netrc-0.10.3/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/netrc-0.10.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/netrc-0.10.3/data" />
       </SOURCES>
     </library>
     <library name="newrelic_rpm (v3.18.1.330, RVM: ruby-2.3.1 [mpp]) [gem]">
@@ -8674,6 +9380,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/nio4r-2.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/nio4r-2.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/nio4r-2.0.0/tasks" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.6.6.2, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.6.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/nokogiri-1.6.6.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/nokogiri-1.6.6.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/nokogiri-1.6.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/nokogiri-1.6.6.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/nokogiri-1.6.6.2/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.6.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/nokogiri-1.6.6.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/nokogiri-1.6.6.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/nokogiri-1.6.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/nokogiri-1.6.6.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/nokogiri-1.6.6.2/suppressions" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.6.8, RVM: ruby-2.2.4) [gem]">
@@ -9124,6 +9848,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/orm_adapter-0.5.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="orm_adapter (v0.5.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/orm_adapter-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/orm_adapter-0.5.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/orm_adapter-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/orm_adapter-0.5.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="orm_adapter (v0.5.0, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/orm_adapter-0.5.0/lib" />
@@ -9374,6 +10108,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/pg-0.18.1/sample" />
       </SOURCES>
     </library>
+    <library name="pg (v0.18.1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/0.18.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/pg-0.18.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/pg-0.18.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/pg-0.18.1/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/0.18.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/pg-0.18.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/pg-0.18.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/pg-0.18.1/sample" />
+      </SOURCES>
+    </library>
     <library name="pg (v0.18.4, RVM: ruby-2.3.1 [timeline-2.3.1]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@timeline-2.3.1/gems/pg-0.18.4/ext" />
@@ -9530,6 +10278,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/polyglot-0.3.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="power_assert (v0.2.2, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/power_assert-0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/power_assert-0.2.2/lib" />
       </SOURCES>
     </library>
     <library name="power_assert (v0.2.2, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
@@ -9692,6 +10448,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/pry-0.10.1/lib" />
       </SOURCES>
     </library>
+    <library name="pry (v0.10.1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/pry-0.10.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/pry-0.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/pry-0.10.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/pry-0.10.1/lib" />
+      </SOURCES>
+    </library>
     <library name="pry (v0.10.4, RVM: ruby-2.3.1 [mpp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/pry-0.10.4/bin" />
@@ -9732,6 +10498,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/pry-0.10.4/lib" />
       </SOURCES>
     </library>
+    <library name="pry-nav (v0.2.4, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/pry-nav-0.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/pry-nav-0.2.4/lib" />
+      </SOURCES>
+    </library>
     <library name="pry-nav (v0.2.4, RVM: ruby-2.3.3 [lasertag]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/pry-nav-0.2.4/lib" />
@@ -9748,6 +10522,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/pry-rails-0.3.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/pry-rails-0.3.2/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="pry-rails (v0.3.2, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/pry-rails-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/pry-rails-0.3.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/pry-rails-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/pry-rails-0.3.2/gemfiles" />
       </SOURCES>
     </library>
     <library name="pry-rails (v0.3.4, RVM: ruby-2.3.1 [timeline-2.3.1]) [gem]">
@@ -9788,6 +10572,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/pry-rails-0.3.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@lasertag/gems/pry-rails-0.3.5/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="pry-remote (v0.1.8, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/pry-remote-0.1.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/pry-remote-0.1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/pry-remote-0.1.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/pry-remote-0.1.8/lib" />
       </SOURCES>
     </library>
     <library name="pry-remote (v0.1.8, RVM: ruby-2.3.3 [lasertag]) [gem]">
@@ -9954,6 +10748,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/puma-3.7.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="quiet_assets (v1.1.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/quiet_assets-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/quiet_assets-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rack (v1.4.5, RVM: ruby-2.1.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/rack-1.4.5/bin" />
@@ -9980,6 +10782,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/rack-1.4.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/rack-1.4.7/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/rack-1.4.7/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.5.2, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rack-1.5.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rack-1.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rack-1.5.2/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rack-1.5.2/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rack-1.5.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rack-1.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rack-1.5.2/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rack-1.5.2/example" />
       </SOURCES>
     </library>
     <library name="rack (v1.5.5, RVM: ruby-2.2.4) [gem]">
@@ -10308,6 +11124,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/rack-test-0.6.3/lib" />
       </SOURCES>
     </library>
+    <library name="rack-test (v0.6.3, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rack-test-0.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rack-test-0.6.3/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-test (v0.6.3, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/rack-test-0.6.3/lib" />
@@ -10398,6 +11222,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/rails-4.1.14/guides" />
+      </SOURCES>
+    </library>
+    <library name="rails (v4.1.9, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rails-4.1.9/guides" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rails-4.1.9/guides" />
       </SOURCES>
     </library>
     <library name="rails (v4.2.1, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
@@ -10660,6 +11492,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/rails-i18n-0.7.4/rails" />
       </SOURCES>
     </library>
+    <library name="rails-i18n (v4.0.3, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rails-i18n-4.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rails-i18n-4.0.3/rails" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rails-i18n-4.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rails-i18n-4.0.3/rails" />
+      </SOURCES>
+    </library>
     <library name="rails-i18n (v4.0.9, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/rails-i18n-4.0.9/lib" />
@@ -10786,6 +11628,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/railties-4.1.14/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/railties-4.1.14/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties (v4.1.9, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/railties-4.1.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/railties-4.1.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/railties-4.1.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/railties-4.1.9/lib" />
       </SOURCES>
     </library>
     <library name="railties (v4.2.1, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
@@ -10942,6 +11794,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/raindrops-0.13.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/raindrops-0.13.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="raindrops (v0.13.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/raindrops/0.13.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/raindrops-0.13.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/raindrops-0.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/raindrops/0.13.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/raindrops-0.13.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/raindrops-0.13.0/lib" />
       </SOURCES>
     </library>
     <library name="raindrops (v0.17.0, RVM: ruby-2.3.3 [lasertag]) [gem]">
@@ -11574,6 +12438,36 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-2.1.5/templates" />
       </SOURCES>
     </library>
+    <library name="refinerycms (v3.0.0@11f8d1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/core" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/pages" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/images" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/testing" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/resources" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/templates" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/authentication" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/core" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/pages" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/images" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/testing" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/resources" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/templates" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/authentication" />
+      </SOURCES>
+    </library>
     <library name="refinerycms (v3.0.4, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-3.0.4/exe" />
@@ -11606,6 +12500,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-acts-as-indexed-1.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="refinerycms-acts-as-indexed (v2.0.1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-acts-as-indexed-2.0.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-acts-as-indexed-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-acts-as-indexed-2.0.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-acts-as-indexed-2.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="refinerycms-authentication (v2.1.5, RVM: ruby-2.1.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/refinerycms-authentication-2.1.5/db" />
@@ -11632,6 +12536,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-authentication-2.1.5/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-authentication-2.1.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-authentication-2.1.5/config" />
+      </SOURCES>
+    </library>
+    <library name="refinerycms-authentication (v3.0.0@11f8d1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/authentication/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/authentication/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/authentication/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/authentication/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/authentication/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/authentication/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/authentication/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/authentication/config" />
       </SOURCES>
     </library>
     <library name="refinerycms-core (v2.1.5, RVM: ruby-2.1.3) [gem]">
@@ -11664,6 +12582,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-core-2.1.5/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-core-2.1.5/public" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-core-2.1.5/vendor" />
+      </SOURCES>
+    </library>
+    <library name="refinerycms-core (v3.0.0@11f8d1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/core/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/core/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/core/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/core/public" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/core/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/core/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/core/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/core/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/core/public" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/core/vendor" />
       </SOURCES>
     </library>
     <library name="refinerycms-core (v3.0.4, RVM: ruby-2.2.4) [gem]">
@@ -11734,6 +12668,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-i18n-2.1.0/script" />
       </SOURCES>
     </library>
+    <library name="refinerycms-i18n (v3.0.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-i18n-3.0.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-i18n-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-i18n-3.0.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-i18n-3.0.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-i18n-3.0.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-i18n-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-i18n-3.0.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-i18n-3.0.0/script" />
+      </SOURCES>
+    </library>
     <library name="refinerycms-i18n (v3.0.1, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-i18n-3.0.1/app" />
@@ -11778,6 +12726,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-images-2.1.5/config" />
       </SOURCES>
     </library>
+    <library name="refinerycms-images (v3.0.0@11f8d1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/images/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/images/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/images/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/images/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/images/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/images/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/images/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/images/config" />
+      </SOURCES>
+    </library>
     <library name="refinerycms-images (v3.0.4, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-images-3.0.4/db" />
@@ -11790,6 +12752,42 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-images-3.0.4/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-images-3.0.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-images-3.0.4/config" />
+      </SOURCES>
+    </library>
+    <library name="refinerycms-page-images (v3.0.0@48495b, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-images-48495bf75f9d/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-images-48495bf75f9d/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-images-48495bf75f9d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-images-48495bf75f9d/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-images-48495bf75f9d/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-images-48495bf75f9d/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-images-48495bf75f9d/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-images-48495bf75f9d/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-images-48495bf75f9d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-images-48495bf75f9d/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-images-48495bf75f9d/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-images-48495bf75f9d/script" />
+      </SOURCES>
+    </library>
+    <library name="refinerycms-page-resources (v0.0.2@18450c, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-resources-18450c6454cd/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-resources-18450c6454cd/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-resources-18450c6454cd/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-resources-18450c6454cd/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-resources-18450c6454cd/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-resources-18450c6454cd/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-resources-18450c6454cd/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-resources-18450c6454cd/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-resources-18450c6454cd/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-resources-18450c6454cd/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-resources-18450c6454cd/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-page-resources-18450c6454cd/script" />
       </SOURCES>
     </library>
     <library name="refinerycms-pages (v2.1.5, RVM: ruby-2.1.3) [gem]">
@@ -11818,6 +12816,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-pages-2.1.5/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-pages-2.1.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-pages-2.1.5/config" />
+      </SOURCES>
+    </library>
+    <library name="refinerycms-pages (v3.0.0@11f8d1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/pages/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/pages/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/pages/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/pages/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/pages/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/pages/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/pages/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/pages/config" />
       </SOURCES>
     </library>
     <library name="refinerycms-pages (v3.0.4, RVM: ruby-2.2.4) [gem]">
@@ -11862,6 +12874,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-resources-2.1.5/config" />
       </SOURCES>
     </library>
+    <library name="refinerycms-resources (v3.0.0@11f8d1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/resources/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/resources/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/resources/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/resources/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/resources/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/resources/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/resources/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/resources/config" />
+      </SOURCES>
+    </library>
     <library name="refinerycms-resources (v3.0.4, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-resources-3.0.4/db" />
@@ -11874,6 +12900,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-resources-3.0.4/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-resources-3.0.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/refinerycms-resources-3.0.4/config" />
+      </SOURCES>
+    </library>
+    <library name="refinerycms-testing (v3.0.0@11f8d1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/testing/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/bundler/gems/refinerycms-11f8d1eeb45e/testing/lib" />
+      </SOURCES>
+    </library>
+    <library name="refinerycms-wymeditor (v1.0.6, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-wymeditor-1.0.6/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-wymeditor-1.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-wymeditor-1.0.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-wymeditor-1.0.6/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-wymeditor-1.0.6/public" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-wymeditor-1.0.6/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-wymeditor-1.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-wymeditor-1.0.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-wymeditor-1.0.6/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/refinerycms-wymeditor-1.0.6/public" />
       </SOURCES>
     </library>
     <library name="request_store (v1.3.2, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
@@ -11906,6 +12956,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/responders-0.6.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="responders (v1.1.2, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/responders-1.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/responders-1.1.2/lib" />
       </SOURCES>
     </library>
     <library name="responders (v2.3.0, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
@@ -11972,6 +13030,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/responders-2.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="rest-client (v1.8.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rest-client-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rest-client-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rest-client-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rest-client-1.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rollbar (v2.14.0, RVM: ruby-2.3.3 [live_voice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rollbar-2.14.0/bin" />
@@ -11984,6 +13052,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rollbar-2.14.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rollbar-2.14.0/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rollbar-2.14.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="roo (v2.0.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/roo-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/roo-2.0.0/scripts" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/roo-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/roo-2.0.0/scripts" />
+      </SOURCES>
+    </library>
+    <library name="roo-xls (v1.0.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/roo-xls-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/roo-xls-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="routing-filter (v0.3.1, RVM: ruby-2.1.3) [gem]">
@@ -12000,6 +13086,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/routing-filter-0.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="routing-filter (v0.4.0.pre, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/routing-filter-0.4.0.pre/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/routing-filter-0.4.0.pre/lib" />
       </SOURCES>
     </library>
     <library name="routing-filter (v0.6.0, RVM: ruby-2.2.4) [gem]">
@@ -12434,6 +13528,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/ruby-debug-ide-0.6.1.beta4/lib" />
       </SOURCES>
     </library>
+    <library name="ruby-ole (v1.2.11.8, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/ruby-ole-1.2.11.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/ruby-ole-1.2.11.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/ruby-ole-1.2.11.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/ruby-ole-1.2.11.8/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-ole (v1.2.12.1, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/ruby-ole-1.2.12.1/bin" />
@@ -12484,6 +13588,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/ruby-progressbar-1.8.1/lib" />
       </SOURCES>
     </library>
+    <library name="ruby-rc4 (v0.1.5, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/ruby-rc4-0.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/ruby-rc4-0.1.5/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby_parser (v3.8.4, RVM: ruby-2.3.1 [mpp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/ruby_parser-3.8.4/bin" />
@@ -12522,6 +13634,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@global/gems/rubygems-bundler-1.4.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/rubygems-bundler-1.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/rubygems-bundler-1.4.4/lib" />
       </SOURCES>
     </library>
     <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
@@ -12612,6 +13732,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/rubygems-bundler-1.4.4/lib" />
       </SOURCES>
     </library>
+    <library name="rubyzip (v1.1.7, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rubyzip-1.1.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rubyzip-1.1.7/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rubyzip-1.1.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rubyzip-1.1.7/samples" />
+      </SOURCES>
+    </library>
     <library name="rubyzip (v1.2.0, RVM: ruby-2.3.1 [timeline-2.3.1]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@timeline-2.3.1/gems/rubyzip-1.2.0/lib" />
@@ -12672,6 +13802,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@global/gems/rvm-1.11.3.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="rvm (v1.11.3.9, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/rvm-1.11.3.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/rvm-1.11.3.9/lib" />
       </SOURCES>
     </library>
     <library name="rvm (v1.11.3.9, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
@@ -12762,6 +13900,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/rvm-1.11.3.9/lib" />
       </SOURCES>
     </library>
+    <library name="rvm-capistrano (v1.5.6, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rvm-capistrano-1.5.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/rvm-capistrano-1.5.6/lib" />
+      </SOURCES>
+    </library>
     <library name="safe_yaml (v1.0.4, RVM: ruby-2.3.1 [mpp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/safe_yaml-1.0.4/bin" />
@@ -12794,6 +13940,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/sass-3.1.21/extra" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/sass-3.1.21/rails" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/sass-3.1.21/vendor" />
+      </SOURCES>
+    </library>
+    <library name="sass (v3.2.19, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sass-3.2.19/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sass-3.2.19/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sass-3.2.19/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sass-3.2.19/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sass-3.2.19/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sass-3.2.19/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sass-3.2.19/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sass-3.2.19/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sass-3.2.19/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sass-3.2.19/vendor" />
       </SOURCES>
     </library>
     <library name="sass (v3.2.19, RVM: ruby-2.2.4) [gem]">
@@ -12972,6 +14134,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sass-rails-3.2.6/lib" />
       </SOURCES>
     </library>
+    <library name="sass-rails (v4.0.5, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sass-rails-4.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sass-rails-4.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="sass-rails (v4.0.5, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sass-rails-4.0.5/lib" />
@@ -13052,6 +14222,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/sass-rails-5.0.6/lib" />
       </SOURCES>
     </library>
+    <library name="sdoc (v0.4.1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sdoc-0.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sdoc-0.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sdoc-0.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sdoc-0.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="sdoc (v0.4.2, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/sdoc-0.4.2/bin" />
@@ -13124,6 +14304,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/seo_meta-1.4.0/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/seo_meta-1.4.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/seo_meta-1.4.0/config" />
+      </SOURCES>
+    </library>
+    <library name="seo_meta (v2.0.0.rc.1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/seo_meta-2.0.0.rc.1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/seo_meta-2.0.0.rc.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/seo_meta-2.0.0.rc.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/seo_meta-2.0.0.rc.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/seo_meta-2.0.0.rc.1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/seo_meta-2.0.0.rc.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/seo_meta-2.0.0.rc.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/seo_meta-2.0.0.rc.1/config" />
       </SOURCES>
     </library>
     <library name="seo_meta (v2.0.0.rc.1, RVM: ruby-2.2.4) [gem]">
@@ -13604,6 +14798,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/slop-3.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="slop (v3.6.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/slop-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/slop-3.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="slop (v3.6.0, RVM: ruby-2.3.1 [mpp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/slop-3.6.0/lib" />
@@ -13644,6 +14846,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/speakingurl-rails-8.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="spreadsheet (v1.0.3, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/spreadsheet-1.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/spreadsheet-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/spreadsheet-1.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/spreadsheet-1.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="spreadsheet (v1.1.4, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/spreadsheet-1.1.4/bin" />
@@ -13652,6 +14864,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/spreadsheet-1.1.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/spreadsheet-1.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="spring (v1.2.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/spring-1.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/spring-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/spring-1.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/spring-1.2.0/lib" />
       </SOURCES>
     </library>
     <library name="spring (v1.7.2, RVM: ruby-2.2.4) [gem]">
@@ -13826,6 +15048,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/spring-watcher-listen-2.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="sprockets (v2.12.3, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sprockets-2.12.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sprockets-2.12.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sprockets-2.12.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sprockets-2.12.3/lib" />
+      </SOURCES>
+    </library>
     <library name="sprockets (v2.12.4, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sprockets-2.12.4/bin" />
@@ -13944,6 +15176,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/sprockets-3.7.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/sprockets-3.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets-rails (v2.2.4, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sprockets-rails-2.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/sprockets-rails-2.2.4/lib" />
       </SOURCES>
     </library>
     <library name="sprockets-rails (v2.3.3, RVM: ruby-2.2.4) [gem]">
@@ -14408,6 +15648,16 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.3/lib/ruby/2.1.0/x86_64-linux" />
       </SOURCES>
     </library>
+    <library name="test-unit (v3.0.8, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/test-unit-3.0.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/test-unit-3.0.8/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/test-unit-3.0.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@global/gems/test-unit-3.0.8/sample" />
+      </SOURCES>
+    </library>
     <library name="test-unit (v3.0.8, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/test-unit-3.0.8/lib" />
@@ -14660,6 +15910,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/thor-0.19.1/lib" />
       </SOURCES>
     </library>
+    <library name="thor (v0.19.1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/thor-0.19.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/thor-0.19.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/thor-0.19.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/thor-0.19.1/lib" />
+      </SOURCES>
+    </library>
     <library name="thor (v0.19.1, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/thor-0.19.1/bin" />
@@ -14748,6 +16008,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/thor-0.19.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/thor-0.19.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="thread_safe (v0.3.4, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/thread_safe-0.3.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/thread_safe-0.3.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/thread_safe-0.3.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/thread_safe-0.3.4/lib" />
       </SOURCES>
     </library>
     <library name="thread_safe (v0.3.5, RVM: ruby-2.2.4) [gem]">
@@ -14884,6 +16154,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/tilt-1.4.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/tilt-1.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="tilt (v1.4.1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/tilt-1.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/tilt-1.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/tilt-1.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/tilt-1.4.1/lib" />
       </SOURCES>
     </library>
     <library name="tilt (v1.4.1, RVM: ruby-2.2.4) [gem]">
@@ -15080,6 +16360,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/truncate_html-0.9.3/lib" />
       </SOURCES>
     </library>
+    <library name="truncate_html (v0.9.3, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/truncate_html-0.9.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/truncate_html-0.9.3/lib" />
+      </SOURCES>
+    </library>
     <library name="truncate_html (v0.9.3, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/truncate_html-0.9.3/lib" />
@@ -15244,6 +16532,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/tzinfo-0.3.52/lib" />
       </SOURCES>
     </library>
+    <library name="tzinfo (v1.2.2, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/tzinfo-1.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/tzinfo-1.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="tzinfo (v1.2.2, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/tzinfo-1.2.2/lib" />
@@ -15324,6 +16620,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/uglifier-2.7.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/uglifier-2.7.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v2.7.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/uglifier-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/uglifier-2.7.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/uglifier-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/uglifier-2.7.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="uglifier (v3.0.2, RVM: ruby-2.2.4) [gem]">
@@ -15410,12 +16716,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/uglifier-3.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="unf (v0.1.4, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unf-0.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unf-0.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="unf (v0.1.4, RVM: ruby-2.3.1 [mpp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/unf-0.1.4/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/unf-0.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="unf_ext (v0.0.7.1, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unf_ext-0.0.7.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unf_ext-0.0.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unf_ext-0.0.7.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unf_ext-0.0.7.1/lib" />
       </SOURCES>
     </library>
     <library name="unf_ext (v0.0.7.2, RVM: ruby-2.3.1 [mpp]) [gem]">
@@ -15510,6 +16834,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/unicorn-4.8.3/Documentation" />
       </SOURCES>
     </library>
+    <library name="unicorn (v4.9.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/unicorn/4.9.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unicorn-4.9.0/t" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unicorn-4.9.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unicorn-4.9.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unicorn-4.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unicorn-4.9.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unicorn-4.9.0/archive" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unicorn-4.9.0/Documentation" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/unicorn/4.9.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unicorn-4.9.0/t" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unicorn-4.9.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unicorn-4.9.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unicorn-4.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unicorn-4.9.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unicorn-4.9.0/archive" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unicorn-4.9.0/Documentation" />
+      </SOURCES>
+    </library>
     <library name="unicorn (v5.2.0, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/unicorn/5.2.0" />
@@ -15582,6 +16928,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/unicorn-rails-2.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="unicorn-rails (v2.2.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unicorn-rails-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/unicorn-rails-2.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="unicorn-worker-killer (v0.4.4, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/unicorn-worker-killer-0.4.4/lib" />
@@ -15628,6 +16982,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/warden-1.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="warden (v1.2.3, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/warden-1.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/warden-1.2.3/lib" />
       </SOURCES>
     </library>
     <library name="warden (v1.2.6, RVM: ruby-2.2.4) [gem]">
@@ -15986,6 +17348,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/will_paginate-3.0.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="will_paginate (v3.0.7, RVM: ruby-2.2.0 [country_boys]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/will_paginate-3.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@country_boys/gems/will_paginate-3.0.7/lib" />
       </SOURCES>
     </library>
     <library name="will_paginate (v3.1.5, RVM: ruby-2.3.1 [mpp]) [gem]">
