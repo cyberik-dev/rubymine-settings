@@ -9424,13 +9424,11 @@
     </library>
     <library name="kgio (v2.11.0, RVM: ruby-2.4.1 [op2017]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/kgio/2.11.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op2017/gems/kgio-2.11.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op2017/gems/kgio-2.11.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op2017/gems/kgio-2.11.0/archive" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/kgio/2.11.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op2017/gems/kgio-2.11.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op2017/gems/kgio-2.11.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op2017/gems/kgio-2.11.0/archive" />
@@ -14830,13 +14828,11 @@
     </library>
     <library name="raindrops (v0.18.0, RVM: ruby-2.4.1 [op2017]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/raindrops/0.18.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op2017/gems/raindrops-0.18.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op2017/gems/raindrops-0.18.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op2017/gems/raindrops-0.18.0/archive" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/raindrops/0.18.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op2017/gems/raindrops-0.18.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op2017/gems/raindrops-0.18.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op2017/gems/raindrops-0.18.0/archive" />
@@ -21060,7 +21056,6 @@
     </library>
     <library name="unicorn (v5.3.0, RVM: ruby-2.4.1 [op2017]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/unicorn/5.3.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op2017/gems/unicorn-5.3.0/t" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op2017/gems/unicorn-5.3.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op2017/gems/unicorn-5.3.0/ext" />
@@ -21070,7 +21065,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op2017/gems/unicorn-5.3.0/Documentation" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/unicorn/5.3.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op2017/gems/unicorn-5.3.0/t" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op2017/gems/unicorn-5.3.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op2017/gems/unicorn-5.3.0/ext" />
