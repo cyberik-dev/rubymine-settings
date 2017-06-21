@@ -3844,6 +3844,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/capistrano-rvm-0.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-sidekiq (v0.10.0, RVM: ruby-2.4.1 [op_2.0]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/capistrano-sidekiq-0.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/capistrano-sidekiq-0.10.0/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-sidekiq (v0.10.0@339c42, RVM: ruby-2.3.1 [mpp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/bundler/gems/capistrano-sidekiq-339c42e24f42/lib" />
@@ -4924,6 +4932,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/connection_pool-2.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="connection_pool (v2.2.1, RVM: ruby-2.4.1 [op_2.0]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/connection_pool-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/connection_pool-2.2.1/lib" />
       </SOURCES>
     </library>
     <library name="constantcontact (v2.2.0, RVM: ruby-2.2.0 [country_boys]) [gem]">
@@ -10904,6 +10920,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/launchy-2.4.3/tasks" />
       </SOURCES>
     </library>
+    <library name="launchy (v2.4.3, RVM: ruby-2.4.1 [op_2.0]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/launchy-2.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/launchy-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/launchy-2.4.3/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/launchy-2.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/launchy-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/launchy-2.4.3/tasks" />
+      </SOURCES>
+    </library>
     <library name="less (v2.6.0, RVM: ruby-2.2.1 [inarima_gems]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@inarima_gems/gems/less-2.6.0/bin" />
@@ -11018,6 +11046,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/letter_opener-1.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="letter_opener (v1.4.1, RVM: ruby-2.4.1 [op_2.0]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/letter_opener-1.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/letter_opener-1.4.1/lib" />
       </SOURCES>
     </library>
     <library name="libv8 (v3.16.14.15, RVM: ruby-2.2.4) [gem]">
@@ -15842,6 +15878,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-protection-1.5.3/lib" />
       </SOURCES>
     </library>
+    <library name="rack-protection (v2.0.0, RVM: ruby-2.4.1 [op_2.0]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/rack-protection-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/rack-protection-2.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-protection (v2.0.0.rc1@379e36, RVM: ruby-2.3.1 [mpp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/bundler/gems/sinatra-379e360f5db7/rack-protection/lib" />
@@ -17546,6 +17590,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/redis-3.3.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/redis-3.3.3/.travis" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/redis-3.3.3/benchmarking" />
+      </SOURCES>
+    </library>
+    <library name="redis (v3.3.3, RVM: ruby-2.4.1 [op_2.0]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/redis-3.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/redis-3.3.3/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/redis-3.3.3/benchmarking" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/redis-3.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/redis-3.3.3/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/redis-3.3.3/benchmarking" />
       </SOURCES>
     </library>
     <library name="reek (v4.5.6, RVM: ruby-2.3.1 [mpp]) [gem]">
@@ -20578,6 +20634,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/bundler/gems/sidekiq-c70e313a804a/web" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/bundler/gems/sidekiq-c70e313a804a/myapp" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/bundler/gems/sidekiq-c70e313a804a/.github" />
+      </SOURCES>
+    </library>
+    <library name="sidekiq (v5.0.3, RVM: ruby-2.4.1 [op_2.0]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/sidekiq-5.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/sidekiq-5.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/sidekiq-5.0.3/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/sidekiq-5.0.3/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/sidekiq-5.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/sidekiq-5.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/sidekiq-5.0.3/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/sidekiq-5.0.3/.github" />
       </SOURCES>
     </library>
     <library name="sidekiq-limit_fetch (v3.4.0, RVM: ruby-2.3.1 [mpp]) [gem]">
