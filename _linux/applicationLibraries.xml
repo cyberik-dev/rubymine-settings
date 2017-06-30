@@ -2700,6 +2700,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/bullet-5.5.1/tasks" />
       </SOURCES>
     </library>
+    <library name="bullet (v5.5.1, RVM: ruby-2.4.1 [op_2.0]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/bullet-5.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/bullet-5.5.1/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/bullet-5.5.1/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/bullet-5.5.1/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/bullet-5.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/bullet-5.5.1/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/bullet-5.5.1/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/bullet-5.5.1/tasks" />
+      </SOURCES>
+    </library>
     <library name="bundle (v0.0.1, RVM: ruby-2.3.1 [mpp]) [gem]">
       <CLASSES />
       <SOURCES />
@@ -24120,6 +24134,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mpp/gems/uniform_notifier-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="uniform_notifier (v1.10.0, RVM: ruby-2.4.1 [op_2.0]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/uniform_notifier-1.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@op_2.0/gems/uniform_notifier-1.10.0/lib" />
       </SOURCES>
     </library>
     <library name="uniform_notifier (v1.9.0, RVM: ruby-2.2.1 [isramedportal]) [gem]">
