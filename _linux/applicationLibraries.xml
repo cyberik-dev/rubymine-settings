@@ -14374,6 +14374,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/paperclip-5.1.0/shoulda_macros" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.11.2, RVM: ruby-2.1.2 [outsource_people2015]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.2@outsource_people2015/gems/parallel-1.11.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.2@outsource_people2015/gems/parallel-1.11.2/lib" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.2.2.5, RVM: ruby-2.2.1 [isramedportal]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@isramedportal/gems/parser-2.2.2.5/bin" />
@@ -19266,6 +19274,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rubocop-0.47.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rubocop-0.47.1/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@live_voice/gems/rubocop-0.47.1/config" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.49.1, RVM: ruby-2.1.2 [outsource_people2015]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.2@outsource_people2015/gems/rubocop-0.49.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.2@outsource_people2015/gems/rubocop-0.49.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.2@outsource_people2015/gems/rubocop-0.49.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.2@outsource_people2015/gems/rubocop-0.49.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.2@outsource_people2015/gems/rubocop-0.49.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.2@outsource_people2015/gems/rubocop-0.49.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.2@outsource_people2015/gems/rubocop-0.49.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.2@outsource_people2015/gems/rubocop-0.49.1/config" />
       </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.6.1.beta3, RVM: ruby-2.3.0) [gem]">
