@@ -1708,6 +1708,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/addressable-2.5.1/tasks" />
       </SOURCES>
     </library>
+    <library name="addressable (v2.5.2, RVM: ruby-2.2.2 [survey]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/addressable-2.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/addressable-2.5.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/addressable-2.5.2/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/addressable-2.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/addressable-2.5.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/addressable-2.5.2/tasks" />
+      </SOURCES>
+    </library>
     <library name="airbrussh (v1.0.2, RVM: ruby-2.1.2 [outsource_people2015]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.2@outsource_people2015/gems/airbrussh-1.0.2/bin" />
@@ -12370,6 +12382,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/launchy-2.4.3/tasks" />
       </SOURCES>
     </library>
+    <library name="launchy (v2.4.3, RVM: ruby-2.2.2 [survey]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/launchy-2.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/launchy-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/launchy-2.4.3/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/launchy-2.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/launchy-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/launchy-2.4.3/tasks" />
+      </SOURCES>
+    </library>
     <library name="launchy (v2.4.3, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/launchy-2.4.3/bin" />
@@ -12512,6 +12536,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/letter_opener-1.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="letter_opener (v1.4.1, RVM: ruby-2.2.2 [survey]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/letter_opener-1.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/letter_opener-1.4.1/lib" />
       </SOURCES>
     </library>
     <library name="letter_opener (v1.4.1, RVM: ruby-2.2.4) [gem]">
@@ -15514,6 +15546,7 @@
     </library>
     <library name="nokogiri (v1.6.8.1, RVM: ruby-2.2.2 [survey]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/nokogiri-1.6.8.1/lib" />
@@ -15522,6 +15555,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/nokogiri-1.6.8.1/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/nokogiri-1.6.8.1/lib" />
@@ -16602,11 +16636,13 @@
     </library>
     <library name="pg (v0.19.0, RVM: ruby-2.2.2 [survey]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/0.19.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/pg-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/pg-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/pg-0.19.0/sample" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/0.19.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/pg-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/pg-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/pg-0.19.0/sample" />
@@ -17388,6 +17424,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/public_suffix-2.0.5/data" />
       </SOURCES>
     </library>
+    <library name="public_suffix (v3.0.0, RVM: ruby-2.2.2 [survey]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/public_suffix-3.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/public_suffix-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/public_suffix-3.0.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/public_suffix-3.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/public_suffix-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/public_suffix-3.0.0/data" />
+      </SOURCES>
+    </library>
     <library name="puma (v2.11.3, RVM: ruby-2.2.1 [isramedportal]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/puma/2.11.3" />
@@ -17466,12 +17514,14 @@
     </library>
     <library name="puma (v3.6.2, RVM: ruby-2.2.2 [survey]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/puma/3.6.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/puma-3.6.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/puma-3.6.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/puma-3.6.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/puma-3.6.2/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/puma/3.6.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/puma-3.6.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/puma-3.6.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/puma-3.6.2/lib" />
