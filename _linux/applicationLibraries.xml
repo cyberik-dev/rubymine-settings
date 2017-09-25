@@ -21996,6 +21996,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rubocop-0.49.1/config" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.50.0, RVM: ruby-2.2.2 [survey]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rubocop-0.50.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rubocop-0.50.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rubocop-0.50.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rubocop-0.50.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rubocop-0.50.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rubocop-0.50.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rubocop-0.50.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rubocop-0.50.0/config" />
+      </SOURCES>
+    </library>
     <library name="ruby-beautify (v0.97.4, RVM: ruby-2.2.2 [survey]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/ruby-beautify-0.97.4/bin" />
