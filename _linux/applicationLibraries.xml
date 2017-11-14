@@ -1898,6 +1898,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/paperclip-5.1.0/shoulda_macros" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.12.0, RVM: ruby-2.2.2 [survey]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/parallel-1.12.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/parallel-1.12.0/lib" />
+      </SOURCES>
+    </library>
     <library name="parallel (v1.12.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/parallel-1.12.0/lib" />
@@ -2586,6 +2594,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/rubocop-0.50.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/rubocop-0.50.0/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/rubocop-0.50.0/config" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.51.0, RVM: ruby-2.2.2 [survey]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rubocop-0.51.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rubocop-0.51.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rubocop-0.51.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rubocop-0.51.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rubocop-0.51.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rubocop-0.51.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rubocop-0.51.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rubocop-0.51.0/config" />
       </SOURCES>
     </library>
     <library name="rubocop (v0.51.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
