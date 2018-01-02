@@ -1666,6 +1666,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/ffi-1.9.18/libtest" />
       </SOURCES>
     </library>
+    <library name="file_validators (v2.1.0, RVM: ruby-2.2.2 [itera]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/file_validators-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/file_validators-2.1.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/file_validators-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/file_validators-2.1.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="font-awesome-rails (v4.7.0.2, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/font-awesome-rails-4.7.0.2/app" />
