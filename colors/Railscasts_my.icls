@@ -4,10 +4,10 @@
     <property name="created">2016-12-12T12:09:48</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2017-11-14T15:31:46</property>
+    <property name="modified">2018-01-26T22:57:52</property>
     <property name="originalScheme">_@user_Railscasts</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
