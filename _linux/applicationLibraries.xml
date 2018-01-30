@@ -780,6 +780,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/bundler-unload-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="bundler-unload (v1.0.2, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/bundler-unload-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/bundler-unload-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="bundler-unload (v1.0.2, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/bundler-unload-1.0.2/lib" />
@@ -804,11 +812,13 @@
     </library>
     <library name="byebug (v9.0.6, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.0.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/byebug-9.0.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/byebug-9.0.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/byebug-9.0.6/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.0.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/byebug-9.0.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/byebug-9.0.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/byebug-9.0.6/lib" />
@@ -1198,6 +1208,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/crass-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="daemons (v1.2.6, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/daemons-1.2.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/daemons-1.2.6/lib" />
+      </SOURCES>
+    </library>
     <library name="database_cleaner (v1.6.1, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/database_cleaner-1.6.1/lib" />
@@ -1385,6 +1403,18 @@
       </SOURCES>
     </library>
     <library name="did_you_mean (v1.1.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/did_you_mean-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/did_you_mean-1.1.0/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/did_you_mean-1.1.0/evaluation" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/did_you_mean-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/did_you_mean-1.1.0/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/did_you_mean-1.1.0/evaluation" />
+      </SOURCES>
+    </library>
+    <library name="did_you_mean (v1.1.0, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/did_you_mean-1.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/did_you_mean-1.1.0/benchmark" />
@@ -1690,6 +1720,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/executable-hooks-1.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="executable-hooks (v1.3.2, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/executable-hooks-1.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/executable-hooks-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/executable-hooks-1.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/executable-hooks-1.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/executable-hooks-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/executable-hooks-1.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="executable-hooks (v1.3.2, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/executable-hooks-1.3.2/bin" />
@@ -1856,12 +1898,14 @@
     </library>
     <library name="ffi (v1.9.18, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/ffi-1.9.18/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/ffi-1.9.18/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/ffi-1.9.18/lib" />
@@ -1912,6 +1956,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/gem-wrappers-1.2.7/lib" />
       </SOURCES>
     </library>
+    <library name="gem-wrappers (v1.2.7, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/gem-wrappers-1.2.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/gem-wrappers-1.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/gem-wrappers-1.2.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/gem-wrappers-1.2.7/lib" />
+      </SOURCES>
+    </library>
     <library name="gem-wrappers (v1.2.7, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/gem-wrappers-1.2.7/ext" />
@@ -1940,6 +1994,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/gem-wrappers-1.3.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/gem-wrappers-1.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="gem-wrappers (v1.3.2, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/gem-wrappers-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/gem-wrappers-1.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/gem-wrappers-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/gem-wrappers-1.3.2/lib" />
       </SOURCES>
     </library>
     <library name="gem-wrappers (v1.3.2, RVM: ruby-2.4.1) [gem]">
@@ -2546,6 +2610,70 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="io-console (v0.4.6, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/forwardable" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/x86_64-linux" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/unicode_normalize" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/forwardable" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/x86_64-linux" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/unicode_normalize" />
+      </SOURCES>
+    </library>
     <library name="io-console (v0.4.6, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/io" />
@@ -2834,11 +2962,13 @@
     </library>
     <library name="kgio (v2.11.0, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/kgio/2.11.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/kgio-2.11.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/kgio-2.11.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/kgio-2.11.0/archive" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/kgio/2.11.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/kgio-2.11.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/kgio-2.11.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/kgio-2.11.0/archive" />
@@ -3266,6 +3396,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/minitest-5.10.1/lib" />
       </SOURCES>
     </library>
+    <library name="minitest (v5.10.1, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/minitest-5.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/minitest-5.10.1/lib" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.10.1, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/minitest-5.10.1/lib" />
@@ -3462,6 +3600,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/net-telnet-0.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="net-telnet (v0.1.1, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/net-telnet-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/net-telnet-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/net-telnet-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/net-telnet-0.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="net-telnet (v0.1.1, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/net-telnet-0.1.1/bin" />
@@ -3498,11 +3646,13 @@
     </library>
     <library name="nio4r (v2.1.0, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/nio4r-2.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/nio4r-2.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/nio4r-2.1.0/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/nio4r-2.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/nio4r-2.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/nio4r-2.1.0/tasks" />
@@ -3530,6 +3680,7 @@
     </library>
     <library name="nokogiri (v1.8.0, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/nokogiri-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/nokogiri-1.8.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/nokogiri-1.8.0/lib" />
@@ -3538,6 +3689,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/nokogiri-1.8.0/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/nokogiri-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/nokogiri-1.8.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/nokogiri-1.8.0/lib" />
@@ -3850,6 +4002,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/power_assert-0.4.1/benchmarks" />
       </SOURCES>
     </library>
+    <library name="power_assert (v0.4.1, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/power_assert-0.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/power_assert-0.4.1/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/power_assert-0.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/power_assert-0.4.1/benchmarks" />
+      </SOURCES>
+    </library>
     <library name="power_assert (v0.4.1, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/power_assert-0.4.1/lib" />
@@ -4094,6 +4256,7 @@
     </library>
     <library name="puma (v3.9.1, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.9.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/puma-3.9.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/puma-3.9.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/puma-3.9.1/lib" />
@@ -4102,6 +4265,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/puma-3.9.1/gemfiles" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.9.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/puma-3.9.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/puma-3.9.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/puma-3.9.1/lib" />
@@ -4524,11 +4688,13 @@
     </library>
     <library name="raindrops (v0.19.0, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/raindrops/0.19.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/raindrops-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/raindrops-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/raindrops-0.19.0/archive" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/raindrops/0.19.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/raindrops-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/raindrops-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/raindrops-0.19.0/archive" />
@@ -4547,6 +4713,18 @@
       </SOURCES>
     </library>
     <library name="rake (v12.0.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/rake-12.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/rake-12.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/rake-12.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/rake-12.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/rake-12.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/rake-12.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v12.0.0, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/rake-12.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/rake-12.0.0/exe" />
@@ -4624,11 +4802,13 @@
     </library>
     <library name="rb-fsevent (v0.10.2, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/rb-fsevent-0.10.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/rb-fsevent-0.10.2/lib" />
@@ -5210,6 +5390,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/rubygems-bundler-1.4.4/lib" />
       </SOURCES>
     </library>
+    <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/rubygems-bundler-1.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/rubygems-bundler-1.4.4/lib" />
+      </SOURCES>
+    </library>
     <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/rubygems-bundler-1.4.4/lib" />
@@ -5253,6 +5441,14 @@
       </SOURCES>
     </library>
     <library name="rvm (v1.11.3.9, RVM: ruby-2.4.1 [salesfolk]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/rvm-1.11.3.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/rvm-1.11.3.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="rvm (v1.11.3.9, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/rvm-1.11.3.9/lib" />
       </CLASSES>
@@ -5764,6 +5960,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/test-unit-3.2.3/sample" />
       </SOURCES>
     </library>
+    <library name="test-unit (v3.2.3, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/test-unit-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/test-unit-3.2.3/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/test-unit-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/test-unit-3.2.3/sample" />
+      </SOURCES>
+    </library>
     <library name="test-unit (v3.2.3, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/test-unit-3.2.3/lib" />
@@ -6104,6 +6310,7 @@
     </library>
     <library name="unicorn (v5.3.0, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/unicorn/5.3.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/unicorn-5.3.0/t" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/unicorn-5.3.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/unicorn-5.3.0/ext" />
@@ -6113,6 +6320,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/unicorn-5.3.0/Documentation" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/unicorn/5.3.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/unicorn-5.3.0/t" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/unicorn-5.3.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/unicorn-5.3.0/ext" />
@@ -6194,10 +6402,12 @@
     </library>
     <library name="websocket-driver (v0.6.5, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/websocket-driver-0.6.5/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/websocket-driver-0.6.5/lib" />
       </SOURCES>
@@ -6243,6 +6453,16 @@
       </SOURCES>
     </library>
     <library name="xmlrpc (v0.2.1, RVM: ruby-2.4.1 [salesfolk]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/xmlrpc-0.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/xmlrpc-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/xmlrpc-0.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/xmlrpc-0.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="xmlrpc (v0.2.1, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/xmlrpc-0.2.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/xmlrpc-0.2.1/lib" />
