@@ -1734,6 +1734,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/domain_name-0.5.20170404/tool" />
       </SOURCES>
     </library>
+    <library name="domain_name (v0.5.20170404, RVM: ruby-2.4.1 [cian_parser]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/domain_name-0.5.20170404/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/domain_name-0.5.20170404/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/domain_name-0.5.20170404/tool" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/domain_name-0.5.20170404/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/domain_name-0.5.20170404/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/domain_name-0.5.20170404/tool" />
+      </SOURCES>
+    </library>
     <library name="dotenv (v2.2.1, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/dotenv-2.2.1/bin" />
@@ -2542,6 +2554,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/http-cookie-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="http-cookie (v1.0.3, RVM: ruby-2.4.1 [cian_parser]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/http-cookie-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/http-cookie-1.0.3/lib" />
       </SOURCES>
     </library>
     <library name="http_parser.rb (v0.6.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -3588,6 +3608,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/mail-2.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="mechanize (v2.7.5, RVM: ruby-2.4.1 [cian_parser]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/mechanize-2.7.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/mechanize-2.7.5/lib" />
+      </SOURCES>
+    </library>
     <library name="memoist (v0.16.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/memoist-0.16.0/lib" />
@@ -3672,6 +3700,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mime-types-3.1/lib" />
       </SOURCES>
     </library>
+    <library name="mime-types (v3.1, RVM: ruby-2.4.1 [cian_parser]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/mime-types-3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/mime-types-3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="mime-types (v3.1, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/mime-types-3.1/lib" />
@@ -3716,6 +3752,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mime-types-data-3.2016.0521/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mime-types-data-3.2016.0521/data" />
+      </SOURCES>
+    </library>
+    <library name="mime-types-data (v3.2016.0521, RVM: ruby-2.4.1 [cian_parser]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/mime-types-data-3.2016.0521/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/mime-types-data-3.2016.0521/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/mime-types-data-3.2016.0521/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/mime-types-data-3.2016.0521/data" />
       </SOURCES>
     </library>
     <library name="mime-types-data (v3.2016.0521, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -4040,6 +4086,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/nenv-0.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="net-http-digest_auth (v1.4.1, RVM: ruby-2.4.1 [cian_parser]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/net-http-digest_auth-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/net-http-digest_auth-1.4.1/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/net-http-digest_auth-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/net-http-digest_auth-1.4.1/sample" />
+      </SOURCES>
+    </library>
+    <library name="net-http-persistent (v2.9.4, RVM: ruby-2.4.1 [cian_parser]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/net-http-persistent-2.9.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/net-http-persistent-2.9.4/lib" />
+      </SOURCES>
+    </library>
     <library name="net-scp (v1.2.1, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/net-scp-1.2.1/lib" />
@@ -4266,6 +4330,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/notiffany-0.1.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/notiffany-0.1.1/images" />
+      </SOURCES>
+    </library>
+    <library name="ntlm-http (v0.1.1, RVM: ruby-2.4.1 [cian_parser]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/ntlm-http-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/ntlm-http-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="oj (v3.3.6, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -7124,6 +7196,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/unf-0.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="unf (v0.1.4, RVM: ruby-2.4.1 [cian_parser]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/unf-0.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/unf-0.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="unf_ext (v0.0.7.4, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/unf_ext-0.0.7.4/ext" />
@@ -7132,6 +7212,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/unf_ext-0.0.7.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/unf_ext-0.0.7.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="unf_ext (v0.0.7.4, RVM: ruby-2.4.1 [cian_parser]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/unf_ext-0.0.7.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/unf_ext-0.0.7.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/unf_ext-0.0.7.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/unf_ext-0.0.7.4/lib" />
       </SOURCES>
     </library>
     <library name="unicode-display_width (v1.1.1, RVM: ruby-2.2.2 [survey]) [gem]">
@@ -7260,6 +7350,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/webpacker-3.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/webpacker-3.0.1/package" />
+      </SOURCES>
+    </library>
+    <library name="webrobots (v0.1.2, RVM: ruby-2.4.1 [cian_parser]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/webrobots-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@cian_parser/gems/webrobots-0.1.2/lib" />
       </SOURCES>
     </library>
     <library name="websocket-driver (v0.6.5, RVM: ruby-2.4.1 [cian_parser]) [gem]">
