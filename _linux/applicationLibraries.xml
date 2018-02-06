@@ -3490,6 +3490,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/kgio-2.11.0/archive" />
       </SOURCES>
     </library>
+    <library name="kgio (v2.11.2, RVM: ruby-2.4.1 [new_app]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/kgio/2.11.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/kgio-2.11.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/kgio-2.11.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/kgio-2.11.2/archive" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/kgio/2.11.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/kgio-2.11.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/kgio-2.11.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/kgio-2.11.2/archive" />
+      </SOURCES>
+    </library>
     <library name="launchy (v2.4.3, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/launchy-2.4.3/bin" />
@@ -5490,6 +5504,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/rainbow-3.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="raindrops (v0.19.0, RVM: ruby-2.4.1 [new_app]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/raindrops/0.19.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/raindrops-0.19.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/raindrops-0.19.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/raindrops-0.19.0/archive" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/raindrops/0.19.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/raindrops-0.19.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/raindrops-0.19.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/raindrops-0.19.0/archive" />
+      </SOURCES>
+    </library>
     <library name="raindrops (v0.19.0, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/raindrops/0.19.0" />
@@ -7448,6 +7476,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/unicorn-5.3.0/man" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/unicorn-5.3.0/archive" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/unicorn-5.3.0/Documentation" />
+      </SOURCES>
+    </library>
+    <library name="unicorn (v5.4.0, RVM: ruby-2.4.1 [new_app]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/unicorn/5.4.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/unicorn-5.4.0/t" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/unicorn-5.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/unicorn-5.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/unicorn-5.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/unicorn-5.4.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/unicorn-5.4.0/archive" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/unicorn-5.4.0/Documentation" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/unicorn/5.4.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/unicorn-5.4.0/t" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/unicorn-5.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/unicorn-5.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/unicorn-5.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/unicorn-5.4.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/unicorn-5.4.0/archive" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/unicorn-5.4.0/Documentation" />
       </SOURCES>
     </library>
     <library name="warden (v1.2.6, RVM: ruby-2.2.2 [survey]) [gem]">
