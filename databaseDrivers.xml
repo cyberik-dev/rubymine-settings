@@ -42,9 +42,10 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="postgresql">
-      <artifact name="PostgreSQL" use="true" version="42.1.1" />
+      <artifact name="PostgreSQL" use="true" version="42.2.1" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/PostgreSQL/42.1.1/postgresql-42.1.1.jar</url>
       </library>
