@@ -3472,6 +3472,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot_sample_app/gems/hirb-0.7.3/lib" />
       </SOURCES>
     </library>
+    <library name="hpricot (v0.8.6, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/hpricot/0.8.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/hpricot-0.8.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/hpricot-0.8.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/hpricot-0.8.6/extras" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/hpricot/0.8.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/hpricot-0.8.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/hpricot-0.8.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/hpricot-0.8.6/extras" />
+      </SOURCES>
+    </library>
+    <library name="html2slim (v0.2.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/html2slim-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/html2slim-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/html2slim-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/html2slim-0.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="http-cookie (v1.0.3, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/http-cookie-1.0.3/lib" />
