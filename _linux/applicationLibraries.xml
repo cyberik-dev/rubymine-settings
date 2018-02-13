@@ -4492,6 +4492,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/jquery-rails-4.3.1/vendor" />
       </SOURCES>
     </library>
+    <library name="jquery-rails (v4.3.1, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/jquery-rails-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/jquery-rails-4.3.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/jquery-rails-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/jquery-rails-4.3.1/vendor" />
+      </SOURCES>
+    </library>
     <library name="jquery-rails (v4.3.1, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/jquery-rails-4.3.1/lib" />
