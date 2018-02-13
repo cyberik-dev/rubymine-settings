@@ -1,5 +1,5 @@
 <templateSet group="Ruby">
-  <template name="frozen_string_literal" value="# frozen_string_literal: true" toReformat="false" toShortenFQNames="true">
+  <template name="frozen_string_literal" value="# frozen_string_literal: true" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="RUBY" value="true" />
     </context>
