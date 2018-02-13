@@ -706,6 +706,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/autoprefixer-rails-7.1.4/vendor" />
       </SOURCES>
     </library>
+    <library name="autoprefixer-rails (v8.0.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/autoprefixer-rails-8.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/autoprefixer-rails-8.0.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/autoprefixer-rails-8.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/autoprefixer-rails-8.0.0/vendor" />
+      </SOURCES>
+    </library>
     <library name="awesome_print (v1.8.0, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/awesome_print-1.8.0/lib" />
@@ -934,6 +944,18 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/binding_of_caller/0.7.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/binding_of_caller-0.7.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/binding_of_caller-0.7.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="bootstrap (v4.0.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/bootstrap-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/bootstrap-4.0.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/bootstrap-4.0.0/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/bootstrap-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/bootstrap-4.0.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/bootstrap-4.0.0/assets" />
       </SOURCES>
     </library>
     <library name="browser (v2.3.0, RVM: ruby-2.2.2 [survey]) [gem]">
@@ -6274,6 +6296,16 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/1.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/pg-1.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/pg-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="popper_js (v1.12.9, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/popper_js-1.12.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/popper_js-1.12.9/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/popper_js-1.12.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/popper_js-1.12.9/assets" />
       </SOURCES>
     </library>
     <library name="power_assert (v0.2.2, RVM: ruby-2.2.2 [global]) [gem]">
