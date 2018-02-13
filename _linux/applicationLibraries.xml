@@ -8368,6 +8368,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/telegram-bot-0.11.3/lib" />
       </SOURCES>
     </library>
+    <library name="telegram-bot (v0.12.4@384d20, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/bundler/gems/telegram-bot-384d203b5934/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/bundler/gems/telegram-bot-384d203b5934/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/bundler/gems/telegram-bot-384d203b5934/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/bundler/gems/telegram-bot-384d203b5934/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/bundler/gems/telegram-bot-384d203b5934/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/bundler/gems/telegram-bot-384d203b5934/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="telegram-bot (v0.13.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/telegram-bot-0.13.0/bin" />
