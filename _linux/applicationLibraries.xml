@@ -2682,6 +2682,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/debase-0.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/debase-0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/debase-0.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.2.beta10, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/debase-0.2.2.beta10/ext" />
@@ -2692,12 +2702,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/debase-0.2.2.beta10/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2.beta10, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/debase-0.2.2.beta10/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/debase-0.2.2.beta10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/debase-0.2.2.beta10/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/debase-0.2.2.beta10/lib" />
+      </SOURCES>
+    </library>
     <library name="debase-ruby_core_source (v0.10.2, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/debase-ruby_core_source-0.10.2/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/debase-ruby_core_source-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.2, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/debase-ruby_core_source-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/debase-ruby_core_source-0.10.2/lib" />
       </SOURCES>
     </library>
     <library name="debbie (v2.0.0, RVM: ruby-2.4.1 [telegram_bot_sample_app]) [gem]">
@@ -10654,6 +10682,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/ruby-debug-ide-0.6.1.beta9/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/ruby-debug-ide-0.6.1.beta9/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/ruby-debug-ide-0.6.1.beta9/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1.beta9, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/ruby-debug-ide-0.6.1.beta9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/ruby-debug-ide-0.6.1.beta9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/ruby-debug-ide-0.6.1.beta9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/ruby-debug-ide-0.6.1.beta9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/ruby-debug-ide-0.6.1.beta9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/ruby-debug-ide-0.6.1.beta9/lib" />
       </SOURCES>
     </library>
     <library name="ruby-graphviz (v1.2.3, RVM: ruby-2.4.1 [salesfolk]) [gem]">
