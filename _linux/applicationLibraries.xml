@@ -4930,6 +4930,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/erubis-2.7.0/benchmark" />
       </SOURCES>
     </library>
+    <library name="eventmachine (v1.0.3, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/eventmachine/1.0.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/eventmachine-1.0.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/eventmachine-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/eventmachine-1.0.3/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/eventmachine-1.0.3/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/eventmachine-1.0.3/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/eventmachine/1.0.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/eventmachine-1.0.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/eventmachine-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/eventmachine-1.0.3/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/eventmachine-1.0.3/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/eventmachine-1.0.3/rakelib" />
+      </SOURCES>
+    </library>
     <library name="eventmachine (v1.2.5, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/eventmachine/1.2.5" />
@@ -6302,6 +6320,26 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.3.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="gherkin (v2.12.0, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/gherkin/2.12.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/gherkin-2.12.0/js" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/gherkin-2.12.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/gherkin-2.12.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/gherkin-2.12.0/ragel" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/gherkin-2.12.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/gherkin-2.12.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/gherkin/2.12.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/gherkin-2.12.0/js" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/gherkin-2.12.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/gherkin-2.12.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/gherkin-2.12.0/ragel" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/gherkin-2.12.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/gherkin-2.12.0/features" />
       </SOURCES>
     </library>
     <library name="globalid (v0.3.7, RVM: ruby-2.2.2 [survey]) [gem]">
@@ -8530,6 +8568,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/kgio-2.11.2/archive" />
       </SOURCES>
     </library>
+    <library name="kgio (v2.8.0, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/kgio/2.8.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/kgio-2.8.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/kgio-2.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/kgio/2.8.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/kgio-2.8.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/kgio-2.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="launchy (v2.4.3, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/launchy-2.4.3/bin" />
@@ -10716,6 +10766,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/nio4r-2.3.0/tasks" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.5.9, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/nokogiri/1.5.9" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/nokogiri-1.5.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/nokogiri-1.5.9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/nokogiri-1.5.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/nokogiri-1.5.9/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/nokogiri/1.5.9" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/nokogiri-1.5.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/nokogiri-1.5.9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/nokogiri-1.5.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/nokogiri-1.5.9/tasks" />
+      </SOURCES>
+    </library>
     <library name="nokogiri (v1.6.8, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/nokogiri-1.6.8/bin" />
@@ -11368,6 +11434,20 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/path_expander-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="pg (v0.15.1, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/pg/0.15.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/pg-0.15.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/pg-0.15.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/pg-0.15.1/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/pg/0.15.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/pg-0.15.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/pg-0.15.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/pg-0.15.1/sample" />
       </SOURCES>
     </library>
     <library name="pg (v0.19.0, RVM: ruby-2.2.2 [survey]) [gem]">
@@ -13450,6 +13530,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rainbow-3.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="raindrops (v0.11.0, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/raindrops/0.11.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/raindrops-0.11.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/raindrops-0.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/raindrops/0.11.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/raindrops-0.11.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/raindrops-0.11.0/lib" />
       </SOURCES>
     </library>
     <library name="raindrops (v0.19.0, RVM: ruby-2.4.1 [new_app]) [gem]">
