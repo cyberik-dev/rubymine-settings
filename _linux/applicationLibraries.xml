@@ -13230,6 +13230,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/sdoc-0.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="select2-rails (v4.0.3, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/select2-rails-4.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/select2-rails-4.0.3/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/select2-rails-4.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/select2-rails-4.0.3/vendor" />
+      </SOURCES>
+    </library>
+    <library name="selectize-rails (v0.12.4.1, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/selectize-rails-0.12.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/selectize-rails-0.12.4.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/selectize-rails-0.12.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/selectize-rails-0.12.4.1/vendor" />
+      </SOURCES>
+    </library>
     <library name="selenium-webdriver (v2.53.4, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/selenium-webdriver-2.53.4/lib" />
