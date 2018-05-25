@@ -2480,6 +2480,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/childprocess-0.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="childprocess (v0.9.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/childprocess-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/childprocess-0.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="choice (v0.2.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/choice-0.2.0/lib" />
@@ -13446,6 +13454,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/selenium-webdriver-2.53.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.12.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/selenium-webdriver-3.12.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/selenium-webdriver-3.12.0/lib" />
       </SOURCES>
     </library>
     <library name="selenium-webdriver (v3.5.2, RVM: ruby-2.4.1 [salesfolk]) [gem]">
