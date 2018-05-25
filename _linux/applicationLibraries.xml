@@ -5650,6 +5650,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/headless-2.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="headless (v2.3.1, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/headless-2.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/headless-2.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="hike (v1.2.3, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/hike-1.2.3/lib" />
