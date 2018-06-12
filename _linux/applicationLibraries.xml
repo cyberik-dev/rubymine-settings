@@ -11220,6 +11220,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rack-protection-2.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="rack-protection (v2.0.3, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rack-protection-2.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rack-protection-2.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-proxy (v0.6.2, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/rack-proxy-0.6.2/lib" />
@@ -14600,6 +14608,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sinatra-2.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="sinatra (v2.0.3, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sinatra-2.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sinatra-2.0.3/lib" />
       </SOURCES>
     </library>
     <library name="skinny (v0.2.4, RVM: ruby-2.5.1 [social_health_online]) [gem]">
