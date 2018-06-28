@@ -9292,6 +9292,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/multipart-post-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="multipart-post (v2.0.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/multipart-post-2.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="mustermann (v1.0.2, RVM: ruby-2.5.0 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/mustermann-1.0.2/lib" />
@@ -15574,6 +15582,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/sshkit-interactive-0.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="stripe (v3.15.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-3.15.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-3.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-3.15.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-3.15.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-3.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-3.15.0/.github" />
       </SOURCES>
     </library>
     <library name="telegram-bot (v0.11.3, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
