@@ -11952,6 +11952,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/pundit-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="pundit (v2.0.0, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/pundit-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/pundit-2.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="pundit-matchers (v1.3.1, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/pundit-matchers-1.3.1/lib" />
