@@ -3646,6 +3646,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/connection_pool-2.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="connection_pool (v2.2.2, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/connection_pool-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/connection_pool-2.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="coolline (v0.5.0, RVM: ruby-2.4.1 [telegram_bot_sample_app]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot_sample_app/gems/coolline-0.5.0/lib" />
@@ -3798,6 +3806,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/daemons-1.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="dante (v0.2.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/dante-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/dante-0.2.0/lib" />
       </SOURCES>
     </library>
     <library name="database_cleaner (v0.9.1, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
@@ -13616,6 +13632,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/redis-3.3.3/benchmarking" />
       </SOURCES>
     </library>
+    <library name="redis (v4.0.1, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/redis-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/redis-4.0.1/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/redis-4.0.1/benchmarking" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/redis-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/redis-4.0.1/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/redis-4.0.1/benchmarking" />
+      </SOURCES>
+    </library>
     <library name="redis-actionpack (v5.0.1, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/redis-actionpack-5.0.1/lib" />
@@ -14184,6 +14212,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rspec-rails-3.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-sidekiq (v3.0.3, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rspec-sidekiq-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rspec-sidekiq-3.0.3/lib" />
       </SOURCES>
     </library>
     <library name="rspec-support (v3.5.0, RVM: ruby-2.4.1 [telegram_bot_sample_app]) [gem]">
@@ -15642,6 +15678,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/sidekiq-5.0.4/.github" />
       </SOURCES>
     </library>
+    <library name="sidekiq (v5.1.3, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sidekiq-5.1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sidekiq-5.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sidekiq-5.1.3/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sidekiq-5.1.3/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sidekiq-5.1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sidekiq-5.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sidekiq-5.1.3/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sidekiq-5.1.3/.github" />
+      </SOURCES>
+    </library>
     <library name="sidekiq-client-cli (v0.1.7, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/sidekiq-client-cli-0.1.7/bin" />
@@ -16470,6 +16520,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-3.15.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-3.15.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-3.15.0/.github" />
+      </SOURCES>
+    </library>
+    <library name="stripe-ruby-mock (v2.5.4, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-ruby-mock-2.5.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-ruby-mock-2.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-ruby-mock-2.5.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-ruby-mock-2.5.4/lib" />
       </SOURCES>
     </library>
     <library name="stripe_event (v2.1.1, RVM: ruby-2.5.1 [social_health_online]) [gem]">
