@@ -1450,6 +1450,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/autoprefixer-rails-8.3.0/vendor" />
       </SOURCES>
     </library>
+    <library name="autoprefixer-rails (v9.0.0, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/autoprefixer-rails-9.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/autoprefixer-rails-9.0.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/autoprefixer-rails-9.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/autoprefixer-rails-9.0.0/vendor" />
+      </SOURCES>
+    </library>
     <library name="awesome_print (v1.1.0, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/awesome_print-1.1.0/lib" />
@@ -7094,6 +7104,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@reminder_bot/gems/hpricot-0.8.6/extras" />
       </SOURCES>
     </library>
+    <library name="hpricot (v0.8.6, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/extras" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/extras" />
+      </SOURCES>
+    </library>
     <library name="html2haml (v2.2.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/html2haml-2.2.0/bin" />
@@ -7122,6 +7144,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@reminder_bot/gems/html2slim-0.2.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@reminder_bot/gems/html2slim-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="html2slim (v0.2.0, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/html2slim-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/html2slim-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/html2slim-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/html2slim-0.2.0/lib" />
       </SOURCES>
     </library>
     <library name="htmlentities (v4.3.4, RVM: ruby-2.5.0 [social_health_online]) [gem]">
@@ -12014,6 +12046,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/popper_js-1.12.9/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/popper_js-1.12.9/assets" />
+      </SOURCES>
+    </library>
+    <library name="popper_js (v1.12.9, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/popper_js-1.12.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/popper_js-1.12.9/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/popper_js-1.12.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/popper_js-1.12.9/assets" />
       </SOURCES>
     </library>
     <library name="power_assert (v0.2.2, RVM: ruby-2.2.2 [global]) [gem]">
