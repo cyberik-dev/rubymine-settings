@@ -7744,10 +7744,12 @@
     </library>
     <library name="jaro_winkler (v1.5.1, RVM: ruby-2.5.1 [up_free]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/jaro_winkler-1.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/jaro_winkler-1.5.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/jaro_winkler-1.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/jaro_winkler-1.5.1/lib" />
       </SOURCES>
@@ -11064,6 +11066,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/parser-2.5.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.5.1.2, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/parser-2.5.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/parser-2.5.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/parser-2.5.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/parser-2.5.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="path_expander (v1.0.3, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/path_expander-1.0.3/lib" />
@@ -11530,6 +11542,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/powerpack-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="powerpack (v0.1.2, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/powerpack-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/powerpack-0.1.2/lib" />
       </SOURCES>
     </library>
     <library name="pry (v0.10.4, RVM: ruby-2.2.2 [survey]) [gem]">
@@ -14654,6 +14674,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.2/config" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.58.2, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.58.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.58.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.58.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.58.2/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.58.2/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.58.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.58.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.58.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.58.2/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.58.2/config" />
+      </SOURCES>
+    </library>
     <library name="rubocop-rails (v1.2.1, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/rubocop-rails-1.2.1/config" />
@@ -14740,6 +14776,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/ruby-graphviz-1.2.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/ruby-graphviz-1.2.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/ruby-graphviz-1.2.3/man" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.10.0, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/ruby-progressbar-1.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/ruby-progressbar-1.10.0/lib" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.8.1, RVM: ruby-2.2.2 [survey]) [gem]">
@@ -17978,6 +18022,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/unicode-display_width-1.3.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/unicode-display_width-1.3.3/data" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v1.4.0, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/unicode-display_width-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/unicode-display_width-1.4.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/unicode-display_width-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/unicode-display_width-1.4.0/data" />
       </SOURCES>
     </library>
     <library name="unicode_utils (v1.4.0, RVM: ruby-2.4.1 [telegram_bot_sample_app]) [gem]">
