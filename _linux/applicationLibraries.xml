@@ -616,6 +616,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/activemodel-5.2.0.rc2/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel (v5.2.1, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/activemodel-5.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/activemodel-5.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel-serializers-xml (v1.0.2, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/activemodel-serializers-xml-1.0.2/lib" />
@@ -726,6 +734,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/activerecord-5.2.0.rc2/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v5.2.1, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/activerecord-5.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/activerecord-5.2.1/lib" />
       </SOURCES>
     </library>
     <library name="activeresource (v3.2.12, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
@@ -908,6 +924,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/activesupport-5.2.0.rc2/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.2.1, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/activesupport-5.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/activesupport-5.2.1/lib" />
       </SOURCES>
     </library>
     <library name="acts_as_list (v0.9.7, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -1182,6 +1206,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/arel-8.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="arel (v9.0.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/arel-9.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/arel-9.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="arel (v9.0.0, RVM: ruby-2.5.0 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/arel-9.0.0/lib" />
@@ -1420,6 +1452,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/aws-eventstream-1.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-eventstream (v1.0.1, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-eventstream-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-eventstream-1.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-partitions (v1.91.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/aws-partitions-1.91.0/lib" />
@@ -1428,12 +1468,316 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/aws-partitions-1.91.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.97.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-partitions-1.97.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-partitions-1.97.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.10.16, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/aws-sdk-2.10.16/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/aws-sdk-2.10.16/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk (v3.0.1, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-3.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-3.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-acm (v1.9.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-acm-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-acm-1.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-acmpca (v1.2.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-acmpca-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-acmpca-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-alexaforbusiness (v1.7.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-alexaforbusiness-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-alexaforbusiness-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-apigateway (v1.13.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-apigateway-1.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-apigateway-1.13.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-applicationautoscaling (v1.11.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-applicationautoscaling-1.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-applicationautoscaling-1.11.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-applicationdiscoveryservice (v1.2.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-applicationdiscoveryservice-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-applicationdiscoveryservice-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-appstream (v1.13.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-appstream-1.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-appstream-1.13.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-appsync (v1.4.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-appsync-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-appsync-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-athena (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-athena-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-athena-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-autoscaling (v1.6.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-autoscaling-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-autoscaling-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-autoscalingplans (v1.3.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-autoscalingplans-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-autoscalingplans-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-batch (v1.5.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-batch-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-batch-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-budgets (v1.8.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-budgets-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-budgets-1.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-cloud9 (v1.2.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloud9-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloud9-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-clouddirectory (v1.5.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-clouddirectory-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-clouddirectory-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-cloudformation (v1.6.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloudformation-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloudformation-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-cloudfront (v1.4.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloudfront-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloudfront-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-cloudhsm (v1.4.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloudhsm-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloudhsm-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-cloudhsmv2 (v1.3.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloudhsmv2-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloudhsmv2-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-cloudsearch (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloudsearch-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloudsearch-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-cloudsearchdomain (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloudsearchdomain-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloudsearchdomain-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-cloudtrail (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloudtrail-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloudtrail-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-cloudwatch (v1.6.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloudwatch-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloudwatch-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-cloudwatchevents (v1.4.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloudwatchevents-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloudwatchevents-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-cloudwatchlogs (v1.5.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloudwatchlogs-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cloudwatchlogs-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-codebuild (v1.14.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-codebuild-1.14.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-codebuild-1.14.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-codecommit (v1.4.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-codecommit-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-codecommit-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-codedeploy (v1.6.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-codedeploy-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-codedeploy-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-codepipeline (v1.5.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-codepipeline-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-codepipeline-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-codestar (v1.2.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-codestar-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-codestar-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-cognitoidentity (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cognitoidentity-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cognitoidentity-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-cognitoidentityprovider (v1.5.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cognitoidentityprovider-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cognitoidentityprovider-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-cognitosync (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cognitosync-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-cognitosync-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-comprehend (v1.3.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-comprehend-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-comprehend-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-configservice (v1.13.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-configservice-1.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-configservice-1.13.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-connect (v1.2.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-connect-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-connect-1.2.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v2.10.16, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -1456,12 +1800,652 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/aws-sdk-core-3.21.2/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-core (v3.24.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-core-3.24.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-core-3.24.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-costandusagereportservice (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-costandusagereportservice-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-costandusagereportservice-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-costexplorer (v1.7.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-costexplorer-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-costexplorer-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-databasemigrationservice (v1.7.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-databasemigrationservice-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-databasemigrationservice-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-datapipeline (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-datapipeline-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-datapipeline-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-dax (v1.2.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-dax-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-dax-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-devicefarm (v1.7.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-devicefarm-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-devicefarm-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-directconnect (v1.3.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-directconnect-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-directconnect-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-directoryservice (v1.3.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-directoryservice-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-directoryservice-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-dlm (v1.0.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-dlm-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-dlm-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-dynamodb (v1.10.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-dynamodb-1.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-dynamodb-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-dynamodbstreams (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-dynamodbstreams-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-dynamodbstreams-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-ec2 (v1.41.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-ec2-1.41.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-ec2-1.41.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-ecr (v1.4.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-ecr-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-ecr-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-ecs (v1.17.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-ecs-1.17.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-ecs-1.17.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-efs (v1.2.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-efs-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-efs-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-eks (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-eks-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-eks-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-elasticache (v1.4.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-elasticache-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-elasticache-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-elasticbeanstalk (v1.8.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-elasticbeanstalk-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-elasticbeanstalk-1.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-elasticloadbalancing (v1.3.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-elasticloadbalancing-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-elasticloadbalancing-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-elasticloadbalancingv2 (v1.12.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-elasticloadbalancingv2-1.12.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-elasticloadbalancingv2-1.12.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-elasticsearchservice (v1.7.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-elasticsearchservice-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-elasticsearchservice-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-elastictranscoder (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-elastictranscoder-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-elastictranscoder-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-emr (v1.3.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-emr-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-emr-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-firehose (v1.4.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-firehose-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-firehose-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-fms (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-fms-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-fms-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-gamelift (v1.5.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-gamelift-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-gamelift-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-glacier (v1.9.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-glacier-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-glacier-1.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-glue (v1.11.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-glue-1.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-glue-1.11.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-greengrass (v1.5.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-greengrass-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-greengrass-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-guardduty (v1.5.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-guardduty-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-guardduty-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-health (v1.3.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-health-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-health-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-iam (v1.6.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-iam-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-iam-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-importexport (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-importexport-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-importexport-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-inspector (v1.6.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-inspector-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-inspector-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-iot (v1.11.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-iot-1.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-iot-1.11.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-iot1clickdevicesservice (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-iot1clickdevicesservice-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-iot1clickdevicesservice-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-iot1clickprojects (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-iot1clickprojects-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-iot1clickprojects-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-iotanalytics (v1.3.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-iotanalytics-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-iotanalytics-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-iotdataplane (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-iotdataplane-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-iotdataplane-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-iotjobsdataplane (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-iotjobsdataplane-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-iotjobsdataplane-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-kinesis (v1.4.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-kinesis-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-kinesis-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-kinesisanalytics (v1.3.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-kinesisanalytics-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-kinesisanalytics-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-kinesisvideo (v1.2.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-kinesisvideo-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-kinesisvideo-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-kinesisvideoarchivedmedia (v1.2.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-kinesisvideoarchivedmedia-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-kinesisvideoarchivedmedia-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-kinesisvideomedia (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-kinesisvideomedia-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-kinesisvideomedia-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-kms (v1.5.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/aws-sdk-kms-1.5.0/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/aws-sdk-kms-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-kms (v1.7.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-kms-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-kms-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-lambda (v1.8.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-lambda-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-lambda-1.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-lambdapreview (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-lambdapreview-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-lambdapreview-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-lex (v1.4.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-lex-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-lex-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-lexmodelbuildingservice (v1.6.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-lexmodelbuildingservice-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-lexmodelbuildingservice-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-lightsail (v1.5.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-lightsail-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-lightsail-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-machinelearning (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-machinelearning-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-machinelearning-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-macie (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-macie-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-macie-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-marketplacecommerceanalytics (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-marketplacecommerceanalytics-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-marketplacecommerceanalytics-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-marketplaceentitlementservice (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-marketplaceentitlementservice-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-marketplaceentitlementservice-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-marketplacemetering (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-marketplacemetering-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-marketplacemetering-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-mediaconvert (v1.7.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-mediaconvert-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-mediaconvert-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-medialive (v1.8.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-medialive-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-medialive-1.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-mediapackage (v1.3.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-mediapackage-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-mediapackage-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-mediastore (v1.2.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-mediastore-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-mediastore-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-mediastoredata (v1.2.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-mediastoredata-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-mediastoredata-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-mediatailor (v1.2.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-mediatailor-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-mediatailor-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-migrationhub (v1.3.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-migrationhub-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-migrationhub-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-mobile (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-mobile-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-mobile-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-mq (v1.2.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-mq-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-mq-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-mturk (v1.4.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-mturk-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-mturk-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-neptune (v1.2.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-neptune-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-neptune-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-opsworks (v1.4.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-opsworks-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-opsworks-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-opsworkscm (v1.3.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-opsworkscm-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-opsworkscm-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-organizations (v1.10.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-organizations-1.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-organizations-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-pi (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-pi-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-pi-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-pinpoint (v1.7.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-pinpoint-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-pinpoint-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-polly (v1.8.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-polly-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-polly-1.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-pricing (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-pricing-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-pricing-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-rds (v1.25.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-rds-1.25.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-rds-1.25.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-redshift (v1.6.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-redshift-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-redshift-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-rekognition (v1.5.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-rekognition-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-rekognition-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resourcegroups (v1.2.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-resourcegroups-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-resourcegroups-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resourcegroupstaggingapi (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-resourcegroupstaggingapi-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-resourcegroupstaggingapi-1.1.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-resources (v2.10.16, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -1472,12 +2456,262 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/aws-sdk-resources-2.10.16/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-resources (v3.22.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-resources-3.22.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-resources-3.22.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-resources-3.22.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-resources-3.22.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-route53 (v1.10.1, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-route53-1.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-route53-1.10.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-route53domains (v1.3.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-route53domains-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-route53domains-1.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-s3 (v1.13.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/aws-sdk-s3-1.13.0/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/aws-sdk-s3-1.13.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-s3 (v1.17.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-s3-1.17.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-s3-1.17.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-sagemaker (v1.13.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-sagemaker-1.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-sagemaker-1.13.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-sagemakerruntime (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-sagemakerruntime-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-sagemakerruntime-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-secretsmanager (v1.11.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-secretsmanager-1.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-secretsmanager-1.11.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-serverlessapplicationrepository (v1.4.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-serverlessapplicationrepository-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-serverlessapplicationrepository-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-servicecatalog (v1.6.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-servicecatalog-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-servicecatalog-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-servicediscovery (v1.3.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-servicediscovery-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-servicediscovery-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-ses (v1.8.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-ses-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-ses-1.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-shield (v1.3.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-shield-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-shield-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-simpledb (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-simpledb-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-simpledb-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-sms (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-sms-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-sms-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-snowball (v1.4.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-snowball-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-snowball-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-sns (v1.3.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-sns-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-sns-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-sqs (v1.4.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-sqs-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-sqs-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-ssm (v1.22.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-ssm-1.22.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-ssm-1.22.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-states (v1.3.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-states-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-states-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-storagegateway (v1.7.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-storagegateway-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-storagegateway-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-support (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-support-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-support-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-swf (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-swf-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-swf-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-transcribeservice (v1.4.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-transcribeservice-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-transcribeservice-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-translate (v1.2.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-translate-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-translate-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-waf (v1.5.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-waf-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-waf-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-wafregional (v1.5.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-wafregional-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-wafregional-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-workdocs (v1.2.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-workdocs-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-workdocs-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-workmail (v1.2.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-workmail-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-workmail-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-workspaces (v1.3.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-workspaces-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-workspaces-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-xray (v1.3.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-xray-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sdk-xray-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sigv2 (v1.0.1, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sigv2-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sigv2-1.0.1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sigv4 (v1.0.2, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -1494,6 +2728,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/aws-sigv4-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sigv4 (v1.0.3, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sigv4-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/aws-sigv4-1.0.3/lib" />
       </SOURCES>
     </library>
     <library name="aws_cf_signer (v0.1.3, RVM: ruby-2.2.2 [itera]) [gem]">
@@ -2274,6 +3516,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/bundler-1.16.2/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.16.3, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/bundler-1.16.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/bundler-1.16.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/bundler-1.16.3/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/bundler-1.16.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/bundler-1.16.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/bundler-1.16.3/man" />
+      </SOURCES>
+    </library>
     <library name="bundler-unload (v1.0.2, RVM: ruby-1.9.3-p551 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/bundler-unload-1.0.2/lib" />
@@ -2400,6 +3654,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/bundler-unload-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="bundler-unload (v1.0.2, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/bundler-unload-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/bundler-unload-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="bundler-unload (v1.0.2, RVM: ruby-2.5.0 [global]) [gem]">
@@ -3636,6 +4898,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot_sample_app/gems/concurrent-ruby-1.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="concurrent-ruby (v1.0.5, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/concurrent-ruby-1.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/concurrent-ruby-1.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="concurrent-ruby (v1.0.5, RVM: ruby-2.5.0 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/concurrent-ruby-1.0.5/lib" />
@@ -3682,6 +4952,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/connection_pool-2.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="connection_pool (v2.2.2, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/connection_pool-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/connection_pool-2.2.2/lib" />
       </SOURCES>
     </library>
     <library name="connection_pool (v2.2.2, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -3836,6 +5114,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/daemons-1.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="daemons (v1.2.6, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/daemons-1.2.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/daemons-1.2.6/lib" />
       </SOURCES>
     </library>
     <library name="daemons (v1.2.6, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -4344,6 +5630,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/did_you_mean-1.1.0/evaluation" />
       </SOURCES>
     </library>
+    <library name="did_you_mean (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/did_you_mean-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/did_you_mean-1.1.0/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/did_you_mean-1.1.0/evaluation" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/did_you_mean-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/did_you_mean-1.1.0/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/did_you_mean-1.1.0/evaluation" />
+      </SOURCES>
+    </library>
     <library name="did_you_mean (v1.2.0, RVM: ruby-2.5.0 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/did_you_mean-1.2.0/lib" />
@@ -4524,6 +5822,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot_sample_app/gems/diff-lcs-1.3/autotest" />
       </SOURCES>
     </library>
+    <library name="diff-lcs (v1.3, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/diff-lcs-1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/diff-lcs-1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/diff-lcs-1.3/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/diff-lcs-1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/diff-lcs-1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/diff-lcs-1.3/autotest" />
+      </SOURCES>
+    </library>
     <library name="diff-lcs (v1.3, RVM: ruby-2.5.0 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/diff-lcs-1.3/bin" />
@@ -4602,6 +5912,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/domain_name-0.5.20170404/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/domain_name-0.5.20170404/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/domain_name-0.5.20170404/tool" />
+      </SOURCES>
+    </library>
+    <library name="domain_name (v0.5.20180417, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/domain_name-0.5.20180417/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/domain_name-0.5.20180417/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/domain_name-0.5.20180417/tool" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/domain_name-0.5.20180417/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/domain_name-0.5.20180417/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/domain_name-0.5.20180417/tool" />
       </SOURCES>
     </library>
     <library name="dotenv (v2.2.1, RVM: ruby-2.2.2 [itera]) [gem]">
@@ -4932,6 +6254,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/eventmachine-1.2.5/rakelib" />
       </SOURCES>
     </library>
+    <library name="eventmachine (v1.2.7, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/eventmachine-1.2.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/eventmachine-1.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/eventmachine-1.2.7/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/eventmachine-1.2.7/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/eventmachine-1.2.7/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/eventmachine-1.2.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/eventmachine-1.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/eventmachine-1.2.7/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/eventmachine-1.2.7/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/eventmachine-1.2.7/rakelib" />
+      </SOURCES>
+    </library>
     <library name="exception_notification (v3.0.1, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/exception_notification-3.0.1/lib" />
@@ -5182,6 +6520,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/executable-hooks-1.3.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/executable-hooks-1.3.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/executable-hooks-1.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="executable-hooks (v1.3.2, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/executable-hooks-1.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/executable-hooks-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/executable-hooks-1.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/executable-hooks-1.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/executable-hooks-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/executable-hooks-1.3.2/lib" />
       </SOURCES>
     </library>
     <library name="executable-hooks (v1.3.2, RVM: ruby-2.5.0 [global]) [gem]">
@@ -6120,6 +7470,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/gem-wrappers-1.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="gem-wrappers (v1.3.2, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/gem-wrappers-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/gem-wrappers-1.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/gem-wrappers-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/gem-wrappers-1.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="gem-wrappers (v1.3.2, RVM: ruby-2.5.0 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/gem-wrappers-1.3.2/ext" />
@@ -6782,6 +8142,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/http-cookie-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="http-cookie (v1.0.3, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/http-cookie-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/http-cookie-1.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="http_parser.rb (v0.5.3, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/http_parser.rb/0.5.3" />
@@ -7038,6 +8406,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/i18n-1.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/i18n-1.0.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v1.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/i18n-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/i18n-1.1.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/i18n-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/i18n-1.1.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="ice_nine (v0.11.2, RVM: ruby-2.2.2 [itera]) [gem]">
@@ -7834,6 +9212,70 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="io-console (v0.4.6, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/forwardable" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/x86_64-linux" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/unicode_normalize" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/forwardable" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/x86_64-linux" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/unicode_normalize" />
+      </SOURCES>
+    </library>
     <library name="io-like (v0.3.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/io-like-0.3.0/lib" />
@@ -7970,6 +9412,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/jmespath-1.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="jmespath (v1.4.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/jmespath-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/jmespath-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="jmespath (v1.4.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -8218,6 +9668,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/json-2.1.0/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/json-2.1.0/diagrams" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/json-2.1.0/references" />
+      </SOURCES>
+    </library>
+    <library name="json (v2.1.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/json-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/json-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/json-2.1.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/json-2.1.0/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/json-2.1.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/json-2.1.0/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/json-2.1.0/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/json-2.1.0/references" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/json-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/json-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/json-2.1.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/json-2.1.0/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/json-2.1.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/json-2.1.0/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/json-2.1.0/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/json-2.1.0/references" />
       </SOURCES>
     </library>
     <library name="json-schema (v2.8.0, RVM: ruby-2.5.1 [vue_demo_app]) [gem]">
@@ -9024,6 +10498,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/marcel-0.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="mechanize (v2.7.6, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/mechanize-2.7.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/mechanize-2.7.6/lib" />
+      </SOURCES>
+    </library>
     <library name="memoist (v0.16.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/memoist-0.16.0/lib" />
@@ -9214,6 +10696,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/mime-types-3.1/lib" />
       </SOURCES>
     </library>
+    <library name="mime-types (v3.2.2, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/mime-types-3.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/mime-types-3.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="mime-types-data (v3.2016.0521, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/mime-types-data-3.2016.0521/lib" />
@@ -9282,6 +10772,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/mime-types-data-3.2016.0521/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/mime-types-data-3.2016.0521/data" />
+      </SOURCES>
+    </library>
+    <library name="mime-types-data (v3.2018.0812, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/mime-types-data-3.2018.0812/types" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/mime-types-data-3.2018.0812/types" />
       </SOURCES>
     </library>
     <library name="mimemagic (v0.3.2, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -9518,6 +11020,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot_sample_app/gems/mini_portile2-2.3.0/concourse" />
       </SOURCES>
     </library>
+    <library name="mini_portile2 (v2.3.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/mini_portile2-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/mini_portile2-2.3.0/concourse" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/mini_portile2-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/mini_portile2-2.3.0/concourse" />
+      </SOURCES>
+    </library>
     <library name="mini_portile2 (v2.3.0, RVM: ruby-2.5.0 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/mini_portile2-2.3.0/lib" />
@@ -9620,6 +11132,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/minitest-5.10.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.10.1, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/minitest-5.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/minitest-5.10.1/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.10.3, RVM: ruby-2.2.2 [itera]) [gem]">
@@ -9748,6 +11268,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/minitest-5.11.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.11.3, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/minitest-5.11.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/minitest-5.11.3/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.11.3, RVM: ruby-2.5.0 [social_health_online]) [gem]">
@@ -10174,6 +11702,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/mysql2-0.4.9/support" />
       </SOURCES>
     </library>
+    <library name="mysql2 (v0.5.2, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/mysql2-0.5.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/mysql2-0.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/mysql2-0.5.2/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/mysql2-0.5.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/mysql2-0.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/mysql2-0.5.2/support" />
+      </SOURCES>
+    </library>
     <library name="naturalsort (v1.1.1, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/naturalsort-1.1.1/lib" />
@@ -10196,6 +11736,24 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/nested_form_fields-0.8.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-http-digest_auth (v1.4.1, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/net-http-digest_auth-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/net-http-digest_auth-1.4.1/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/net-http-digest_auth-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/net-http-digest_auth-1.4.1/sample" />
+      </SOURCES>
+    </library>
+    <library name="net-http-persistent (v3.0.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/net-http-persistent-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/net-http-persistent-3.0.0/lib" />
       </SOURCES>
     </library>
     <library name="net-scp (v1.2.1, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
@@ -10358,6 +11916,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/net-telnet-0.1.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/net-telnet-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-telnet (v0.1.1, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/net-telnet-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/net-telnet-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/net-telnet-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/net-telnet-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="net-telnet (v0.1.1, RVM: ruby-2.5.0 [global]) [gem]">
@@ -10802,6 +12370,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/nokogiri-1.8.2/suppressions" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.8.4, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/nokogiri-1.8.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/nokogiri-1.8.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/nokogiri-1.8.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/nokogiri-1.8.4/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/nokogiri-1.8.4/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/nokogiri-1.8.4/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/nokogiri-1.8.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/nokogiri-1.8.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/nokogiri-1.8.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/nokogiri-1.8.4/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/nokogiri-1.8.4/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/nokogiri-1.8.4/suppressions" />
+      </SOURCES>
+    </library>
     <library name="nokogiri (v1.8.4, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.4" />
@@ -10838,6 +12426,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/notiffany-0.1.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/notiffany-0.1.1/images" />
+      </SOURCES>
+    </library>
+    <library name="ntlm-http (v0.1.1, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/ntlm-http-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/ntlm-http-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="oauth2 (v0.8.1, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
@@ -11530,6 +13126,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/power_assert-0.4.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/power_assert-0.4.1/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="power_assert (v0.4.1, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/power_assert-0.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/power_assert-0.4.1/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/power_assert-0.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/power_assert-0.4.1/benchmarks" />
       </SOURCES>
     </library>
     <library name="power_assert (v1.1.1, RVM: ruby-2.5.0 [global]) [gem]">
@@ -13448,6 +15054,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/rake-12.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="rake (v12.0.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/rake-12.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/rake-12.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/rake-12.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/rake-12.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/rake-12.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/rake-12.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rake (v12.1.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/rake-12.1.0/bin" />
@@ -14248,6 +15866,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/rspec-2.13.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v3.8.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/rspec-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/rspec-3.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v2.13.1, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/rspec-core-2.13.1/exe" />
@@ -14340,6 +15966,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rspec-core-3.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.8.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/rspec-core-3.8.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/rspec-core-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/rspec-core-3.8.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/rspec-core-3.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v2.13.0, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/rspec-expectations-2.13.0/lib" />
@@ -14412,6 +16048,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rspec-expectations-3.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v3.8.1, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/rspec-expectations-3.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/rspec-expectations-3.8.1/lib" />
       </SOURCES>
     </library>
     <library name="rspec-its (v1.2.0, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
@@ -14510,6 +16154,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rspec-mocks-3.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.8.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/rspec-mocks-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/rspec-mocks-3.8.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-rails (v2.13.1, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
@@ -14656,6 +16308,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rspec-support-3.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.8.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/rspec-support-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/rspec-support-3.8.0/lib" />
       </SOURCES>
     </library>
     <library name="rubocop (v0.45.0, RVM: ruby-2.2.2 [survey]) [gem]">
@@ -15232,6 +16892,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/rubygems-bundler-1.4.4/lib" />
       </SOURCES>
     </library>
+    <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/rubygems-bundler-1.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/rubygems-bundler-1.4.4/lib" />
+      </SOURCES>
+    </library>
     <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.5.0 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/rubygems-bundler-1.4.4/lib" />
@@ -15488,6 +17156,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/rvm-1.11.3.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="rvm (v1.11.3.9, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/rvm-1.11.3.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/rvm-1.11.3.9/lib" />
       </SOURCES>
     </library>
     <library name="rvm (v1.11.3.9, RVM: ruby-2.5.0 [global]) [gem]">
@@ -17212,6 +18888,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/test-unit-3.2.3/sample" />
       </SOURCES>
     </library>
+    <library name="test-unit (v3.2.3, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/test-unit-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/test-unit-3.2.3/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/test-unit-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/test-unit-3.2.3/sample" />
+      </SOURCES>
+    </library>
     <library name="test-unit (v3.2.7, RVM: ruby-2.5.0 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/test-unit-3.2.7/lib" />
@@ -17588,6 +19274,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot_sample_app/gems/thread_safe-0.3.6/yard-template" />
       </SOURCES>
     </library>
+    <library name="thread_safe (v0.3.6, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/thread_safe-0.3.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/thread_safe-0.3.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/thread_safe-0.3.6/yard-template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/thread_safe-0.3.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/thread_safe-0.3.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/thread_safe-0.3.6/yard-template" />
+      </SOURCES>
+    </library>
     <library name="thread_safe (v0.3.6, RVM: ruby-2.5.0 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/thread_safe-0.3.6/ext" />
@@ -17954,6 +19654,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/tzinfo-1.2.5/lib" />
       </SOURCES>
     </library>
+    <library name="tzinfo (v1.2.5, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/tzinfo-1.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/tzinfo-1.2.5/lib" />
+      </SOURCES>
+    </library>
     <library name="tzinfo (v1.2.5, RVM: ruby-2.5.0 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/tzinfo-1.2.5/lib" />
@@ -18114,6 +19822,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/unf-0.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="unf (v0.1.4, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/unf-0.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/unf-0.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="unf_ext (v0.0.7.4, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/unf_ext-0.0.7.4/ext" />
@@ -18122,6 +19838,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/unf_ext-0.0.7.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/unf_ext-0.0.7.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="unf_ext (v0.0.7.5, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/unf_ext-0.0.7.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/unf_ext-0.0.7.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/unf_ext-0.0.7.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/unf_ext-0.0.7.5/lib" />
       </SOURCES>
     </library>
     <library name="unicode-display_width (v1.1.1, RVM: ruby-2.2.2 [survey]) [gem]">
@@ -18534,6 +20260,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/webpacker-3.5.3/gemfiles" />
       </SOURCES>
     </library>
+    <library name="webrobots (v0.1.2, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/webrobots-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/webrobots-0.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="websocket (v1.2.3, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/websocket-1.2.3/lib" />
@@ -18854,6 +20588,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/xmlrpc-0.2.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/xmlrpc-0.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="xmlrpc (v0.2.1, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/xmlrpc-0.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/xmlrpc-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/xmlrpc-0.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/xmlrpc-0.2.1/lib" />
       </SOURCES>
     </library>
     <library name="xmlrpc (v0.3.0, RVM: ruby-2.5.0 [global]) [gem]">
