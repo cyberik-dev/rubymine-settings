@@ -13868,6 +13868,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rack-1.6.10/example" />
       </SOURCES>
     </library>
+    <library name="rack (v1.6.10, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rack-1.6.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rack-1.6.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rack-1.6.10/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rack-1.6.10/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rack-1.6.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rack-1.6.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rack-1.6.10/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rack-1.6.10/example" />
+      </SOURCES>
+    </library>
     <library name="rack (v1.6.5, RVM: ruby-2.2.2 [survey]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rack-1.6.5/bin" />
@@ -14076,6 +14090,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rack-protection-1.5.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v1.5.5, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rack-protection-1.5.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rack-protection-1.5.5/lib" />
       </SOURCES>
     </library>
     <library name="rack-protection (v2.0.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
