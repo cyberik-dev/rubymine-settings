@@ -5132,6 +5132,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/daemons-1.2.6/lib" />
       </SOURCES>
     </library>
+    <library name="daemons (v1.2.6, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/daemons-1.2.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/daemons-1.2.6/lib" />
+      </SOURCES>
+    </library>
     <library name="dante (v0.2.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/dante-0.2.0/lib" />
@@ -6234,6 +6242,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/eventmachine-1.0.9.1/java" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/eventmachine-1.0.9.1/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/eventmachine-1.0.9.1/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="eventmachine (v1.0.9.1, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/eventmachine-1.0.9.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/eventmachine-1.0.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/eventmachine-1.0.9.1/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/eventmachine-1.0.9.1/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/eventmachine-1.0.9.1/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/eventmachine-1.0.9.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/eventmachine-1.0.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/eventmachine-1.0.9.1/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/eventmachine-1.0.9.1/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/eventmachine-1.0.9.1/rakelib" />
       </SOURCES>
     </library>
     <library name="eventmachine (v1.2.5, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -8094,6 +8118,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/hpricot-0.8.6/extras" />
       </SOURCES>
     </library>
+    <library name="hpricot (v0.8.6, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/extras" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/extras" />
+      </SOURCES>
+    </library>
     <library name="html2haml (v2.2.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/html2haml-2.2.0/bin" />
@@ -8112,6 +8148,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/html2slim-0.2.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/html2slim-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="html2slim (v0.2.0, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/html2slim-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/html2slim-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/html2slim-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/html2slim-0.2.0/lib" />
       </SOURCES>
     </library>
     <library name="htmlentities (v4.3.4, RVM: ruby-2.5.0 [social_health_online]) [gem]">
@@ -10464,6 +10510,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/mailcatcher-0.6.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/mailcatcher-0.6.5/views" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/mailcatcher-0.6.5/public" />
+      </SOURCES>
+    </library>
+    <library name="mailcatcher (v0.6.5, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/mailcatcher-0.6.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/mailcatcher-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/mailcatcher-0.6.5/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/mailcatcher-0.6.5/public" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/mailcatcher-0.6.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/mailcatcher-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/mailcatcher-0.6.5/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/mailcatcher-0.6.5/public" />
       </SOURCES>
     </library>
     <library name="marcel (v0.3.1, RVM: ruby-2.5.0 [social_health_online]) [gem]">
@@ -13868,6 +13928,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rack-1.6.10/example" />
       </SOURCES>
     </library>
+    <library name="rack (v1.6.10, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rack-1.6.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rack-1.6.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rack-1.6.10/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rack-1.6.10/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rack-1.6.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rack-1.6.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rack-1.6.10/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rack-1.6.10/example" />
+      </SOURCES>
+    </library>
     <library name="rack (v1.6.5, RVM: ruby-2.2.2 [survey]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rack-1.6.5/bin" />
@@ -14076,6 +14150,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rack-protection-1.5.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v1.5.5, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rack-protection-1.5.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rack-protection-1.5.5/lib" />
       </SOURCES>
     </library>
     <library name="rack-protection (v2.0.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -16472,6 +16554,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.56.0/config" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.57.1, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/config" />
+      </SOURCES>
+    </library>
     <library name="rubocop (v0.57.2, RVM: ruby-2.5.1 [up_free]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.2/bin" />
@@ -17960,6 +18058,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sinatra-1.4.8/lib" />
       </SOURCES>
     </library>
+    <library name="sinatra (v1.4.8, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/sinatra-1.4.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/sinatra-1.4.8/lib" />
+      </SOURCES>
+    </library>
     <library name="sinatra (v2.0.1, RVM: ruby-2.5.0 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/sinatra-2.0.1/lib" />
@@ -17990,6 +18096,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/skinny-0.2.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="skinny (v0.2.4, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/skinny-0.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/skinny-0.2.4/lib" />
       </SOURCES>
     </library>
     <library name="slack-notifier (v2.3.1, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -19024,6 +19138,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/thin-1.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/thin-1.5.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/thin-1.5.1/example" />
+      </SOURCES>
+    </library>
+    <library name="thin (v1.5.1, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/thin-1.5.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/thin-1.5.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/thin-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/thin-1.5.1/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/thin-1.5.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/thin-1.5.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/thin-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/thin-1.5.1/example" />
       </SOURCES>
     </library>
     <library name="thin (v1.6.3, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
