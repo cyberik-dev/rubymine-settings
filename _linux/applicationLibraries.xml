@@ -3028,6 +3028,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
     </library>
+    <library name="bcrypt (v3.1.12, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.12" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bcrypt-3.1.12/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bcrypt-3.1.12/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.12" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bcrypt-3.1.12/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bcrypt-3.1.12/lib" />
+      </SOURCES>
+    </library>
     <library name="bcrypt (v3.1.12, RVM: ruby-2.5.1 [up_free]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.12" />
@@ -3344,6 +3356,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/bootsnap-1.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="bootsnap (v1.3.1, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.3.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bootsnap-1.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bootsnap-1.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bootsnap-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.3.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bootsnap-1.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bootsnap-1.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bootsnap-1.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="bootstrap (v4.0.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/bootstrap-4.0.0/lib" />
@@ -3390,6 +3416,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bootstrap-4.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bootstrap-4.1.0/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bootstrap-4.1.0/assets" />
+      </SOURCES>
+    </library>
+    <library name="bootstrap (v4.1.1, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bootstrap-4.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bootstrap-4.1.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bootstrap-4.1.1/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bootstrap-4.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bootstrap-4.1.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bootstrap-4.1.1/assets" />
       </SOURCES>
     </library>
     <library name="bootstrap (v4.1.2, RVM: ruby-2.5.1 [up_free]) [gem]">
@@ -4696,6 +4734,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/chronic-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="chronic (v0.10.2, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/chronic-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/chronic-0.10.2/lib" />
       </SOURCES>
     </library>
     <library name="chronic (v0.9.1, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
@@ -6568,6 +6614,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/docile-1.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="docile (v1.3.1, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/docile-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/docile-1.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="domain_name (v0.5.20170404, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/domain_name-0.5.20170404/lib" />
@@ -7486,6 +7540,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.4.2/test-tf-bundle" />
       </SOURCES>
     </library>
+    <library name="factory_bot (v4.10.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/factory_bot-4.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/factory_bot-4.10.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/factory_bot-4.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/factory_bot-4.10.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="factory_bot (v4.10.0, RVM: ruby-2.5.1 [up_free]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/factory_bot-4.10.0/lib" />
@@ -7534,6 +7598,20 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/factory_bot-4.8.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/factory_bot-4.8.2/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="factory_bot_rails (v4.10.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/factory_bot_rails-4.10.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/factory_bot_rails-4.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/factory_bot_rails-4.10.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/factory_bot_rails-4.10.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/factory_bot_rails-4.10.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/factory_bot_rails-4.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/factory_bot_rails-4.10.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/factory_bot_rails-4.10.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="factory_bot_rails (v4.10.0, RVM: ruby-2.5.1 [up_free]) [gem]">
@@ -7974,6 +8052,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/ffi-1.9.23/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/ffi-1.9.23/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/ffi-1.9.23/samples" />
+      </SOURCES>
+    </library>
+    <library name="ffi (v1.9.25, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/ffi-1.9.25/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/ffi-1.9.25/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/ffi-1.9.25/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/ffi-1.9.25/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/ffi-1.9.25/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/ffi-1.9.25/samples" />
       </SOURCES>
     </library>
     <library name="flay (v2.10.0, RVM: ruby-2.2.2 [itera]) [gem]">
@@ -8682,6 +8774,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/gon-6.2.0/js" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/gon-6.2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/gon-6.2.0/coffee" />
+      </SOURCES>
+    </library>
+    <library name="gon (v6.2.1, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/gon-6.2.1/js" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/gon-6.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/gon-6.2.1/coffee" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/gon-6.2.1/js" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/gon-6.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/gon-6.2.1/coffee" />
       </SOURCES>
     </library>
     <library name="google-api-client (v0.13.1, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
@@ -9510,6 +9614,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/image_processing-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="image_processing (v1.6.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/image_processing-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/image_processing-1.6.0/lib" />
       </SOURCES>
     </library>
     <library name="innertube (v1.1.0, RVM: ruby-2.3.4 [sharetribe]) [gem]">
@@ -13768,6 +13880,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/nio4r-2.3.0/tasks" />
       </SOURCES>
     </library>
+    <library name="nio4r (v2.3.1, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/nio4r-2.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/nio4r-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/nio4r-2.3.1/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/nio4r-2.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/nio4r-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/nio4r-2.3.1/tasks" />
+      </SOURCES>
+    </library>
     <library name="nio4r (v2.3.1, RVM: ruby-2.5.1 [up_free]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
@@ -17802,6 +17928,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/redis-4.0.1/benchmarking" />
       </SOURCES>
     </library>
+    <library name="redis (v4.0.2, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/redis-4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/redis-4.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/redis-4.0.2/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/redis-4.0.2/benchmarking" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/redis-4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/redis-4.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/redis-4.0.2/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/redis-4.0.2/benchmarking" />
+      </SOURCES>
+    </library>
     <library name="redis-actionpack (v5.0.1, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/redis-actionpack-5.0.1/lib" />
@@ -18964,6 +19104,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/ruby-vips-2.0.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/ruby-vips-2.0.12/example" />
+      </SOURCES>
+    </library>
+    <library name="ruby-vips (v2.0.13, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/ruby-vips-2.0.13/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/ruby-vips-2.0.13/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/ruby-vips-2.0.13/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/ruby-vips-2.0.13/example" />
       </SOURCES>
     </library>
     <library name="ruby_dep (v1.5.0, RVM: ruby-2.3.4 [sharetribe]) [gem]">
@@ -20198,6 +20348,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sidekiq-5.1.3/.github" />
       </SOURCES>
     </library>
+    <library name="sidekiq (v5.2.1, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sidekiq-5.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sidekiq-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sidekiq-5.2.1/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sidekiq-5.2.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sidekiq-5.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sidekiq-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sidekiq-5.2.1/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sidekiq-5.2.1/.github" />
+      </SOURCES>
+    </library>
     <library name="sidekiq-client-cli (v0.1.7, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/sidekiq-client-cli-0.1.7/bin" />
@@ -21188,6 +21352,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-3.15.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-3.15.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-3.15.0/.github" />
+      </SOURCES>
+    </library>
+    <library name="stripe (v3.21.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-3.21.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-3.21.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-3.21.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-3.21.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-3.21.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/stripe-3.21.0/.github" />
       </SOURCES>
     </library>
     <library name="stripe-ruby-mock (v2.5.4, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -22488,6 +22664,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/uglifier-4.1.10/lib" />
       </SOURCES>
     </library>
+    <library name="uglifier (v4.1.18, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/uglifier-4.1.18/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/uglifier-4.1.18/lib" />
+      </SOURCES>
+    </library>
     <library name="uglifier (v4.1.5, RVM: ruby-2.4.1 [new_app]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/uglifier-4.1.5/lib" />
@@ -23324,6 +23508,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/whenever-0.9.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/whenever-0.9.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/whenever-0.9.7/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="whenever (v0.9.7, RVM: ruby-2.5.1 [social_health_online]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/whenever-0.9.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/whenever-0.9.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/whenever-0.9.7/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/whenever-0.9.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/whenever-0.9.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/whenever-0.9.7/gemfiles" />
       </SOURCES>
     </library>
     <library name="will_paginate (v3.1.5, RVM: ruby-2.3.4 [sharetribe]) [gem]">
