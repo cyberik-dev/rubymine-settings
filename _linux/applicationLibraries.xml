@@ -418,6 +418,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/actionview-5.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="active_model_serializers (v0.10.7, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/active_model_serializers-0.10.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/active_model_serializers-0.10.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/active_model_serializers-0.10.7/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/active_model_serializers-0.10.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/active_model_serializers-0.10.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/active_model_serializers-0.10.7/.github" />
+      </SOURCES>
+    </library>
     <library name="active_model_serializers (v0.10.7, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/active_model_serializers-0.10.7/bin" />
@@ -4806,6 +4818,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/carrierwave-1.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="case_transform (v0.2, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/case_transform-0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/case_transform-0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="case_transform (v0.2, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/case_transform-0.2/lib" />
@@ -6790,6 +6810,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/diff-lcs-1.2.4/autotest" />
       </SOURCES>
     </library>
+    <library name="diff-lcs (v1.3, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/diff-lcs-1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/diff-lcs-1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/diff-lcs-1.3/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/diff-lcs-1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/diff-lcs-1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/diff-lcs-1.3/autotest" />
+      </SOURCES>
+    </library>
     <library name="diff-lcs (v1.3, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/diff-lcs-1.3/bin" />
@@ -7998,6 +8030,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/factory_bot-4.10.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="factory_bot (v4.11.1, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/factory_bot-4.11.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/factory_bot-4.11.1/lib" />
+      </SOURCES>
+    </library>
     <library name="factory_bot (v4.8.2, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/factory_bot-4.8.2/lib" />
@@ -8064,6 +8104,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/factory_bot_rails-4.10.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/factory_bot_rails-4.10.0/features" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/factory_bot_rails-4.10.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="factory_bot_rails (v4.11.1, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/factory_bot_rails-4.11.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/factory_bot_rails-4.11.1/lib" />
       </SOURCES>
     </library>
     <library name="factory_bot_rails (v4.8.2, RVM: ruby-2.2.2 [itera]) [gem]">
@@ -9688,6 +9736,60 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-1.1.0/pkg" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-1.1.0/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-1.1.0/benchmark" />
+      </SOURCES>
+    </library>
+    <library name="grape-active_model_serializers (v1.5.2, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-active_model_serializers-1.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-active_model_serializers-1.5.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="grape-entity (v0.6.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-entity-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-entity-0.6.0/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-entity-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-entity-0.6.0/bench" />
+      </SOURCES>
+    </library>
+    <library name="grape-swagger (v0.27.3, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-0.27.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-0.27.3/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-0.27.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-0.27.3/example" />
+      </SOURCES>
+    </library>
+    <library name="grape-swagger-rails (v0.3.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-rails-0.3.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-rails-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-rails-0.3.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-rails-0.3.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-rails-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-rails-0.3.0/config" />
+      </SOURCES>
+    </library>
+    <library name="grape-swagger-ui (v2.2.8, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-ui-2.2.8/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-ui-2.2.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-ui-2.2.8/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-ui-2.2.8/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-ui-2.2.8/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-ui-2.2.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-ui-2.2.8/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-ui-2.2.8/vendor" />
       </SOURCES>
     </library>
     <library name="guard (v1.8.0, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
@@ -12028,6 +12130,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/json-schema-2.8.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/json-schema-2.8.0/resources" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi-renderer (v0.2.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/jsonapi-renderer-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/jsonapi-renderer-0.2.0/lib" />
       </SOURCES>
     </library>
     <library name="jsonapi-renderer (v0.2.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -19870,6 +19980,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rspec-core-3.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.8.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/rspec-core-3.8.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/rspec-core-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/rspec-core-3.8.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/rspec-core-3.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v3.8.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/rspec-core-3.8.0/exe" />
@@ -19962,6 +20082,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rspec-expectations-3.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v3.8.1, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/rspec-expectations-3.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/rspec-expectations-3.8.1/lib" />
       </SOURCES>
     </library>
     <library name="rspec-expectations (v3.8.1, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
@@ -20078,6 +20206,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rspec-mocks-3.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-mocks (v3.8.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/rspec-mocks-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/rspec-mocks-3.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-mocks (v3.8.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/rspec-mocks-3.8.0/lib" />
@@ -20168,6 +20304,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rspec-rails-3.7.2/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-rails (v3.8.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/rspec-rails-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/rspec-rails-3.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-rails (v3.8.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rspec-rails-3.8.0/lib" />
@@ -20246,6 +20390,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rspec-support-3.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.8.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/rspec-support-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/rspec-support-3.8.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-support (v3.8.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
