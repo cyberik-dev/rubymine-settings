@@ -10240,6 +10240,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-active_model_serializers-1.5.2/lib" />
       </SOURCES>
     </library>
+    <library name="grape-active_model_serializers (v1.5.2, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-active_model_serializers-1.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-active_model_serializers-1.5.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="grape-entity (v0.6.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-entity-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-entity-0.6.0/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-entity-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-entity-0.6.0/bench" />
+      </SOURCES>
+    </library>
     <library name="grape-entity (v0.6.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-entity-0.6.0/lib" />
@@ -10258,6 +10276,28 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-0.27.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-0.27.3/example" />
+      </SOURCES>
+    </library>
+    <library name="grape-swagger (v0.27.3, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-0.27.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-0.27.3/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-0.27.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-0.27.3/example" />
+      </SOURCES>
+    </library>
+    <library name="grape-swagger-rails (v0.3.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-rails-0.3.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-rails-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-rails-0.3.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-rails-0.3.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-rails-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-rails-0.3.0/config" />
       </SOURCES>
     </library>
     <library name="grape-swagger-rails (v0.3.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
@@ -10284,46 +10324,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-ui-2.2.8/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-ui-2.2.8/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-ui-2.2.8/vendor" />
-      </SOURCES>
-    </library>
-    <library name="grape-active_model_serializers (v1.5.2, RVM: ruby-2.2.2 [freshfw]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-active_model_serializers-1.5.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-active_model_serializers-1.5.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="grape-entity (v0.6.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-entity-0.6.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-entity-0.6.0/bench" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-entity-0.6.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-entity-0.6.0/bench" />
-      </SOURCES>
-    </library>
-    <library name="grape-swagger (v0.27.3, RVM: ruby-2.2.2 [freshfw]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-0.27.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-0.27.3/example" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-0.27.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-0.27.3/example" />
-      </SOURCES>
-    </library>
-    <library name="grape-swagger-rails (v0.3.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-rails-0.3.0/app" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-rails-0.3.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-rails-0.3.0/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-rails-0.3.0/app" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-rails-0.3.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-rails-0.3.0/config" />
       </SOURCES>
     </library>
     <library name="grape-swagger-ui (v2.2.8, RVM: ruby-2.2.2 [freshfw]) [gem]">
@@ -10688,6 +10688,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/hpricot-0.8.6/extras" />
       </SOURCES>
     </library>
+    <library name="hpricot (v0.8.6, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/extras" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/extras" />
+      </SOURCES>
+    </library>
     <library name="html2haml (v2.2.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/html2haml-2.2.0/bin" />
@@ -10706,6 +10718,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/html2slim-0.2.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/html2slim-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="html2slim (v0.2.0, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/html2slim-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/html2slim-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/html2slim-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/html2slim-0.2.0/lib" />
       </SOURCES>
     </library>
     <library name="htmlentities (v4.3.4, RVM: ruby-2.2.2 [freshfw]) [gem]">
@@ -21480,6 +21502,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.56.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.56.0/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.56.0/config" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.57.1, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/config" />
       </SOURCES>
     </library>
     <library name="rubocop (v0.57.2, RVM: ruby-2.5.1 [up_free]) [gem]">
