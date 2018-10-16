@@ -9782,6 +9782,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-0.27.3/example" />
       </SOURCES>
     </library>
+    <library name="grape-swagger-entity (v0.1.5, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-entity-0.1.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-entity-0.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-entity-0.1.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-entity-0.1.5/lib" />
+      </SOURCES>
+    </library>
     <library name="grape-swagger-rails (v0.3.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/grape-swagger-rails-0.3.0/app" />
