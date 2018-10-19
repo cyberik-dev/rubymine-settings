@@ -16070,6 +16070,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/paranoia-2.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="paranoia (v2.4.1, RVM: ruby-2.2.2 [freshfw]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/paranoia-2.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/paranoia-2.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.3.2.0, RVM: ruby-2.2.2 [survey]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/parser-2.3.2.0/bin" />
