@@ -3966,18 +3966,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bundler-1.16.4/man" />
       </SOURCES>
     </library>
-    <library name="bundler (v1.16.5, RVM: ruby-2.2.2 [freshfw]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/bundler-1.16.5/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/bundler-1.16.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/bundler-1.16.5/man" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/bundler-1.16.5/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/bundler-1.16.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/bundler-1.16.5/man" />
-      </SOURCES>
-    </library>
     <library name="bundler-unload (v1.0.2, RVM: ruby-1.9.3-p551 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/bundler-unload-1.0.2/lib" />
@@ -5248,16 +5236,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/coderay-1.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/coderay-1.1.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="coderay (v1.1.2, RVM: ruby-2.5.1) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/coderay-1.1.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/coderay-1.1.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/coderay-1.1.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/coderay-1.1.2/lib" />
       </SOURCES>
     </library>
     <library name="coercible (v1.0.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
@@ -7878,22 +7856,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/executable-hooks-1.4.2/test-tf-bundle" />
       </SOURCES>
     </library>
-    <library name="executable-hooks (v1.4.2, RVM: ruby-2.2.2 [freshfw]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.4.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.4.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.4.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.4.2/test-tf" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.4.2/test-tf-bundle" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.4.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.4.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.4.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.4.2/test-tf" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.4.2/test-tf-bundle" />
-      </SOURCES>
-    </library>
     <library name="executable-hooks (v1.4.2, RVM: ruby-2.5.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.4.2/bin" />
@@ -7956,24 +7918,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.4.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.4.2/test-tf" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.4.2/test-tf-bundle" />
-      </SOURCES>
-    </library>
-    <library name="executable-hooks (v1.5.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.5.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.5.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.5.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.5.0/test-tf" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.5.0/test-tf-bundle" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.5.0/test-tf-truffleruby" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.5.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.5.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.5.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.5.0/test-tf" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.5.0/test-tf-bundle" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.5.0/test-tf-truffleruby" />
       </SOURCES>
     </library>
     <library name="factory_bot (v4.10.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -13320,14 +13264,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/method_source-0.9.0/lib" />
       </SOURCES>
     </library>
-    <library name="method_source (v0.9.0, RVM: ruby-2.5.1) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/method_source-0.9.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/method_source-0.9.0/lib" />
-      </SOURCES>
-    </library>
     <library name="middleware (v0.1.0, RVM: ruby-2.3.4 [sharetribe]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@sharetribe/gems/middleware-0.1.0/lib" />
@@ -16786,16 +16722,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/pry-0.11.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/pry-0.11.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="pry (v0.11.3, RVM: ruby-2.5.1) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pry-0.11.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pry-0.11.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pry-0.11.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pry-0.11.3/lib" />
       </SOURCES>
     </library>
     <library name="pry (v0.9.12.1, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
@@ -21044,14 +20970,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rubygems-bundler-1.4.4/lib" />
-      </SOURCES>
-    </library>
-    <library name="rubygems-bundler (v1.4.5, RVM: ruby-2.2.2 [freshfw]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/rubygems-bundler-1.4.5/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/rubygems-bundler-1.4.5/lib" />
       </SOURCES>
     </library>
     <library name="rubyzip (v1.0.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
