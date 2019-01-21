@@ -10378,6 +10378,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@sharetribe/gems/foreman-0.85.0/data" />
       </SOURCES>
     </library>
+    <library name="foreman (v0.85.0, RVM: ruby-2.3.7 [sharetribe]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/foreman-0.85.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/foreman-0.85.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/foreman-0.85.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/foreman-0.85.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/foreman-0.85.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/foreman-0.85.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/foreman-0.85.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/foreman-0.85.0/data" />
+      </SOURCES>
+    </library>
     <library name="formatador (v0.2.4, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/formatador-0.2.4/lib" />
