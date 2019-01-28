@@ -5996,16 +5996,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/coderay-1.1.2/lib" />
       </SOURCES>
     </library>
-    <library name="coderay (v1.1.2, RVM: ruby-2.5.1) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/coderay-1.1.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/coderay-1.1.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/coderay-1.1.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/coderay-1.1.2/lib" />
-      </SOURCES>
-    </library>
     <library name="coercible (v1.0.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/coercible-1.0.0/lib" />
@@ -15536,14 +15526,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/method_source-0.9.0/lib" />
       </SOURCES>
     </library>
-    <library name="method_source (v0.9.0, RVM: ruby-2.5.1) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/method_source-0.9.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/method_source-0.9.0/lib" />
-      </SOURCES>
-    </library>
     <library name="middleware (v0.1.0, RVM: ruby-2.3.4 [sharetribe]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@sharetribe/gems/middleware-0.1.0/lib" />
@@ -19698,16 +19680,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/pry-0.11.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/pry-0.11.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="pry (v0.11.3, RVM: ruby-2.5.1) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pry-0.11.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pry-0.11.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pry-0.11.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pry-0.11.3/lib" />
       </SOURCES>
     </library>
     <library name="pry (v0.9.12.1, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
