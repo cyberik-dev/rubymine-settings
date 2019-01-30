@@ -8632,6 +8632,7 @@
     </library>
     <library name="eventmachine (v1.0.3, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/eventmachine/1.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/eventmachine-1.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/eventmachine-1.0.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/eventmachine-1.0.3/java" />
@@ -8639,6 +8640,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/eventmachine-1.0.3/rakelib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/eventmachine/1.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/eventmachine-1.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/eventmachine-1.0.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/eventmachine-1.0.3/java" />
@@ -9730,12 +9732,14 @@
     </library>
     <library name="ffi (v1.9.14, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/ffi/1.9.14" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/ffi-1.9.14/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/ffi-1.9.14/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/ffi-1.9.14/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/ffi-1.9.14/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/ffi/1.9.14" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/ffi-1.9.14/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/ffi-1.9.14/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/ffi-1.9.14/lib" />
@@ -10924,6 +10928,7 @@
     </library>
     <library name="gherkin (v2.12.0, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/gherkin/2.12.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/gherkin-2.12.0/js" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/gherkin-2.12.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/gherkin-2.12.0/lib" />
@@ -10932,6 +10937,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/gherkin-2.12.0/features" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/gherkin/2.12.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/gherkin-2.12.0/js" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/gherkin-2.12.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/gherkin-2.12.0/lib" />
@@ -11914,12 +11920,14 @@
     </library>
     <library name="http_parser.rb (v0.5.3, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/http_parser.rb/0.5.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/http_parser.rb-0.5.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/http_parser.rb-0.5.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/http_parser.rb-0.5.3/bench" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/http_parser.rb-0.5.3/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/http_parser.rb/0.5.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/http_parser.rb-0.5.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/http_parser.rb-0.5.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/http_parser.rb-0.5.3/bench" />
@@ -13868,6 +13876,7 @@
     </library>
     <library name="json (v1.8.1, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/json/1.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/json-1.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/json-1.8.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/json-1.8.1/data" />
@@ -13877,6 +13886,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/json-1.8.1/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/json/1.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/json-1.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/json-1.8.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/json-1.8.1/data" />
@@ -14386,10 +14396,12 @@
     </library>
     <library name="kgio (v2.8.0, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/kgio/2.8.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/kgio-2.8.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/kgio-2.8.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/kgio/2.8.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/kgio-2.8.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/kgio-2.8.0/lib" />
       </SOURCES>
@@ -14576,11 +14588,13 @@
     </library>
     <library name="libv8 (v3.11.8.17, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/libv8/3.11.8.17" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/libv8-3.11.8.17-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/libv8-3.11.8.17-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/libv8-3.11.8.17-x86_64-linux/vendor" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/libv8/3.11.8.17" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/libv8-3.11.8.17-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/libv8-3.11.8.17-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/libv8-3.11.8.17-x86_64-linux/vendor" />
@@ -17826,12 +17840,14 @@
     </library>
     <library name="nokogiri (v1.5.9, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/nokogiri/1.5.9" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/nokogiri-1.5.9/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/nokogiri-1.5.9/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/nokogiri-1.5.9/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/nokogiri-1.5.9/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/nokogiri/1.5.9" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/nokogiri-1.5.9/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/nokogiri-1.5.9/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/nokogiri-1.5.9/lib" />
@@ -18962,11 +18978,13 @@
     </library>
     <library name="pg (v0.15.1, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/pg/0.15.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/pg-0.15.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/pg-0.15.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/pg-0.15.1/sample" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/pg/0.15.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/pg-0.15.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/pg-0.15.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/pg-0.15.1/sample" />
@@ -21756,10 +21774,12 @@
     </library>
     <library name="raindrops (v0.11.0, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/raindrops/0.11.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/raindrops-0.11.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/raindrops-0.11.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/raindrops/0.11.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/raindrops-0.11.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/raindrops-0.11.0/lib" />
       </SOURCES>
@@ -22420,11 +22440,13 @@
     </library>
     <library name="rb-fsevent (v0.9.3, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/rb-fsevent/0.9.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/rb-fsevent-0.9.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/rb-fsevent-0.9.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/rb-fsevent-0.9.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/rb-fsevent/0.9.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/rb-fsevent-0.9.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/rb-fsevent-0.9.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/rb-fsevent-0.9.3/lib" />
@@ -25604,6 +25626,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/sentry-raven-2.7.4/lib" />
       </SOURCES>
     </library>
+    <library name="sentry-raven (v2.9.0, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/sentry-raven-2.9.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/sentry-raven-2.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/sentry-raven-2.9.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/sentry-raven-2.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="sexp_processor (v4.10.1, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/sexp_processor-4.10.1/lib" />
@@ -27668,10 +27700,12 @@
     </library>
     <library name="therubyracer (v0.11.4, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/therubyracer/0.11.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/therubyracer-0.11.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/therubyracer-0.11.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/therubyracer/0.11.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/therubyracer-0.11.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/therubyracer-0.11.4/lib" />
       </SOURCES>
@@ -27756,12 +27790,14 @@
     </library>
     <library name="thin (v1.6.3, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/thin/1.6.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/thin-1.6.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/thin-1.6.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/thin-1.6.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/thin-1.6.3/example" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/thin/1.6.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/thin-1.6.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/thin-1.6.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/thin-1.6.3/lib" />
@@ -29110,6 +29146,7 @@
     </library>
     <library name="unicorn (v4.6.2, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/unicorn/4.6.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/unicorn-4.6.2/t" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/unicorn-4.6.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/unicorn-4.6.2/ext" />
@@ -29119,6 +29156,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/unicorn-4.6.2/Documentation" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/unicorn/4.6.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/unicorn-4.6.2/t" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/unicorn-4.6.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/unicorn-4.6.2/ext" />
