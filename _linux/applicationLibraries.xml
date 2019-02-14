@@ -5284,6 +5284,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/capistrano-stats-1.1.1/tasks" />
       </SOURCES>
     </library>
+    <library name="capistrano3-puma (v1.2.1, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/capistrano3-puma-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/capistrano3-puma-1.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano3-unicorn (v0.2.1, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/capistrano3-unicorn-0.2.1/lib" />
@@ -20110,6 +20118,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/puma-3.11.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/puma-3.11.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/puma-3.11.3/tools" />
+      </SOURCES>
+    </library>
+    <library name="puma (v3.11.4, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/puma/3.11.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/puma-3.11.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/puma-3.11.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/puma-3.11.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/puma-3.11.4/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/puma/3.11.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/puma-3.11.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/puma-3.11.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/puma-3.11.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/puma-3.11.4/tools" />
       </SOURCES>
     </library>
     <library name="puma (v3.11.4, RVM: ruby-2.5.1 [social_health_online]) [gem]">
