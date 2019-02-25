@@ -9308,24 +9308,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.4.2/test-tf-bundle" />
       </SOURCES>
     </library>
-    <library name="executable-hooks (v1.6.0, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/executable-hooks-1.6.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/executable-hooks-1.6.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/executable-hooks-1.6.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/executable-hooks-1.6.0/test-tf" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/executable-hooks-1.6.0/test-tf-bundle" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/executable-hooks-1.6.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/executable-hooks-1.6.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/executable-hooks-1.6.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/executable-hooks-1.6.0/test-tf" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/executable-hooks-1.6.0/test-tf-bundle" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
-      </SOURCES>
-    </library>
     <library name="factory_bot (v4.10.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/factory_bot-4.10.0/lib" />
@@ -10520,16 +10502,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/fullcalendar-rails-3.9.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/fullcalendar-rails-3.9.0.0/vendor" />
-      </SOURCES>
-    </library>
-    <library name="gem-wrappers (v1.2.7, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/gem-wrappers-1.2.7/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/gem-wrappers-1.2.7/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/gem-wrappers-1.2.7/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/gem-wrappers-1.2.7/lib" />
       </SOURCES>
     </library>
     <library name="gem-wrappers (v1.2.7, RVM: ruby-2.0.0-p648 [ecoaching]) [gem]">
@@ -24734,14 +24706,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rubygems-bundler-1.4.4/lib" />
-      </SOURCES>
-    </library>
-    <library name="rubygems-bundler (v1.4.5, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/rubygems-bundler-1.4.5/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/rubygems-bundler-1.4.5/lib" />
       </SOURCES>
     </library>
     <library name="rubyzip (v1.0.0, RVM: ruby-2.0.0-p648 [ecoaching]) [gem]">
