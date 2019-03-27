@@ -4892,6 +4892,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/byebug-10.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="byebug (v11.0.1, RVM: ruby-2.5.3 [scraping]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/byebug-11.0.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/byebug-11.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/byebug-11.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/byebug-11.0.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/byebug-11.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/byebug-11.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="byebug (v2.7.0, RVM: ruby-2.0.0-p648 [ecoaching]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/byebug/2.7.0" />
@@ -20374,6 +20386,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/pry-byebug-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry-byebug (v3.7.0, RVM: ruby-2.5.3 [scraping]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/pry-byebug-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/pry-byebug-3.7.0/lib" />
       </SOURCES>
     </library>
     <library name="pry-doc (v0.11.1, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
