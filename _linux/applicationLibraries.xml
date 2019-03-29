@@ -11858,6 +11858,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/hpricot-0.8.6/extras" />
       </SOURCES>
     </library>
+    <library name="hpricot (v0.8.6, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/extras" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/hpricot-0.8.6/extras" />
+      </SOURCES>
+    </library>
     <library name="html2haml (v2.2.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/html2haml-2.2.0/bin" />
@@ -11876,6 +11888,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/html2slim-0.2.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/html2slim-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="html2slim (v0.2.0, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/html2slim-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/html2slim-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/html2slim-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/html2slim-0.2.0/lib" />
       </SOURCES>
     </library>
     <library name="htmlentities (v4.3.4, RVM: ruby-2.0.0-p648 [ecoaching]) [gem]">
@@ -16038,6 +16060,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/mini_magick-4.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="mini_magick (v4.9.2, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/mini_magick-4.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/mini_magick-4.9.2/lib" />
       </SOURCES>
     </library>
     <library name="mini_mime (v0.1.4, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -24264,6 +24294,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.56.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.56.0/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.56.0/config" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.57.1, RVM: ruby-2.5.1 [up_free]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/rubocop-0.57.1/config" />
       </SOURCES>
     </library>
     <library name="rubocop (v0.57.2, RVM: ruby-2.5.1 [up_free]) [gem]">
