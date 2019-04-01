@@ -8800,6 +8800,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/dotenv-2.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="dotenv (v2.7.2, RVM: ruby-2.5.3 [scraping]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/dotenv-2.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/dotenv-2.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/dotenv-2.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/dotenv-2.7.2/lib" />
+      </SOURCES>
+    </library>
     <library name="dotenv-rails (v2.2.1, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/dotenv-rails-2.2.1/lib" />
