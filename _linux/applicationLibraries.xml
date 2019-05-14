@@ -3916,12 +3916,10 @@
     </library>
     <library name="bcrypt (v3.1.12, RVM: ruby-2.4.1 [devana]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/bcrypt-3.1.12/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/bcrypt-3.1.12/lib" />
       </SOURCES>
@@ -4040,12 +4038,10 @@
     </library>
     <library name="bindex (v0.5.0, RVM: ruby-2.4.1 [devana]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bindex/0.5.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/bindex-0.5.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/bindex-0.5.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bindex/0.5.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/bindex-0.5.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/bindex-0.5.0/lib" />
       </SOURCES>
@@ -4278,13 +4274,11 @@
     </library>
     <library name="bootsnap (v1.3.1, RVM: ruby-2.4.1 [devana]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/bootsnap-1.3.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/bootsnap-1.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/bootsnap-1.3.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/bootsnap-1.3.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/bootsnap-1.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/bootsnap-1.3.1/lib" />
@@ -5196,13 +5190,11 @@
     </library>
     <library name="byebug (v10.0.2, RVM: ruby-2.4.1 [devana]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/byebug-10.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/byebug-10.0.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/byebug-10.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/byebug-10.0.2/lib" />
@@ -10958,13 +10950,11 @@
     </library>
     <library name="ffi (v1.9.25, RVM: ruby-2.4.1 [devana]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/ffi-1.9.25/samples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/ffi-1.9.25/samples" />
@@ -14550,7 +14540,6 @@
     </library>
     <library name="json (v2.1.0, RVM: ruby-2.4.1 [devana]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/json-2.1.0/data" />
@@ -14561,7 +14550,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/json-2.1.0/references" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/json-2.1.0/data" />
@@ -17542,14 +17530,12 @@
     </library>
     <library name="msgpack (v1.2.4, RVM: ruby-2.4.1 [devana]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/msgpack-1.2.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/msgpack-1.2.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/msgpack-1.2.4/bench" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/msgpack-1.2.4/doclib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/msgpack-1.2.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/msgpack-1.2.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/msgpack-1.2.4/bench" />
@@ -18760,13 +18746,11 @@
     </library>
     <library name="nio4r (v2.3.1, RVM: ruby-2.4.1 [devana]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/nio4r-2.3.1/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/nio4r-2.3.1/tasks" />
@@ -19086,7 +19070,6 @@
     </library>
     <library name="nokogiri (v1.8.4, RVM: ruby-2.4.1 [devana]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/nokogiri-1.8.4/lib" />
@@ -19095,7 +19078,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/nokogiri-1.8.4/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/nokogiri-1.8.4/lib" />
@@ -20100,13 +20082,11 @@
     </library>
     <library name="pg (v0.20.0, RVM: ruby-2.4.1 [devana]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.20.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/pg-0.20.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/pg-0.20.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/pg-0.20.0/sample" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.20.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/pg-0.20.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/pg-0.20.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/pg-0.20.0/sample" />
@@ -21414,14 +21394,12 @@
     </library>
     <library name="puma (v3.12.0, RVM: ruby-2.4.1 [devana]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.12.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/puma-3.12.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/puma-3.12.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/puma-3.12.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/puma-3.12.0/tools" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.12.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/puma-3.12.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/puma-3.12.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/puma-3.12.0/lib" />
@@ -23914,13 +23892,11 @@
     </library>
     <library name="rb-fsevent (v0.10.3, RVM: ruby-2.4.1 [devana]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/rb-fsevent-0.10.3/lib" />
@@ -32016,12 +31992,10 @@
     </library>
     <library name="websocket-driver (v0.7.0, RVM: ruby-2.4.1 [devana]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/websocket-driver-0.7.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/websocket-driver-0.7.0/lib" />
       </SOURCES>
