@@ -21852,6 +21852,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/pry-nav-0.2.4/lib" />
       </SOURCES>
     </library>
+    <library name="pry-nav (v0.2.4, RVM: ruby-2.5.0 [maestro_backend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/pry-nav-0.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/pry-nav-0.2.4/lib" />
+      </SOURCES>
+    </library>
     <library name="pry-rails (v0.3.6, RVM: ruby-2.4.1 [devana]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/pry-rails-0.3.6/lib" />
