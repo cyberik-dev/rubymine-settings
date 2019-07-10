@@ -74,6 +74,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/actioncable-5.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v5.1.6.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/actioncable-5.1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/actioncable-5.1.6.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actioncable (v5.2.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/actioncable-5.2.0/lib" />
@@ -234,6 +242,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/actionmailer-5.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="actionmailer (v5.1.6.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/actionmailer-5.1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/actionmailer-5.1.6.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v5.2.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/actionmailer-5.2.0/lib" />
@@ -392,6 +408,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/actionpack-5.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v5.1.6.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/actionpack-5.1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/actionpack-5.1.6.1/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v5.2.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -566,6 +590,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/actionview-5.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="actionview (v5.1.6.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/actionview-5.1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/actionview-5.1.6.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actionview (v5.2.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/actionview-5.2.0/lib" />
@@ -660,6 +692,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/active_model_serializers-0.10.7/.github" />
       </SOURCES>
     </library>
+    <library name="active_record_doctor (v1.6.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/active_record_doctor-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/active_record_doctor-1.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="active_record_union (v1.2.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/active_record_union-1.2.0/bin" />
@@ -668,6 +708,24 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/active_record_union-1.2.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/active_record_union-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="activeadmin (v1.0.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activeadmin-1.0.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activeadmin-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activeadmin-1.0.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activeadmin-1.0.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activeadmin-1.0.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activeadmin-1.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activeadmin-1.0.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activeadmin-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activeadmin-1.0.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activeadmin-1.0.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activeadmin-1.0.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activeadmin-1.0.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="activejob (v4.2.1, RVM: ruby-2.2.2 [freshfw]) [gem]">
@@ -772,6 +830,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/activejob-5.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activejob (v5.1.6.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activejob-5.1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activejob-5.1.6.1/lib" />
       </SOURCES>
     </library>
     <library name="activejob (v5.2.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -932,6 +998,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/activemodel-5.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v5.1.6.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activemodel-5.1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activemodel-5.1.6.1/lib" />
       </SOURCES>
     </library>
     <library name="activemodel (v5.2.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -1110,6 +1184,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/activerecord-5.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord (v5.1.6.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activerecord-5.1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activerecord-5.1.6.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord (v5.2.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/activerecord-5.2.0/lib" />
@@ -1164,6 +1246,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/activerecord-5.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord-import (v1.0.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activerecord-import-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activerecord-import-1.0.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activerecord-import-1.0.0/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activerecord-import-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activerecord-import-1.0.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activerecord-import-1.0.0/benchmarks" />
       </SOURCES>
     </library>
     <library name="activerecord-session_store (v1.1.0, RVM: ruby-2.3.4 [sharetribe]) [gem]">
@@ -1384,6 +1478,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/activesupport-5.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.1.6.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activesupport-5.1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activesupport-5.1.6.1/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v5.2.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -1680,6 +1782,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/addressable-2.6.0/tasks" />
       </SOURCES>
     </library>
+    <library name="addressable (v2.6.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/addressable-2.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/addressable-2.6.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/addressable-2.6.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/addressable-2.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/addressable-2.6.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/addressable-2.6.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="addressable (v2.6.0, RVM: ruby-2.5.3 [scraping]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/addressable-2.6.0/lib" />
@@ -1784,6 +1898,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/airbrussh-1.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="airbrussh (v1.3.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/airbrussh-1.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/airbrussh-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/airbrussh-1.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/airbrussh-1.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="akami (v1.3.1, RVM: ruby-2.3.0 [finvoice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/akami-1.3.1/lib" />
@@ -1850,6 +1974,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p648@ecoaching/gems/appraisal-0.4.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p648@ecoaching/gems/appraisal-0.4.1/.bundle" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p648@ecoaching/gems/appraisal-0.4.1/features" />
+      </SOURCES>
+    </library>
+    <library name="arbre (v1.1.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/arbre-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/arbre-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="archive-zip (v0.11.0, RVM: ruby-2.4.1 [devana]) [gem]">
@@ -1962,6 +2094,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/arel-8.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="arel (v8.0.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/arel-8.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/arel-8.0.0/lib" />
       </SOURCES>
     </library>
     <library name="arel (v8.0.0, RVM: ruby-2.4.1 [new_app]) [gem]">
@@ -2114,6 +2254,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/ast-2.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ast (v2.4.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ast-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ast-2.4.0/lib" />
       </SOURCES>
     </library>
     <library name="ast (v2.4.0, RVM: ruby-2.4.1 [new_app]) [gem]">
@@ -4048,6 +4196,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/bcrypt-3.1.12/lib" />
       </SOURCES>
     </library>
+    <library name="bcrypt (v3.1.12, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.12" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bcrypt-3.1.12/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bcrypt-3.1.12/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.12" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bcrypt-3.1.12/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bcrypt-3.1.12/lib" />
+      </SOURCES>
+    </library>
     <library name="bcrypt (v3.1.12, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bcrypt-3.1.12/ext" />
@@ -4168,6 +4328,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/bindex-0.5.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/bindex-0.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bindex (v0.5.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bindex/0.5.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bindex-0.5.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bindex-0.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bindex/0.5.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bindex-0.5.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bindex-0.5.0/lib" />
       </SOURCES>
     </library>
     <library name="bindex (v0.5.0, RVM: ruby-2.4.1 [new_app]) [gem]">
@@ -4420,6 +4592,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/bootsnap-1.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="bootsnap (v1.4.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.4.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bootsnap-1.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bootsnap-1.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bootsnap-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.4.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bootsnap-1.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bootsnap-1.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bootsnap-1.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="bootstrap (v4.0.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/bootstrap-4.0.0/lib" />
@@ -4492,6 +4678,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/bootstrap-sass-3.3.7/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/bootstrap-sass-3.3.7/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/bootstrap-sass-3.3.7/templates" />
+      </SOURCES>
+    </library>
+    <library name="bourbon (v5.1.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bourbon-5.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bourbon-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bourbon-5.1.0/core" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bourbon-5.1.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bourbon-5.1.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bourbon-5.1.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bourbon-5.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bourbon-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bourbon-5.1.0/core" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bourbon-5.1.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bourbon-5.1.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bourbon-5.1.0/.circleci" />
       </SOURCES>
     </library>
     <library name="browser (v2.2.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
@@ -4630,6 +4834,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/builder-3.2.3/rakelib" />
       </SOURCES>
     </library>
+    <library name="builder (v3.2.3, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/builder-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/builder-3.2.3/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/builder-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/builder-3.2.3/rakelib" />
+      </SOURCES>
+    </library>
     <library name="builder (v3.2.3, RVM: ruby-2.4.1 [new_app]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/builder-3.2.3/lib" />
@@ -4742,6 +4956,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/bullet-5.7.5/perf" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/bullet-5.7.5/rails" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/bullet-5.7.5/tasks" />
+      </SOURCES>
+    </library>
+    <library name="bullet (v5.9.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bullet-5.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bullet-5.9.0/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bullet-5.9.0/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bullet-5.9.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bullet-5.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bullet-5.9.0/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bullet-5.9.0/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bullet-5.9.0/tasks" />
       </SOURCES>
     </library>
     <library name="bundle (v0.0.1, RVM: ruby-2.2.2 [survey]) [gem]">
@@ -5022,6 +5250,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/bundler-2.0.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/bundler-2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/bundler-2.0.1/man" />
+      </SOURCES>
+    </library>
+    <library name="bundler (v2.0.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bundler-2.0.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bundler-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bundler-2.0.2/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bundler-2.0.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bundler-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bundler-2.0.2/man" />
       </SOURCES>
     </library>
     <library name="bundler (v2.0.2, RVM: ruby-2.5.0 [maestro_backend]) [gem]">
@@ -5448,6 +5688,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/byebug-10.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="byebug (v11.0.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/11.0.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/byebug-11.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/byebug-11.0.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/byebug-11.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/11.0.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/byebug-11.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/byebug-11.0.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/byebug-11.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="byebug (v11.0.1, RVM: ruby-2.3.0 [finvoice]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/11.0.1" />
@@ -5644,6 +5898,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/cancancan-1.17.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="cancancan (v2.3.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/cancancan-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/cancancan-2.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano (v2.15.8, RVM: ruby-2.0.0-p648 [ecoaching]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p648@ecoaching/gems/capistrano-2.15.8/bin" />
@@ -5722,6 +5984,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/capistrano-3.11.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/capistrano-3.11.0/.github" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/capistrano-3.11.0/features" />
+      </SOURCES>
+    </library>
+    <library name="capistrano (v3.11.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capistrano-3.11.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capistrano-3.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capistrano-3.11.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capistrano-3.11.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capistrano-3.11.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capistrano-3.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capistrano-3.11.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capistrano-3.11.0/features" />
       </SOURCES>
     </library>
     <library name="capistrano (v3.3.5, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
@@ -5826,6 +6102,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/capistrano-bundler-1.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-bundler (v1.5.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capistrano-bundler-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capistrano-bundler-1.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-platform-resources (v0.1.3, RVM: ruby-2.0.0-p648 [ecoaching]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p648@ecoaching/gems/capistrano-platform-resources-0.1.3/lib" />
@@ -5910,6 +6194,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/capistrano-rails-1.4.0/.github" />
       </SOURCES>
     </library>
+    <library name="capistrano-rails (v1.4.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capistrano-rails-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capistrano-rails-1.4.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capistrano-rails-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capistrano-rails-1.4.0/.github" />
+      </SOURCES>
+    </library>
     <library name="capistrano-rails-console (v2.2.0, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/capistrano-rails-console-2.2.0/lib" />
@@ -5974,6 +6268,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/capistrano-rvm-0.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-rvm (v0.1.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capistrano-rvm-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capistrano-rvm-0.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-rvm (v0.1.2, RVM: ruby-2.4.1 [new_app]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/capistrano-rvm-0.1.2/lib" />
@@ -6030,6 +6332,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/capistrano-sidekiq-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-sidekiq (v1.0.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capistrano-sidekiq-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capistrano-sidekiq-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-ssh-doctor (v1.0.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/capistrano-ssh-doctor-1.0.0/lib" />
@@ -6054,6 +6364,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/capistrano3-puma-1.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano3-puma (v3.1.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capistrano3-puma-3.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capistrano3-puma-3.1.1/lib" />
       </SOURCES>
     </library>
     <library name="capistrano3-puma (v3.1.1, RVM: ruby-2.5.0 [maestro_backend]) [gem]">
@@ -6118,6 +6436,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/capybara-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="capybara (v2.13.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capybara-2.13.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capybara-2.13.0/.yard" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capybara-2.13.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/capybara-2.13.0/.yard" />
       </SOURCES>
     </library>
     <library name="capybara (v2.15.1, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -6364,6 +6692,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/childprocess-0.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="childprocess (v0.9.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/childprocess-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/childprocess-0.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="childprocess (v0.9.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/childprocess-0.9.0/lib" />
@@ -6474,6 +6810,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/chronic-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="chronic (v0.10.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/chronic-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/chronic-0.10.2/lib" />
       </SOURCES>
     </library>
     <library name="chronic (v0.10.2, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -7014,6 +7358,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/coffee-rails-4.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="coffee-rails (v4.2.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/coffee-rails-4.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/coffee-rails-4.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="coffee-rails (v4.2.2, RVM: ruby-2.4.1 [new_app]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/coffee-rails-4.2.2/lib" />
@@ -7134,6 +7486,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/coffee-script-2.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="coffee-script (v2.4.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/coffee-script-2.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/coffee-script-2.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="coffee-script (v2.4.1, RVM: ruby-2.4.1 [new_app]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/coffee-script-2.4.1/lib" />
@@ -7244,6 +7604,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/coffee-script-source-1.12.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-script-source (v1.12.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/coffee-script-source-1.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/coffee-script-source-1.12.2/lib" />
       </SOURCES>
     </library>
     <library name="coffee-script-source (v1.12.2, RVM: ruby-2.4.1 [new_app]) [gem]">
@@ -7364,6 +7732,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/commonjs-0.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="commonjs (v0.2.7, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/commonjs-0.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/commonjs-0.2.7/lib" />
       </SOURCES>
     </library>
     <library name="compass (v1.0.3, RVM: ruby-2.3.4 [sharetribe]) [gem]">
@@ -7598,6 +7974,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/concurrent-ruby-1.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="concurrent-ruby (v1.1.4, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/concurrent-ruby-1.1.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/concurrent-ruby-1.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/concurrent-ruby-1.1.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/concurrent-ruby-1.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="concurrent-ruby (v1.1.5, RVM: ruby-2.3.0 [finvoice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/concurrent-ruby-1.1.5/ext" />
@@ -7672,6 +8058,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/connection_pool-2.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="connection_pool (v2.2.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/connection_pool-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/connection_pool-2.2.2/lib" />
       </SOURCES>
     </library>
     <library name="connection_pool (v2.2.2, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
@@ -7844,6 +8238,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/crass-1.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="crass (v1.0.4, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/crass-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/crass-1.0.4/lib" />
       </SOURCES>
     </library>
     <library name="crass (v1.0.4, RVM: ruby-2.5.0 [maestro_backend]) [gem]">
@@ -8208,6 +8610,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/database_cleaner-1.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="database_cleaner (v1.7.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/database_cleaner-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/database_cleaner-1.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="database_cleaner (v1.7.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/database_cleaner-1.7.0/lib" />
@@ -8388,6 +8798,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/declarative-0.0.10/lib" />
       </SOURCES>
     </library>
+    <library name="declarative (v0.0.10, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/declarative-0.0.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/declarative-0.0.10/lib" />
+      </SOURCES>
+    </library>
     <library name="declarative (v0.0.10, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/declarative-0.0.10/lib" />
@@ -8410,6 +8828,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/declarative-option-0.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="declarative-option (v0.1.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/declarative-option-0.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/declarative-option-0.1.0/lib" />
       </SOURCES>
     </library>
     <library name="declarative-option (v0.1.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -8770,6 +9196,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/devise-4.4.3/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/devise-4.4.3/guides" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/devise-4.4.3/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="devise (v4.6.1@4e4e42, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/bundler/gems/devise-4e4e42e1ae29/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/bundler/gems/devise-4e4e42e1ae29/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/bundler/gems/devise-4e4e42e1ae29/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/bundler/gems/devise-4e4e42e1ae29/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/bundler/gems/devise-4e4e42e1ae29/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/bundler/gems/devise-4e4e42e1ae29/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/bundler/gems/devise-4e4e42e1ae29/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/bundler/gems/devise-4e4e42e1ae29/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/bundler/gems/devise-4e4e42e1ae29/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/bundler/gems/devise-4e4e42e1ae29/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/bundler/gems/devise-4e4e42e1ae29/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/bundler/gems/devise-4e4e42e1ae29/gemfiles" />
       </SOURCES>
     </library>
     <library name="devise-encryptable (v0.2.0, RVM: ruby-2.3.4 [sharetribe]) [gem]">
@@ -9206,6 +9650,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/diff-lcs-1.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/diff-lcs-1.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/diff-lcs-1.3/autotest" />
+      </SOURCES>
+    </library>
+    <library name="diff-lcs (v1.3, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/diff-lcs-1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/diff-lcs-1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/diff-lcs-1.3/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/diff-lcs-1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/diff-lcs-1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/diff-lcs-1.3/autotest" />
       </SOURCES>
     </library>
     <library name="diff-lcs (v1.3, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -9858,6 +10314,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/erubi-1.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="erubi (v1.8.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/erubi-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/erubi-1.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="erubis (v2.7.0, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/erubis-2.7.0/bin" />
@@ -10292,6 +10756,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/execjs-2.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="execjs (v2.7.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/execjs-2.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/execjs-2.7.0/lib" />
       </SOURCES>
     </library>
     <library name="execjs (v2.7.0, RVM: ruby-2.4.1 [new_app]) [gem]">
@@ -10930,6 +11402,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/factory_bot-4.8.2/gemfiles" />
       </SOURCES>
     </library>
+    <library name="factory_bot (v5.0.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/factory_bot-5.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/factory_bot-5.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="factory_bot_rails (v4.10.0, RVM: ruby-2.4.1 [devana]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/factory_bot_rails-4.10.0/bin" />
@@ -11042,6 +11522,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/factory_bot_rails-4.8.2/tmp" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/factory_bot_rails-4.8.2/features" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/factory_bot_rails-4.8.2/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="factory_bot_rails (v5.0.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/factory_bot_rails-5.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/factory_bot_rails-5.0.1/lib" />
       </SOURCES>
     </library>
     <library name="factory_girl (v4.2.0, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
@@ -11280,6 +11768,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/faraday-0.15.4/lib" />
       </SOURCES>
     </library>
+    <library name="faraday (v0.15.4, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/faraday-0.15.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/faraday-0.15.4/lib" />
+      </SOURCES>
+    </library>
     <library name="faraday (v0.8.7, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/faraday-0.8.7/lib" />
@@ -11330,6 +11826,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/faraday_middleware-0.11.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="ffaker (v2.10.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ffaker-2.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ffaker-2.10.0/scripts" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ffaker-2.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ffaker-2.10.0/scripts" />
+      </SOURCES>
+    </library>
     <library name="ffi (v1.10.0, RVM: ruby-2.3.0 [finvoice]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.10.0" />
@@ -11342,6 +11848,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/ffi-1.10.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/ffi-1.10.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/ffi-1.10.0/samples" />
+      </SOURCES>
+    </library>
+    <library name="ffi (v1.10.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.10.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ffi-1.10.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ffi-1.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ffi-1.10.0/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.10.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ffi-1.10.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ffi-1.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ffi-1.10.0/samples" />
       </SOURCES>
     </library>
     <library name="ffi (v1.10.0, RVM: ruby-2.5.3 [scraping]) [gem]">
@@ -11590,6 +12110,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/figaro-1.1.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/figaro-1.1.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/figaro-1.1.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="figaro (v1.1.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/figaro-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/figaro-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/figaro-1.1.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/figaro-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/figaro-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/figaro-1.1.1/gemfiles" />
       </SOURCES>
     </library>
     <library name="figaro (v1.1.1, RVM: ruby-2.5.0 [maestro_backend]) [gem]">
@@ -12104,6 +12636,30 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/formatador-0.2.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/formatador-0.2.5/tests" />
+      </SOURCES>
+    </library>
+    <library name="formtastic (v3.1.5, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/formtastic-3.1.5/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/formtastic-3.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/formtastic-3.1.5/sample" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/formtastic-3.1.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/formtastic-3.1.5/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/formtastic-3.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/formtastic-3.1.5/sample" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/formtastic-3.1.5/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="formtastic_i18n (v0.6.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/formtastic_i18n-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/formtastic_i18n-0.6.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/formtastic_i18n-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/formtastic_i18n-0.6.0/config" />
       </SOURCES>
     </library>
     <library name="foundation-rails (v6.4.1.2, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -12754,6 +13310,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/geocoder-1.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="geoip (v1.6.4, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/geoip-1.6.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/geoip-1.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/geoip-1.6.4/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/geoip-1.6.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/geoip-1.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/geoip-1.6.4/data" />
+      </SOURCES>
+    </library>
     <library name="gherkin (v2.12.0, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/gherkin-2.12.0/js" />
@@ -12944,6 +13512,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/globalid-0.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="globalid (v0.4.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/globalid-0.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/globalid-0.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="globalize (v5.0.1, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/globalize-5.0.1/lib" />
@@ -13076,6 +13652,50 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/google-api-client-0.19.7/generated" />
       </SOURCES>
     </library>
+    <library name="google-api-client (v0.28.4, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-api-client-0.28.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-api-client-0.28.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-api-client-0.28.4/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-api-client-0.28.4/.kokoro" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-api-client-0.28.4/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-api-client-0.28.4/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-api-client-0.28.4/generated" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-api-client-0.28.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-api-client-0.28.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-api-client-0.28.4/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-api-client-0.28.4/.kokoro" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-api-client-0.28.4/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-api-client-0.28.4/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-api-client-0.28.4/generated" />
+      </SOURCES>
+    </library>
+    <library name="google-cloud-bigquery (v1.11.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-cloud-bigquery-1.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-cloud-bigquery-1.11.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="google-cloud-core (v1.3.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-cloud-core-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-cloud-core-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="google-cloud-env (v1.0.5, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-cloud-env-1.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-cloud-env-1.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="googleauth (v0.5.3, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/googleauth-0.5.3/lib" />
@@ -13098,6 +13718,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/googleauth-0.6.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="googleauth (v0.8.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/googleauth-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/googleauth-0.8.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/googleauth-0.8.0/.kokoro" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/googleauth-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/googleauth-0.8.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/googleauth-0.8.0/.kokoro" />
       </SOURCES>
     </library>
     <library name="grape (v1.0.2, RVM: ruby-2.5.0 [maestro_backend]) [gem]">
@@ -13508,6 +14140,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/has_scope-0.7.2/lib" />
       </SOURCES>
     </library>
+    <library name="has_scope (v0.7.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/has_scope-0.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/has_scope-0.7.2/lib" />
+      </SOURCES>
+    </library>
     <library name="has_secure_token (v1.0.0, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/has_secure_token-1.0.0/lib" />
@@ -13722,6 +14362,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/hiredis-0.6.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/hiredis-0.6.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/hiredis-0.6.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="honeybadger (v4.2.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/honeybadger-4.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/honeybadger-4.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/honeybadger-4.2.1/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/honeybadger-4.2.1/resources" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/honeybadger-4.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/honeybadger-4.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/honeybadger-4.2.1/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/honeybadger-4.2.1/resources" />
       </SOURCES>
     </library>
     <library name="honeybadger (v4.2.1, RVM: ruby-2.5.0 [maestro_backend]) [gem]">
@@ -13978,6 +14632,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/httpclient-2.8.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/httpclient-2.8.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/httpclient-2.8.3/sample" />
+      </SOURCES>
+    </library>
+    <library name="httpclient (v2.8.3, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/httpclient-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/httpclient-2.8.3/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/httpclient-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/httpclient-2.8.3/sample" />
       </SOURCES>
     </library>
     <library name="httpclient (v2.8.3, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -14254,6 +14920,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/i18n-1.1.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="i18n (v1.5.3, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/i18n-1.5.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/i18n-1.5.3/lib" />
+      </SOURCES>
+    </library>
     <library name="i18n (v1.6.0, RVM: ruby-2.5.3 [scraping]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/i18n-1.6.0/lib" />
@@ -14382,6 +15056,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/inflecto-0.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/inflecto-0.0.2/config" />
+      </SOURCES>
+    </library>
+    <library name="inherited_resources (v1.9.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/inherited_resources-1.9.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/inherited_resources-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/inherited_resources-1.9.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/inherited_resources-1.9.0/lib" />
       </SOURCES>
     </library>
     <library name="innertube (v1.1.0, RVM: ruby-2.3.4 [sharetribe]) [gem]">
@@ -15002,6 +15686,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/jaro_winkler-1.5.2/lib" />
       </SOURCES>
     </library>
+    <library name="jaro_winkler (v1.5.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/jaro_winkler-1.5.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/jaro_winkler-1.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/jaro_winkler-1.5.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/jaro_winkler-1.5.2/lib" />
+      </SOURCES>
+    </library>
     <library name="jaro_winkler (v1.5.2, RVM: ruby-2.5.3 [scraping]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/jaro_winkler-1.5.2/ext" />
@@ -15134,6 +15830,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/jbuilder-2.8.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/jbuilder-2.8.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="jbuilder (v2.8.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/jbuilder-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/jbuilder-2.8.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/jbuilder-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/jbuilder-2.8.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="jmespath (v1.3.1, RVM: ruby-2.3.4 [sharetribe]) [gem]">
@@ -15336,6 +16042,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/jquery-rails-4.3.3/vendor" />
       </SOURCES>
     </library>
+    <library name="jquery-rails (v4.3.3, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/jquery-rails-4.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/jquery-rails-4.3.3/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/jquery-rails-4.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/jquery-rails-4.3.3/vendor" />
+      </SOURCES>
+    </library>
     <library name="jquery-rails (v4.3.3, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/jquery-rails-4.3.3/lib" />
@@ -15374,6 +16090,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/jquery-ui-rails-5.0.5/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/jquery-ui-rails-5.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="jquery-ui-rails (v6.0.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/jquery-ui-rails-6.0.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/jquery-ui-rails-6.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/jquery-ui-rails-6.0.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/jquery-ui-rails-6.0.1/lib" />
       </SOURCES>
     </library>
     <library name="jquery-ui-rails (v6.0.1, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -15774,6 +16500,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/jwt-2.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="jwt (v2.1.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/jwt-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/jwt-2.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="jwt (v2.1.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/jwt-2.1.0/lib" />
@@ -15820,6 +16554,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/kaminari-1.0.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="kaminari (v1.1.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/kaminari-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/kaminari-1.1.1/misc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/kaminari-1.1.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/kaminari-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/kaminari-1.1.1/misc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/kaminari-1.1.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="kaminari (v1.1.1, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/kaminari-1.1.1/lib" />
@@ -15852,6 +16598,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/kaminari-actionview-1.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="kaminari-actionview (v1.1.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/kaminari-actionview-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/kaminari-actionview-1.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="kaminari-actionview (v1.1.1, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/kaminari-actionview-1.1.1/lib" />
@@ -15874,6 +16628,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/kaminari-activerecord-1.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-activerecord (v1.1.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/kaminari-activerecord-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/kaminari-activerecord-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="kaminari-activerecord (v1.1.1, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -15902,6 +16664,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/kaminari-core-1.0.1/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/kaminari-core-1.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/kaminari-core-1.0.1/config" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-core (v1.1.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/kaminari-core-1.1.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/kaminari-core-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/kaminari-core-1.1.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/kaminari-core-1.1.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/kaminari-core-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/kaminari-core-1.1.1/config" />
       </SOURCES>
     </library>
     <library name="kaminari-core (v1.1.1, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -16152,12 +16926,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/less-2.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="less (v2.6.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/less-2.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/less-2.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/less-2.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/less-2.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="less-rails (v2.2.3, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/less-rails-2.2.3/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/less-rails-2.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="less-rails (v4.0.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/less-rails-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/less-rails-4.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/less-rails-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/less-rails-4.0.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="less-rails-bootstrap (v2.0.13, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
@@ -16262,6 +17056,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/libv8-3.16.14.19-x86_64-linux/vendor" />
       </SOURCES>
     </library>
+    <library name="libv8 (v3.16.14.19, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/libv8/3.16.14.19" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/libv8-3.16.14.19-x86_64-linux/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/libv8-3.16.14.19-x86_64-linux/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/libv8-3.16.14.19-x86_64-linux/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/libv8/3.16.14.19" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/libv8-3.16.14.19-x86_64-linux/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/libv8-3.16.14.19-x86_64-linux/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/libv8-3.16.14.19-x86_64-linux/vendor" />
+      </SOURCES>
+    </library>
     <library name="libv8 (v3.16.14.19, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/libv8-3.16.14.19-x86_64-linux/ext" />
@@ -16340,6 +17148,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/listen-3.1.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/listen-3.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="listen (v3.1.5, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/listen-3.1.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/listen-3.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/listen-3.1.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/listen-3.1.5/lib" />
       </SOURCES>
     </library>
     <library name="listen (v3.1.5, RVM: ruby-2.4.1 [new_app]) [gem]">
@@ -16684,6 +17502,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/loofah-2.2.3/benchmark" />
       </SOURCES>
     </library>
+    <library name="loofah (v2.2.3, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/loofah-2.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/loofah-2.2.3/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/loofah-2.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/loofah-2.2.3/benchmark" />
+      </SOURCES>
+    </library>
     <library name="lumberjack (v1.0.12, RVM: ruby-2.3.4 [sharetribe]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@sharetribe/gems/lumberjack-1.0.12/lib" />
@@ -16884,6 +17712,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/mail-2.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="mail (v2.7.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mail-2.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mail-2.7.1/lib" />
       </SOURCES>
     </library>
     <library name="mail_view (v2.0.4, RVM: ruby-2.3.4 [sharetribe]) [gem]">
@@ -17092,6 +17928,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/memoist-0.16.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/memoist-0.16.0/script" />
+      </SOURCES>
+    </library>
+    <library name="memoist (v0.16.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/memoist-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/memoist-0.16.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/memoist-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/memoist-0.16.0/script" />
       </SOURCES>
     </library>
     <library name="memoist (v0.16.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -17334,6 +18180,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/method_source-0.9.2/lib" />
       </SOURCES>
     </library>
+    <library name="method_source (v0.9.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/method_source-0.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/method_source-0.9.2/lib" />
+      </SOURCES>
+    </library>
     <library name="method_source (v0.9.2, RVM: ruby-2.5.3 [scraping]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/method_source-0.9.2/lib" />
@@ -17460,6 +18314,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/mime-types-3.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="mime-types (v3.2.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mime-types-3.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mime-types-3.2.2/lib" />
       </SOURCES>
     </library>
     <library name="mime-types (v3.2.2, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
@@ -17602,6 +18464,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/mime-types-data-3.2016.0521/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/mime-types-data-3.2016.0521/data" />
+      </SOURCES>
+    </library>
+    <library name="mime-types-data (v3.2018.0812, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mime-types-data-3.2018.0812/types" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mime-types-data-3.2018.0812/types" />
       </SOURCES>
     </library>
     <library name="mime-types-data (v3.2018.0812, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
@@ -17924,6 +18798,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@sharetribe/gems/mini_mime-1.0.1/bench" />
       </SOURCES>
     </library>
+    <library name="mini_mime (v1.0.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mini_mime-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mini_mime-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mini_mime-1.0.1/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mini_mime-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mini_mime-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mini_mime-1.0.1/bench" />
+      </SOURCES>
+    </library>
     <library name="mini_mime (v1.0.1, RVM: ruby-2.5.3 [scraping]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/mini_mime-1.0.1/bin" />
@@ -18118,6 +19004,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/mini_portile2-2.4.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/mini_portile2-2.4.0/concourse" />
+      </SOURCES>
+    </library>
+    <library name="mini_portile2 (v2.4.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mini_portile2-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mini_portile2-2.4.0/concourse" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mini_portile2-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mini_portile2-2.4.0/concourse" />
       </SOURCES>
     </library>
     <library name="mini_portile2 (v2.4.0, RVM: ruby-2.5.3 [scraping]) [gem]">
@@ -18376,6 +19272,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/minitest-5.11.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.11.3, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/minitest-5.11.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/minitest-5.11.3/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.11.3, RVM: ruby-2.4.1 [new_app]) [gem]">
@@ -18644,6 +19548,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p648@ecoaching/gems/mocha-1.1.0/yard-templates" />
       </SOURCES>
     </library>
+    <library name="mock_redis (v0.19.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mock_redis-0.19.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mock_redis-0.19.0/lib" />
+      </SOURCES>
+    </library>
     <library name="momentjs-rails (v2.20.1, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/momentjs-rails-2.20.1/lib" />
@@ -18816,6 +19728,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/msgpack-1.2.4/doclib" />
       </SOURCES>
     </library>
+    <library name="msgpack (v1.2.6, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/msgpack/1.2.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/msgpack-1.2.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/msgpack-1.2.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/msgpack-1.2.6/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/msgpack-1.2.6/doclib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/msgpack/1.2.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/msgpack-1.2.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/msgpack-1.2.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/msgpack-1.2.6/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/msgpack-1.2.6/doclib" />
+      </SOURCES>
+    </library>
     <library name="multi_json (v1.12.1, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/multi_json-1.12.1/lib" />
@@ -18918,6 +19846,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/multi_json-1.13.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.13.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/multi_json-1.13.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/multi_json-1.13.1/lib" />
       </SOURCES>
     </library>
     <library name="multi_json (v1.13.1, RVM: ruby-2.4.1 [new_app]) [gem]">
@@ -19094,6 +20030,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/multipart-post-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="multipart-post (v2.0.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/multipart-post-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="multipart-post (v2.0.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -19404,6 +20348,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/net-scp-1.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="net-scp (v1.2.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/net-scp-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/net-scp-1.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="net-scp (v1.2.1, RVM: ruby-2.4.1 [new_app]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/net-scp-1.2.1/lib" />
@@ -19530,6 +20482,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/net-ssh-5.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/net-ssh-5.1.0/support" />
+      </SOURCES>
+    </library>
+    <library name="net-ssh (v5.1.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/net-ssh-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/net-ssh-5.1.0/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/net-ssh-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/net-ssh-5.1.0/support" />
       </SOURCES>
     </library>
     <library name="net-ssh (v5.2.0, RVM: ruby-2.3.0 [finvoice]) [gem]">
@@ -19938,6 +20900,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/newrelic_rpm-5.2.0.345/recipes" />
       </SOURCES>
     </library>
+    <library name="newrelic_rpm (v6.0.0.351, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/newrelic_rpm-6.0.0.351/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/newrelic_rpm-6.0.0.351/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/newrelic_rpm-6.0.0.351/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/newrelic_rpm-6.0.0.351/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/newrelic_rpm-6.0.0.351/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/newrelic_rpm-6.0.0.351/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/newrelic_rpm-6.0.0.351/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/newrelic_rpm-6.0.0.351/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/newrelic_rpm-6.0.0.351/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/newrelic_rpm-6.0.0.351/recipes" />
+      </SOURCES>
+    </library>
     <library name="nifty-attachments (v1.0.4, RVM: ruby-2.2.2 [freshfw]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/nifty-attachments-1.0.4/lib" />
@@ -20106,6 +21084,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/nio4r-2.3.1/tasks" />
       </SOURCES>
     </library>
+    <library name="nio4r (v2.3.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/nio4r-2.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/nio4r-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/nio4r-2.3.1/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/nio4r-2.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/nio4r-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/nio4r-2.3.1/tasks" />
+      </SOURCES>
+    </library>
     <library name="nio4r (v2.3.1, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/nio4r-2.3.1/ext" />
@@ -20140,6 +21132,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/nio4r-2.3.1/tasks" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.10.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/nokogiri-1.10.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/nokogiri-1.10.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/nokogiri-1.10.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/nokogiri-1.10.1/patches" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/nokogiri-1.10.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/nokogiri-1.10.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/nokogiri-1.10.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/nokogiri-1.10.1/patches" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.10.1, RVM: ruby-2.5.3 [scraping]) [gem]">
@@ -20850,6 +21858,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/orm_adapter-0.5.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="orm_adapter (v0.5.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/orm_adapter-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/orm_adapter-0.5.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/orm_adapter-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/orm_adapter-0.5.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="orm_adapter (v0.5.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/orm_adapter-0.5.0/lib" />
@@ -20928,6 +21946,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/os-0.9.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/os-0.9.6/autotest" />
+      </SOURCES>
+    </library>
+    <library name="os (v1.0.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/os-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/os-1.0.0/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/os-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/os-1.0.0/autotest" />
       </SOURCES>
     </library>
     <library name="paperclip (v2.8.0, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
@@ -21098,6 +22126,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/parallel-1.12.1/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.13.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/parallel-1.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/parallel-1.13.0/lib" />
+      </SOURCES>
+    </library>
     <library name="parallel (v1.14.0, RVM: ruby-2.5.3 [scraping]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/parallel-1.14.0/lib" />
@@ -21146,6 +22182,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/paranoia-2.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="paranoia (v2.4.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/paranoia-2.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/paranoia-2.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="parse-cron (v0.1.4, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/parse-cron-0.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/parse-cron-0.1.4/lib" />
       </SOURCES>
     </library>
     <library name="parser (v2.3.2.0, RVM: ruby-2.2.2 [survey]) [gem]">
@@ -21286,6 +22338,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/parser-2.5.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/parser-2.5.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.6.0.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/parser-2.6.0.0/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/parser-2.6.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/parser-2.6.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/parser-2.6.0.0/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/parser-2.6.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/parser-2.6.0.0/lib" />
       </SOURCES>
     </library>
     <library name="parser (v2.6.2.0, RVM: ruby-2.3.0 [finvoice]) [gem]">
@@ -21488,6 +22552,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/pg-0.20.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/pg-0.20.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/pg-0.20.0/sample" />
+      </SOURCES>
+    </library>
+    <library name="pg (v0.21.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.21.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/pg-0.21.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/pg-0.21.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.21.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/pg-0.21.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/pg-0.21.0/lib" />
       </SOURCES>
     </library>
     <library name="pg (v0.21.0, RVM: ruby-2.4.1 [new_app]) [gem]">
@@ -22104,6 +23180,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/powerpack-0.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="powerpack (v0.1.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/powerpack-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/powerpack-0.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="powerpack (v0.1.2, RVM: ruby-2.5.1 [up_free]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/powerpack-0.1.2/lib" />
@@ -22538,6 +23622,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/psych-3.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="psych (v3.1.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/psych/3.1.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/psych-3.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/psych-3.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/psych-3.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/psych/3.1.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/psych-3.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/psych-3.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/psych-3.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="psych (v3.1.0, RVM: ruby-2.5.3 [scraping]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/psych-3.1.0/bin" />
@@ -22720,6 +23818,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/public_suffix-3.0.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/public_suffix-3.0.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/public_suffix-3.0.3/data" />
+      </SOURCES>
+    </library>
+    <library name="public_suffix (v3.0.3, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/public_suffix-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/public_suffix-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/public_suffix-3.0.3/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/public_suffix-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/public_suffix-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/public_suffix-3.0.3/data" />
       </SOURCES>
     </library>
     <library name="public_suffix (v3.0.3, RVM: ruby-2.5.3 [scraping]) [gem]">
@@ -22916,6 +24026,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/puma-3.12.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/puma-3.12.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/puma-3.12.0/tools" />
+      </SOURCES>
+    </library>
+    <library name="puma (v3.12.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.12.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/puma-3.12.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/puma-3.12.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/puma-3.12.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/puma-3.12.0/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.12.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/puma-3.12.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/puma-3.12.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/puma-3.12.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/puma-3.12.0/tools" />
       </SOURCES>
     </library>
     <library name="puma (v3.12.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -23356,6 +24482,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/rack-2.0.5/example" />
       </SOURCES>
     </library>
+    <library name="rack (v2.0.6, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rack-2.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rack-2.0.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rack-2.0.6/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rack-2.0.6/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rack-2.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rack-2.0.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rack-2.0.6/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rack-2.0.6/example" />
+      </SOURCES>
+    </library>
     <library name="rack (v2.0.6, RVM: ruby-2.5.3 [scraping]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/rack-2.0.6/bin" />
@@ -23588,6 +24728,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rack-protection-2.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="rack-protection (v2.0.5, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rack-protection-2.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rack-protection-2.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-proxy (v0.6.2, RVM: ruby-2.2.2 [freshfw]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/rack-proxy-0.6.2/lib" />
@@ -23782,6 +24930,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/rack-test-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="rack-test (v1.1.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rack-test-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rack-test-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-test (v1.1.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rack-test-1.1.0/lib" />
@@ -23904,6 +25060,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/rails-5.1.5" />
+      </SOURCES>
+    </library>
+    <library name="rails (v5.1.6.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rails-5.1.6.1" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rails-5.1.6.1" />
       </SOURCES>
     </library>
     <library name="rails (v5.2.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -24072,6 +25236,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/rails-dom-testing-2.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-dom-testing (v2.0.3, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rails-dom-testing-2.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rails-dom-testing-2.0.3/lib" />
       </SOURCES>
     </library>
     <library name="rails-dom-testing (v2.0.3, RVM: ruby-2.4.1 [new_app]) [gem]">
@@ -24286,6 +25458,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/rails-html-sanitizer-1.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-html-sanitizer (v1.0.4, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rails-html-sanitizer-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rails-html-sanitizer-1.0.4/lib" />
       </SOURCES>
     </library>
     <library name="rails-html-sanitizer (v1.0.4, RVM: ruby-2.5.0 [maestro_backend]) [gem]">
@@ -24628,6 +25808,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/railties-5.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="railties (v5.1.6.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/railties-5.1.6.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/railties-5.1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/railties-5.1.6.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/railties-5.1.6.1/lib" />
+      </SOURCES>
+    </library>
     <library name="railties (v5.2.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/railties-5.2.0/exe" />
@@ -24780,6 +25970,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/rainbow-3.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rainbow (v3.0.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rainbow-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rainbow-3.0.0/lib" />
       </SOURCES>
     </library>
     <library name="rainbow (v3.0.0, RVM: ruby-2.4.1 [new_app]) [gem]">
@@ -25468,12 +26666,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/rake-12.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="rake (v12.3.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rake-12.3.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rake-12.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rake-12.3.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rake-12.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="ransack (v1.6.2, RVM: ruby-2.2.2 [freshfw]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/ransack-1.6.2/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/ransack-1.6.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="ransack (v1.8.10, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ransack-1.8.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ransack-1.8.10/lib" />
       </SOURCES>
     </library>
     <library name="ransack (v1.8.8, RVM: ruby-2.5.1 [vue_demo_app]) [gem]">
@@ -25582,6 +26800,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/rb-fsevent-0.10.3/lib" />
       </SOURCES>
     </library>
+    <library name="rb-fsevent (v0.10.3, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rb-fsevent-0.10.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rb-fsevent-0.10.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rb-fsevent-0.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rb-fsevent-0.10.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rb-fsevent-0.10.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rb-fsevent-0.10.3/lib" />
+      </SOURCES>
+    </library>
     <library name="rb-fsevent (v0.10.3, RVM: ruby-2.5.0 [maestro_backend]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
@@ -25686,6 +26918,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/rb-inotify-0.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rb-inotify (v0.10.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rb-inotify-0.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rb-inotify-0.10.0/lib" />
       </SOURCES>
     </library>
     <library name="rb-inotify (v0.9.0, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
@@ -26078,6 +27318,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/redis-3.3.3/benchmarking" />
       </SOURCES>
     </library>
+    <library name="redis (v3.3.5, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/redis-3.3.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/redis-3.3.5/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/redis-3.3.5/benchmarking" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/redis-3.3.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/redis-3.3.5/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/redis-3.3.5/benchmarking" />
+      </SOURCES>
+    </library>
     <library name="redis (v4.0.1, RVM: ruby-2.4.1 [devana]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/redis-4.0.1/lib" />
@@ -26252,6 +27504,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/ref-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="ref (v2.0.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ref-2.0.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ref-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ref-2.0.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ref-2.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ref (v2.0.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/ref-2.0.0/ext" />
@@ -26298,6 +27560,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/representable-3.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="representable (v3.0.4, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/representable-3.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/representable-3.0.4/lib" />
       </SOURCES>
     </library>
     <library name="representable (v3.0.4, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -26460,6 +27730,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/responders-2.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="responders (v2.4.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/responders-2.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/responders-2.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="resque (v1.27.4, RVM: ruby-2.3.0 [finvoice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/resque-1.27.4/bin" />
@@ -26552,6 +27830,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/retriable-3.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="retriable (v3.1.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/retriable-3.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/retriable-3.1.2/lib" />
       </SOURCES>
     </library>
     <library name="riddle (v2.1.0, RVM: ruby-2.3.4 [sharetribe]) [gem]">
@@ -26846,6 +28132,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/rspec-core-3.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.8.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rspec-core-3.8.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rspec-core-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rspec-core-3.8.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rspec-core-3.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v3.8.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fantasy_friend/gems/rspec-core-3.8.0/exe" />
@@ -26996,6 +28292,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rspec-expectations-3.8.1/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-expectations (v3.8.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rspec-expectations-3.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rspec-expectations-3.8.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-its (v1.2.0, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/rspec-its-1.2.0/lib" />
@@ -27132,6 +28436,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/rspec-mocks-3.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.8.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rspec-mocks-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rspec-mocks-3.8.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-mocks (v3.8.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
@@ -27272,6 +28584,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rspec-rails-3.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-rails (v3.8.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rspec-rails-3.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rspec-rails-3.8.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-sidekiq (v3.0.3, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rspec-sidekiq-3.0.3/lib" />
@@ -27382,6 +28702,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/rspec-support-3.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.8.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rspec-support-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rspec-support-3.8.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-support (v3.8.0, RVM: ruby-2.4.2 [fantasy_friend]) [gem]">
@@ -27662,6 +28990,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/rubocop-0.59.2/config" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.65.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rubocop-0.65.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rubocop-0.65.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rubocop-0.65.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rubocop-0.65.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rubocop-0.65.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rubocop-0.65.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rubocop-0.65.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rubocop-0.65.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rubocop-0.65.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rubocop-0.65.0/config" />
+      </SOURCES>
+    </library>
     <library name="rubocop (v0.66.0, RVM: ruby-2.3.0 [finvoice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/rubocop-0.66.0/bin" />
@@ -27814,6 +29158,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/ruby-progressbar-1.10.0/lib" />
       </SOURCES>
     </library>
+    <library name="ruby-progressbar (v1.10.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ruby-progressbar-1.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ruby-progressbar-1.10.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-progressbar (v1.10.0, RVM: ruby-2.5.1 [up_free]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/ruby-progressbar-1.10.0/lib" />
@@ -27952,6 +29304,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/ruby_dep-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby_dep (v1.5.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ruby_dep-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ruby_dep-1.5.0/lib" />
       </SOURCES>
     </library>
     <library name="ruby_dep (v1.5.0, RVM: ruby-2.4.1 [new_app]) [gem]">
@@ -28464,6 +29824,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/rubyzip-1.2.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/rubyzip-1.2.2/samples" />
+      </SOURCES>
+    </library>
+    <library name="rubyzip (v1.2.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rubyzip-1.2.2/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rubyzip-1.2.2/samples" />
       </SOURCES>
     </library>
     <library name="rubyzip (v1.2.2, RVM: ruby-2.5.3 [scraping]) [gem]">
@@ -29110,6 +30480,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/sass-3.7.3/rails" />
       </SOURCES>
     </library>
+    <library name="sass (v3.7.3, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sass-3.7.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sass-3.7.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sass-3.7.3/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sass-3.7.3/rails" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sass-3.7.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sass-3.7.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sass-3.7.3/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sass-3.7.3/rails" />
+      </SOURCES>
+    </library>
     <library name="sass-listen (v4.0.0, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/sass-listen-4.0.0/lib" />
@@ -29132,6 +30516,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/sass-listen-4.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sass-listen (v4.0.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sass-listen-4.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sass-listen-4.0.0/lib" />
       </SOURCES>
     </library>
     <library name="sass-listen (v4.0.0, RVM: ruby-2.4.1 [new_app]) [gem]">
@@ -29252,6 +30644,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/sass-rails-5.0.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="sass-rails (v5.0.7, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sass-rails-5.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sass-rails-5.0.7/lib" />
       </SOURCES>
     </library>
     <library name="sass-rails (v5.0.7, RVM: ruby-2.4.1 [new_app]) [gem]">
@@ -29378,6 +30778,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/sdoc-0.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="select2-rails (v4.0.3, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/select2-rails-4.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/select2-rails-4.0.3/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/select2-rails-4.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/select2-rails-4.0.3/vendor" />
+      </SOURCES>
+    </library>
     <library name="select2-rails (v4.0.3, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/select2-rails-4.0.3/lib" />
@@ -29450,6 +30860,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/selenium-webdriver-3.14.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.141.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/selenium-webdriver-3.141.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/selenium-webdriver-3.141.0/lib" />
       </SOURCES>
     </library>
     <library name="selenium-webdriver (v3.141.0, RVM: ruby-2.5.3 [scraping]) [gem]">
@@ -29764,6 +31182,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/sidekiq-5.0.4/.github" />
       </SOURCES>
     </library>
+    <library name="sidekiq (v5.0.5, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sidekiq-5.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sidekiq-5.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sidekiq-5.0.5/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sidekiq-5.0.5/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sidekiq-5.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sidekiq-5.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sidekiq-5.0.5/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sidekiq-5.0.5/.github" />
+      </SOURCES>
+    </library>
     <library name="sidekiq (v5.1.3, RVM: ruby-2.5.0 [maestro_backend]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/sidekiq-5.1.3/bin" />
@@ -29858,6 +31290,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sidekiq-scheduler-3.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sidekiq-scheduler-3.0.0/web" />
+      </SOURCES>
+    </library>
+    <library name="signet (v0.11.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/signet-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/signet-0.11.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/signet-0.11.0/website" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/signet-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/signet-0.11.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/signet-0.11.0/website" />
       </SOURCES>
     </library>
     <library name="signet (v0.7.3, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
@@ -30408,6 +31852,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/spring-2.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="spring (v2.0.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/spring-2.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/spring-2.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/spring-2.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/spring-2.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="spring (v2.0.2, RVM: ruby-2.4.1 [new_app]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/spring-2.0.2/bin" />
@@ -30530,6 +31984,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/spring-watcher-listen-2.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="spring-watcher-listen (v2.0.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/spring-watcher-listen-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/spring-watcher-listen-2.0.1/lib" />
       </SOURCES>
     </library>
     <library name="spring-watcher-listen (v2.0.1, RVM: ruby-2.4.1 [new_app]) [gem]">
@@ -30776,6 +32238,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/sprockets-3.7.2/lib" />
       </SOURCES>
     </library>
+    <library name="sprockets (v3.7.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sprockets-3.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sprockets-3.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sprockets-3.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sprockets-3.7.2/lib" />
+      </SOURCES>
+    </library>
     <library name="sprockets (v3.7.2, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sprockets-3.7.2/bin" />
@@ -30864,6 +32336,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/sprockets-rails-3.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets-rails (v3.2.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sprockets-rails-3.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sprockets-rails-3.2.1/lib" />
       </SOURCES>
     </library>
     <library name="sprockets-rails (v3.2.1, RVM: ruby-2.4.1 [new_app]) [gem]">
@@ -31098,6 +32578,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/sshkit-1.18.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="sshkit (v1.18.2, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sshkit-1.18.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sshkit-1.18.2/lib" />
       </SOURCES>
     </library>
     <library name="sshkit-interactive (v0.2.2, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
@@ -31814,6 +33302,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/therubyracer-0.12.3/lib" />
       </SOURCES>
     </library>
+    <library name="therubyracer (v0.12.3, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/therubyracer/0.12.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/therubyracer-0.12.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/therubyracer-0.12.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/therubyracer/0.12.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/therubyracer-0.12.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/therubyracer-0.12.3/lib" />
+      </SOURCES>
+    </library>
     <library name="therubyracer (v0.12.3, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/therubyracer-0.12.3/ext" />
@@ -32104,6 +33604,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/thor-0.20.3/lib" />
       </SOURCES>
     </library>
+    <library name="thor (v0.20.3, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/thor-0.20.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/thor-0.20.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/thor-0.20.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/thor-0.20.3/lib" />
+      </SOURCES>
+    </library>
     <library name="thor (v0.20.3, RVM: ruby-2.5.3 [scraping]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/thor-0.20.3/bin" />
@@ -32238,6 +33748,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/thread_safe-0.3.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/thread_safe-0.3.6/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/thread_safe-0.3.6/yard-template" />
+      </SOURCES>
+    </library>
+    <library name="thread_safe (v0.3.6, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/thread_safe-0.3.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/thread_safe-0.3.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/thread_safe-0.3.6/yard-template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/thread_safe-0.3.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/thread_safe-0.3.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/thread_safe-0.3.6/yard-template" />
       </SOURCES>
     </library>
     <library name="thread_safe (v0.3.6, RVM: ruby-2.4.1 [new_app]) [gem]">
@@ -32598,6 +34122,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/tilt-2.0.9/man" />
       </SOURCES>
     </library>
+    <library name="tilt (v2.0.9, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/tilt-2.0.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/tilt-2.0.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/tilt-2.0.9/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/tilt-2.0.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/tilt-2.0.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/tilt-2.0.9/man" />
+      </SOURCES>
+    </library>
     <library name="timecop (v0.6.1, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/timecop-0.6.1/lib" />
@@ -32938,6 +34474,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/tzinfo-1.2.5/lib" />
       </SOURCES>
     </library>
+    <library name="tzinfo (v1.2.5, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/tzinfo-1.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/tzinfo-1.2.5/lib" />
+      </SOURCES>
+    </library>
     <library name="tzinfo (v1.2.5, RVM: ruby-2.4.1 [new_app]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/tzinfo-1.2.5/lib" />
@@ -33016,6 +34560,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/uber-0.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="uber (v0.1.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/uber-0.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/uber-0.1.0/lib" />
       </SOURCES>
     </library>
     <library name="uber (v0.1.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -33428,6 +34980,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/unicode-display_width-1.4.0/data" />
       </SOURCES>
     </library>
+    <library name="unicode-display_width (v1.4.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/unicode-display_width-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/unicode-display_width-1.4.1/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/unicode-display_width-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/unicode-display_width-1.4.1/data" />
+      </SOURCES>
+    </library>
     <library name="unicode-display_width (v1.5.0, RVM: ruby-2.3.0 [finvoice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/unicode-display_width-1.5.0/lib" />
@@ -33606,6 +35168,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/uniform_notifier-1.11.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="uniform_notifier (v1.12.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/uniform_notifier-1.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/uniform_notifier-1.12.1/lib" />
       </SOURCES>
     </library>
     <library name="uuidtools (v2.1.5, RVM: ruby-2.2.2 [freshfw]) [gem]">
@@ -33798,6 +35368,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/warden-1.2.7/lib" />
       </SOURCES>
     </library>
+    <library name="warden (v1.2.8, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/warden-1.2.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/warden-1.2.8/lib" />
+      </SOURCES>
+    </library>
     <library name="wasabi (v3.5.0, RVM: ruby-2.3.0 [finvoice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/wasabi-3.5.0/lib" />
@@ -33944,6 +35522,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/web-console-3.6.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="web-console (v3.7.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/web-console-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/web-console-3.7.0/lib" />
       </SOURCES>
     </library>
     <library name="web_translate_it (v2.4.1, RVM: ruby-2.3.4 [sharetribe]) [gem]">
@@ -34126,6 +35712,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/websocket-driver-0.6.5/lib" />
       </SOURCES>
     </library>
+    <library name="websocket-driver (v0.6.5, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/websocket-driver-0.6.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/websocket-driver-0.6.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/websocket-driver-0.6.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/websocket-driver-0.6.5/lib" />
+      </SOURCES>
+    </library>
     <library name="websocket-driver (v0.6.5, RVM: ruby-2.4.1 [new_app]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/websocket-driver-0.6.5/ext" />
@@ -34288,6 +35886,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/websocket-extensions-0.1.3/lib" />
       </SOURCES>
     </library>
+    <library name="websocket-extensions (v0.1.3, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/websocket-extensions-0.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/websocket-extensions-0.1.3/lib" />
+      </SOURCES>
+    </library>
     <library name="websocket-extensions (v0.1.3, RVM: ruby-2.4.1 [new_app]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/websocket-extensions-0.1.3/lib" />
@@ -34370,6 +35976,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/whenever-0.10.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/whenever-0.10.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/whenever-0.10.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="whenever (v0.10.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/whenever-0.10.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/whenever-0.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/whenever-0.10.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/whenever-0.10.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/whenever-0.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/whenever-0.10.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="whenever (v0.10.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -34808,6 +36426,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/xpath-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="xpath (v2.1.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/xpath-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/xpath-2.1.0/lib" />
       </SOURCES>
     </library>
     <library name="xpath (v2.1.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
