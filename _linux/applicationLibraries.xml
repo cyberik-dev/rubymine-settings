@@ -13852,6 +13852,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/grape_logging-1.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="grape_on_rails_routes (v0.3.2, RVM: ruby-2.5.0 [maestro_backend]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/grape_on_rails_routes-0.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/grape_on_rails_routes-0.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="griddler (v1.4.0, RVM: ruby-2.0.0-p648 [ecoaching]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p648@ecoaching/gems/griddler-1.4.0/app" />
