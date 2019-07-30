@@ -4330,12 +4330,10 @@
     </library>
     <library name="bcrypt (v3.1.11, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/bcrypt-3.1.11/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
@@ -4686,12 +4684,10 @@
     </library>
     <library name="binding_of_caller (v0.7.2, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/binding_of_caller-0.7.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/binding_of_caller-0.7.2/lib" />
       </SOURCES>
@@ -5008,12 +5004,10 @@
     </library>
     <library name="bson (v4.2.1, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bson/4.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/bson-4.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/bson-4.2.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bson/4.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/bson-4.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/bson-4.2.1/lib" />
       </SOURCES>
@@ -6118,13 +6112,11 @@
     </library>
     <library name="byebug (v9.0.6, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.0.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/byebug-9.0.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/byebug-9.0.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/byebug-9.0.6/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.0.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/byebug-9.0.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/byebug-9.0.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/byebug-9.0.6/lib" />
@@ -9336,12 +9328,10 @@
     </library>
     <library name="debug_inspector (v0.0.2, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/debug_inspector-0.0.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/debug_inspector-0.0.2/lib" />
       </SOURCES>
@@ -12656,14 +12646,12 @@
     </library>
     <library name="ffi (v1.9.17, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.17" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/ffi-1.9.17/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/ffi-1.9.17/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/ffi-1.9.17/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/ffi-1.9.17/libtest" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.17" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/ffi-1.9.17/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/ffi-1.9.17/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/ffi-1.9.17/lib" />
@@ -17284,7 +17272,6 @@
     </library>
     <library name="json (v1.8.6, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/json-1.8.6/data" />
@@ -17294,7 +17281,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/json-1.8.6/data" />
@@ -18116,13 +18102,11 @@
     </library>
     <library name="libv8 (v3.16.14.17, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/libv8/3.16.14.17" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/libv8-3.16.14.17-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/libv8-3.16.14.17-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/libv8-3.16.14.17-x86_64-linux/vendor" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/libv8/3.16.14.17" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/libv8-3.16.14.17-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/libv8-3.16.14.17-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/libv8-3.16.14.17-x86_64-linux/vendor" />
@@ -22316,13 +22300,11 @@
     </library>
     <library name="nio4r (v1.2.1, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/1.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/nio4r-1.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/nio4r-1.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/nio4r-1.2.1/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/1.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/nio4r-1.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/nio4r-1.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/nio4r-1.2.1/tasks" />
@@ -22640,7 +22622,6 @@
     </library>
     <library name="nokogiri (v1.7.0.1, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.7.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/nokogiri-1.7.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/nokogiri-1.7.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/nokogiri-1.7.0.1/lib" />
@@ -22649,7 +22630,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/nokogiri-1.7.0.1/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.7.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/nokogiri-1.7.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/nokogiri-1.7.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/nokogiri-1.7.0.1/lib" />
@@ -23838,7 +23818,6 @@
     </library>
     <library name="passenger (v5.1.2, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/passenger/5.1.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/passenger-5.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/passenger-5.1.2/dev" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/passenger-5.1.2/man" />
@@ -23848,7 +23827,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/passenger-5.1.2/download_cache" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/passenger/5.1.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/passenger-5.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/passenger-5.1.2/dev" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/passenger-5.1.2/man" />
@@ -24036,13 +24014,11 @@
     </library>
     <library name="pg (v0.19.0, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.19.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/pg-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/pg-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/pg-0.19.0/sample" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.19.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/pg-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/pg-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/pg-0.19.0/sample" />
@@ -35194,12 +35170,10 @@
     </library>
     <library name="therubyracer (v0.12.3, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/therubyracer-0.12.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/therubyracer-0.12.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/therubyracer-0.12.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/therubyracer-0.12.3/lib" />
       </SOURCES>
@@ -37732,12 +37706,10 @@
     </library>
     <library name="websocket-driver (v0.6.5, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/websocket-driver-0.6.5/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/websocket-driver-0.6.5/lib" />
       </SOURCES>
