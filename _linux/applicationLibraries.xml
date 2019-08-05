@@ -146,6 +146,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/actioncable-5.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v5.2.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/actioncable-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/actioncable-5.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v3.2.12, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/actionmailer-3.2.12/lib" />
@@ -330,6 +338,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/actionmailer-5.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="actionmailer (v5.2.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/actionmailer-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/actionmailer-5.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="actionpack (v3.2.12, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/actionpack-3.2.12/lib" />
@@ -512,6 +528,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/actionpack-5.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v5.2.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/actionpack-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/actionpack-5.2.3/lib" />
       </SOURCES>
     </library>
     <library name="actionpack-action_caching (v1.1.1, RVM: ruby-2.0.0-p648 [ecoaching]) [gem]">
@@ -708,6 +732,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/actionview-5.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.2.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/actionview-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/actionview-5.2.3/lib" />
       </SOURCES>
     </library>
     <library name="active_attr (v0.13.0, RVM: ruby-2.3.0 [finvoice]) [gem]">
@@ -968,6 +1000,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/activejob-5.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v5.2.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/activejob-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/activejob-5.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v3.2.12, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/activemodel-3.2.12/lib" />
@@ -1158,6 +1198,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/activemodel-5.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v5.2.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/activemodel-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/activemodel-5.2.3/lib" />
       </SOURCES>
     </library>
     <library name="activemodel-serializers-xml (v1.0.2, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -1360,6 +1408,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/activerecord-5.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord (v5.2.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/activerecord-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/activerecord-5.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord-import (v1.0.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/activerecord-import-1.0.0/lib" />
@@ -1478,6 +1534,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/activestorage-5.2.1/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/activestorage-5.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/activestorage-5.2.1/config" />
+      </SOURCES>
+    </library>
+    <library name="activestorage (v5.2.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/activestorage-5.2.3/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/activestorage-5.2.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/activestorage-5.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/activestorage-5.2.3/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/activestorage-5.2.3/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/activestorage-5.2.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/activestorage-5.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/activestorage-5.2.3/config" />
       </SOURCES>
     </library>
     <library name="activesupport (v3.2.12, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
@@ -1678,6 +1748,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/activesupport-5.2.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.2.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/activesupport-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/activesupport-5.2.3/lib" />
       </SOURCES>
     </library>
     <library name="acts_as_list (v0.7.4, RVM: ruby-2.0.0-p648 [ecoaching]) [gem]">
@@ -1934,6 +2012,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/addressable-2.6.0/tasks" />
       </SOURCES>
     </library>
+    <library name="addressable (v2.6.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/addressable-2.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/addressable-2.6.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/addressable-2.6.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/addressable-2.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/addressable-2.6.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/addressable-2.6.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="addressable (v2.6.0, RVM: ruby-2.5.3 [scraping]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/addressable-2.6.0/lib" />
@@ -2168,6 +2258,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/archive-zip-0.11.0/lib" />
       </SOURCES>
     </library>
+    <library name="archive-zip (v0.12.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/archive-zip-0.12.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/archive-zip-0.12.0/lib" />
+      </SOURCES>
+    </library>
     <library name="archive-zip (v0.7.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/archive-zip-0.7.0/lib" />
@@ -2334,6 +2432,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/arel-9.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="arel (v9.0.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/arel-9.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/arel-9.0.0/lib" />
       </SOURCES>
     </library>
     <library name="arel (v9.0.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -4642,6 +4748,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/bindex-0.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="bindex (v0.8.1, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bindex/0.8.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/bindex-0.8.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/bindex-0.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bindex/0.8.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/bindex-0.8.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/bindex-0.8.1/lib" />
+      </SOURCES>
+    </library>
     <library name="binding_of_caller (v0.7.2, RVM: ruby-2.2.2 [freshfw]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/binding_of_caller-0.7.2/ext" />
@@ -4846,6 +4964,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bootsnap-1.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bootsnap-1.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/bootsnap-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bootsnap (v1.4.4, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.4.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/bootsnap-1.4.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/bootsnap-1.4.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/bootsnap-1.4.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/bootsnap-1.4.4/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.4.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/bootsnap-1.4.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/bootsnap-1.4.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/bootsnap-1.4.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/bootsnap-1.4.4/.github" />
       </SOURCES>
     </library>
     <library name="bootstrap (v4.0.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -5210,6 +5344,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/builder-3.2.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/builder-3.2.3/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="builder (v3.2.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/builder-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/builder-3.2.3/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/builder-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/builder-3.2.3/rakelib" />
       </SOURCES>
     </library>
     <library name="builder (v3.2.3, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -5598,6 +5742,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/bundler-2.0.2/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v2.0.2, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/bundler-2.0.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/bundler-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/bundler-2.0.2/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/bundler-2.0.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/bundler-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/bundler-2.0.2/man" />
+      </SOURCES>
+    </library>
     <library name="bundler-unload (v1.0.2, RVM: ruby-1.9.3-p551 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@global/gems/bundler-unload-1.0.2/lib" />
@@ -5862,6 +6018,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/bundler-unload-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="bundler-unload (v1.0.2, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/bundler-unload-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/bundler-unload-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="bundler-unload (v1.0.2, RVM: ruby-2.5.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/bundler-unload-1.0.2/lib" />
@@ -6036,6 +6200,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/byebug-11.0.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/byebug-11.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/byebug-11.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="byebug (v11.0.1, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/11.0.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/byebug-11.0.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/byebug-11.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/byebug-11.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/11.0.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/byebug-11.0.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/byebug-11.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/byebug-11.0.1/lib" />
       </SOURCES>
     </library>
     <library name="byebug (v11.0.1, RVM: ruby-2.5.3 [scraping]) [gem]">
@@ -6982,6 +7160,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/capybara-3.15.0/lib" />
       </SOURCES>
     </library>
+    <library name="capybara (v3.28.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/capybara-3.28.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/capybara-3.28.0/lib" />
+      </SOURCES>
+    </library>
     <library name="capybara (v3.5.1, RVM: ruby-2.4.1 [devana]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/capybara-3.5.1/lib" />
@@ -7192,6 +7378,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/childprocess-0.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="childprocess (v1.0.1, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/childprocess-1.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/childprocess-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/childprocess-1.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/childprocess-1.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="choice (v0.2.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/choice-0.2.0/lib" />
@@ -7262,6 +7458,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/chromedriver-helper-1.2.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/chromedriver-helper-1.2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/chromedriver-helper-1.2.0/concourse" />
+      </SOURCES>
+    </library>
+    <library name="chromedriver-helper (v2.1.1, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/chromedriver-helper-2.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/chromedriver-helper-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/chromedriver-helper-2.1.1/concourse" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/chromedriver-helper-2.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/chromedriver-helper-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/chromedriver-helper-2.1.1/concourse" />
       </SOURCES>
     </library>
     <library name="chronic (v0.10.2, RVM: ruby-2.2.2 [freshfw]) [gem]">
@@ -7922,6 +8130,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot_sample_app/gems/coffee-rails-4.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="coffee-rails (v4.2.2, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/coffee-rails-4.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/coffee-rails-4.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="coffee-rails (v4.2.2, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/coffee-rails-4.2.2/lib" />
@@ -8066,6 +8282,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot_sample_app/gems/coffee-script-2.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="coffee-script (v2.4.1, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/coffee-script-2.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/coffee-script-2.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="coffee-script (v2.4.1, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/coffee-script-2.4.1/lib" />
@@ -8200,6 +8424,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot_sample_app/gems/coffee-script-source-1.12.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-script-source (v1.12.2, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/coffee-script-source-1.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/coffee-script-source-1.12.2/lib" />
       </SOURCES>
     </library>
     <library name="coffee-script-source (v1.12.2, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -8574,6 +8806,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/concurrent-ruby-1.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="concurrent-ruby (v1.1.5, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/concurrent-ruby-1.1.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/concurrent-ruby-1.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/concurrent-ruby-1.1.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/concurrent-ruby-1.1.5/lib" />
+      </SOURCES>
+    </library>
     <library name="concurrent-ruby (v1.1.5, RVM: ruby-2.5.3 [scraping]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/concurrent-ruby-1.1.5/ext" />
@@ -8860,6 +9102,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/crass-1.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="crass (v1.0.4, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/crass-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/crass-1.0.4/lib" />
       </SOURCES>
     </library>
     <library name="crass (v1.0.4, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -10166,6 +10416,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/did_you_mean-1.2.0/evaluation" />
       </SOURCES>
     </library>
+    <library name="did_you_mean (v1.2.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/evaluation" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/evaluation" />
+      </SOURCES>
+    </library>
     <library name="did_you_mean (v1.2.0, RVM: ruby-2.5.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/lib" />
@@ -10992,6 +11254,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/erubi-1.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="erubi (v1.8.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/erubi-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/erubi-1.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="erubis (v2.7.0, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/erubis-2.7.0/bin" />
@@ -11560,6 +11830,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/execjs-2.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="execjs (v2.7.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/execjs-2.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/execjs-2.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="execjs (v2.7.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/execjs-2.7.0/lib" />
@@ -11994,6 +12272,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/executable-hooks-1.4.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/executable-hooks-1.4.2/test-tf" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/executable-hooks-1.4.2/test-tf-bundle" />
+      </SOURCES>
+    </library>
+    <library name="executable-hooks (v1.4.2, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.4.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.4.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.4.2/test-tf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.4.2/test-tf-bundle" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.4.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.4.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.4.2/test-tf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.4.2/test-tf-bundle" />
       </SOURCES>
     </library>
     <library name="executable-hooks (v1.4.2, RVM: ruby-2.5.1 [global]) [gem]">
@@ -12628,6 +12922,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/ffi-1.10.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/ffi-1.10.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/ffi-1.10.0/samples" />
+      </SOURCES>
+    </library>
+    <library name="ffi (v1.11.1, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.11.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/ffi-1.11.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/ffi-1.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/ffi-1.11.1/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.11.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/ffi-1.11.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/ffi-1.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/ffi-1.11.1/samples" />
       </SOURCES>
     </library>
     <library name="ffi (v1.9.14, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
@@ -14086,6 +14394,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/gem-wrappers-1.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="gem-wrappers (v1.3.2, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="gem-wrappers (v1.3.2, RVM: ruby-2.5.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.3.2/ext" />
@@ -14370,6 +14688,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/globalid-0.4.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="globalid (v0.4.2, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/globalid-0.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/globalid-0.4.2/lib" />
       </SOURCES>
     </library>
     <library name="globalize (v5.0.1, RVM: ruby-2.2.2 [itera]) [gem]">
@@ -15880,6 +16206,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/i18n-1.5.3/lib" />
       </SOURCES>
     </library>
+    <library name="i18n (v1.6.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/i18n-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/i18n-1.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="i18n (v1.6.0, RVM: ruby-2.5.3 [scraping]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/i18n-1.6.0/lib" />
@@ -16584,6 +16918,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/io-like-0.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="io-like (v0.3.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/io-like-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/io-like-0.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="io-like (v0.3.0, RVM: ruby-2.5.1 [up_free]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/io-like-0.3.0/lib" />
@@ -16792,6 +17134,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/jbuilder-2.8.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/jbuilder-2.8.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="jbuilder (v2.9.1, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/jbuilder-2.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/jbuilder-2.9.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/jbuilder-2.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/jbuilder-2.9.1/gemfiles" />
       </SOURCES>
     </library>
     <library name="jmespath (v1.3.1, RVM: ruby-2.3.4 [sharetribe]) [gem]">
@@ -18318,6 +18670,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/listen-3.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="listen (v3.1.5, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/listen-3.1.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/listen-3.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/listen-3.1.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/listen-3.1.5/lib" />
+      </SOURCES>
+    </library>
     <library name="listen (v3.1.5, RVM: ruby-2.5.1 [up_free]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/listen-3.1.5/bin" />
@@ -18660,6 +19022,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/loofah-2.2.3/benchmark" />
       </SOURCES>
     </library>
+    <library name="loofah (v2.2.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/loofah-2.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/loofah-2.2.3/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/loofah-2.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/loofah-2.2.3/benchmark" />
+      </SOURCES>
+    </library>
     <library name="lumberjack (v1.0.12, RVM: ruby-2.3.4 [sharetribe]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@sharetribe/gems/lumberjack-1.0.12/lib" />
@@ -18886,6 +19258,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mail-2.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="mail (v2.7.1, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/mail-2.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/mail-2.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="mail_view (v2.0.4, RVM: ruby-2.3.4 [sharetribe]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@sharetribe/gems/mail_view-2.0.4/lib" />
@@ -19038,6 +19418,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/marcel-0.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="marcel (v0.3.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/marcel-0.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/marcel-0.3.3/lib" />
       </SOURCES>
     </library>
     <library name="maxminddb (v0.1.14, RVM: ruby-2.2.2 [freshfw]) [gem]">
@@ -19382,6 +19770,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/method_source-0.9.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="method_source (v0.9.2, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/method_source-0.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/method_source-0.9.2/lib" />
       </SOURCES>
     </library>
     <library name="method_source (v0.9.2, RVM: ruby-2.5.3 [scraping]) [gem]">
@@ -19850,6 +20246,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/mimemagic-0.3.2/script" />
       </SOURCES>
     </library>
+    <library name="mimemagic (v0.3.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/mimemagic-0.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/mimemagic-0.3.3/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/mimemagic-0.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/mimemagic-0.3.3/script" />
+      </SOURCES>
+    </library>
     <library name="mini_magick (v1.3.3, RVM: ruby-2.0.0-p648 [ecoaching]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p648@ecoaching/gems/mini_magick-1.3.3/lib" />
@@ -20052,6 +20458,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/mini_mime-1.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/mini_mime-1.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/mini_mime-1.0.1/bench" />
+      </SOURCES>
+    </library>
+    <library name="mini_mime (v1.0.2, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/mini_mime-1.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/mini_mime-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/mini_mime-1.0.2/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/mini_mime-1.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/mini_mime-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/mini_mime-1.0.2/bench" />
       </SOURCES>
     </library>
     <library name="mini_portile (v0.6.0, RVM: ruby-2.0.0-p648 [ecoaching]) [gem]">
@@ -20264,6 +20682,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/mini_portile2-2.4.0/concourse" />
       </SOURCES>
     </library>
+    <library name="mini_portile2 (v2.4.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/mini_portile2-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/mini_portile2-2.4.0/concourse" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/mini_portile2-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/mini_portile2-2.4.0/concourse" />
+      </SOURCES>
+    </library>
     <library name="mini_portile2 (v2.4.0, RVM: ruby-2.5.3 [scraping]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/mini_portile2-2.4.0/lib" />
@@ -20466,6 +20894,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/minitest-5.10.3/lib" />
       </SOURCES>
     </library>
+    <library name="minitest (v5.10.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/minitest-5.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/minitest-5.10.3/lib" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.10.3, RVM: ruby-2.5.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/minitest-5.10.3/lib" />
@@ -20568,6 +21004,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/minitest-5.11.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.11.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/minitest-5.11.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/minitest-5.11.3/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.11.3, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -21026,6 +21470,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/msgpack-1.2.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/msgpack-1.2.6/bench" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/msgpack-1.2.6/doclib" />
+      </SOURCES>
+    </library>
+    <library name="msgpack (v1.3.1, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/msgpack/1.3.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/msgpack-1.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/msgpack-1.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/msgpack-1.3.1/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/msgpack-1.3.1/doclib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/msgpack/1.3.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/msgpack-1.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/msgpack-1.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/msgpack-1.3.1/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/msgpack-1.3.1/doclib" />
       </SOURCES>
     </library>
     <library name="multi_json (v1.12.1, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
@@ -22090,6 +22550,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/net-telnet-0.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="net-telnet (v0.1.1, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/net-telnet-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/net-telnet-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/net-telnet-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/net-telnet-0.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="net-telnet (v0.1.1, RVM: ruby-2.5.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/net-telnet-0.1.1/bin" />
@@ -22508,6 +22978,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/nio4r-2.3.1/tasks" />
       </SOURCES>
     </library>
+    <library name="nio4r (v2.4.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.4.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/nio4r-2.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/nio4r-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/nio4r-2.4.0/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.4.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/nio4r-2.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/nio4r-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/nio4r-2.4.0/rakelib" />
+      </SOURCES>
+    </library>
     <library name="nokogiri (v1.10.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.1" />
@@ -22552,6 +23036,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/nokogiri-1.10.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/nokogiri-1.10.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/nokogiri-1.10.2/patches" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.10.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/nokogiri-1.10.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/nokogiri-1.10.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/nokogiri-1.10.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/nokogiri-1.10.3/patches" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/nokogiri-1.10.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/nokogiri-1.10.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/nokogiri-1.10.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/nokogiri-1.10.3/patches" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.5.9, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
@@ -24542,6 +25042,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/power_assert-1.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="power_assert (v1.1.1, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/power_assert-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/power_assert-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/power_assert-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/power_assert-1.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="power_assert (v1.1.1, RVM: ruby-2.5.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/power_assert-1.1.1/bin" />
@@ -25372,6 +25882,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/public_suffix-3.0.3/data" />
       </SOURCES>
     </library>
+    <library name="public_suffix (v3.1.1, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/public_suffix-3.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/public_suffix-3.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/public_suffix-3.1.1/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/public_suffix-3.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/public_suffix-3.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/public_suffix-3.1.1/data" />
+      </SOURCES>
+    </library>
     <library name="puma (v2.0.1, RVM: ruby-2.0.0-p648 [ecoaching]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p648@ecoaching/gems/puma-2.0.1/bin" />
@@ -25600,6 +26122,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/puma-3.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/puma-3.12.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/puma-3.12.1/tools" />
+      </SOURCES>
+    </library>
+    <library name="puma (v3.12.1, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.12.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/puma-3.12.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/puma-3.12.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/puma-3.12.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/puma-3.12.1/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.12.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/puma-3.12.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/puma-3.12.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/puma-3.12.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/puma-3.12.1/tools" />
       </SOURCES>
     </library>
     <library name="puma (v3.6.2, RVM: ruby-2.2.2 [survey]) [gem]">
@@ -26074,6 +26612,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/rack-2.0.6/example" />
       </SOURCES>
     </library>
+    <library name="rack (v2.0.7, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rack-2.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rack-2.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rack-2.0.7/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rack-2.0.7/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rack-2.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rack-2.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rack-2.0.7/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rack-2.0.7/example" />
+      </SOURCES>
+    </library>
     <library name="rack-accept (v0.4.5, RVM: ruby-2.2.2 [freshfw]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/rack-accept-0.4.5/lib" />
@@ -26534,6 +27086,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rack-test-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="rack-test (v1.1.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rack-test-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rack-test-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-test (v1.1.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rack-test-1.1.0/lib" />
@@ -26720,6 +27280,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rails-5.2.1" />
+      </SOURCES>
+    </library>
+    <library name="rails (v5.2.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rails-5.2.3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rails-5.2.3" />
       </SOURCES>
     </library>
     <library name="rails-controller-testing (v1.0.2, RVM: ruby-2.3.4 [sharetribe]) [gem]">
@@ -26920,6 +27488,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/rails-dom-testing-2.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-dom-testing (v2.0.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rails-dom-testing-2.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rails-dom-testing-2.0.3/lib" />
       </SOURCES>
     </library>
     <library name="rails-dom-testing (v2.0.3, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -27142,6 +27718,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/rails-html-sanitizer-1.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-html-sanitizer (v1.1.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rails-html-sanitizer-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rails-html-sanitizer-1.1.0/lib" />
       </SOURCES>
     </library>
     <library name="rails-i18n (v5.0.4, RVM: ruby-2.3.4 [sharetribe]) [gem]">
@@ -27546,6 +28130,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/railties-5.2.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/railties-5.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties (v5.2.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/railties-5.2.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/railties-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/railties-5.2.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/railties-5.2.3/lib" />
       </SOURCES>
     </library>
     <library name="rainbow (v2.1.0, RVM: ruby-2.2.2 [survey]) [gem]">
@@ -28192,6 +28786,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/rake-12.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="rake (v12.3.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rake (v12.3.0, RVM: ruby-2.5.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/bin" />
@@ -28346,6 +28952,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rake-12.3.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rake-12.3.2/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rake-12.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v12.3.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rake-12.3.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rake-12.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rake-12.3.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rake-12.3.3/lib" />
       </SOURCES>
     </library>
     <library name="ransack (v1.6.2, RVM: ruby-2.2.2 [freshfw]) [gem]">
@@ -28510,6 +29128,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/rb-fsevent-0.10.3/lib" />
       </SOURCES>
     </library>
+    <library name="rb-fsevent (v0.10.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rb-fsevent-0.10.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rb-fsevent-0.10.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rb-fsevent-0.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rb-fsevent-0.10.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rb-fsevent-0.10.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rb-fsevent-0.10.3/lib" />
+      </SOURCES>
+    </library>
     <library name="rb-fsevent (v0.10.3, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rb-fsevent-0.10.3/bin" />
@@ -28620,6 +29252,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rb-inotify-0.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rb-inotify (v0.10.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rb-inotify-0.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rb-inotify-0.10.0/lib" />
       </SOURCES>
     </library>
     <library name="rb-inotify (v0.9.0, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
@@ -29270,6 +29910,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/regexp_parser-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="regexp_parser (v1.6.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/regexp_parser-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/regexp_parser-1.6.0/lib" />
       </SOURCES>
     </library>
     <library name="remotipart (v1.3.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
@@ -31096,6 +31744,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/ruby_dep-1.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="ruby_dep (v1.5.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/ruby_dep-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/ruby_dep-1.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby_dep (v1.5.0, RVM: ruby-2.5.1 [up_free]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/ruby_dep-1.5.0/lib" />
@@ -31434,6 +32090,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/rubygems-bundler-1.4.4/lib" />
       </SOURCES>
     </library>
+    <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rubygems-bundler-1.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rubygems-bundler-1.4.4/lib" />
+      </SOURCES>
+    </library>
     <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.5.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rubygems-bundler-1.4.4/lib" />
@@ -31602,6 +32266,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/rubyzip-1.2.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/rubyzip-1.2.2/samples" />
+      </SOURCES>
+    </library>
+    <library name="rubyzip (v1.2.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rubyzip-1.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rubyzip-1.2.3/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rubyzip-1.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/rubyzip-1.2.3/samples" />
       </SOURCES>
     </library>
     <library name="rufus-scheduler (v3.1.10, RVM: ruby-2.2.2 [freshfw]) [gem]">
@@ -31898,6 +32572,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/rvm-1.11.3.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="rvm (v1.11.3.9, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rvm-1.11.3.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rvm-1.11.3.9/lib" />
       </SOURCES>
     </library>
     <library name="rvm (v1.11.3.9, RVM: ruby-2.5.1 [global]) [gem]">
@@ -32278,6 +32960,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sass-3.7.3/rails" />
       </SOURCES>
     </library>
+    <library name="sass (v3.7.4, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sass-3.7.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sass-3.7.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sass-3.7.4/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sass-3.7.4/rails" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sass-3.7.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sass-3.7.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sass-3.7.4/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sass-3.7.4/rails" />
+      </SOURCES>
+    </library>
     <library name="sass-listen (v4.0.0, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/sass-listen-4.0.0/lib" />
@@ -32340,6 +33036,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/sass-listen-4.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sass-listen (v4.0.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sass-listen-4.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sass-listen-4.0.0/lib" />
       </SOURCES>
     </library>
     <library name="sass-listen (v4.0.0, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -32476,6 +33180,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/sass-rails-5.0.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="sass-rails (v5.0.7, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sass-rails-5.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sass-rails-5.0.7/lib" />
       </SOURCES>
     </library>
     <library name="sass-rails (v5.0.7, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -32668,6 +33380,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/selenium-webdriver-3.141.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.142.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/selenium-webdriver-3.142.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/selenium-webdriver-3.142.3/lib" />
       </SOURCES>
     </library>
     <library name="selenium-webdriver (v3.5.2, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -33786,6 +34506,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/spring-2.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="spring (v2.1.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/spring-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/spring-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/spring-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/spring-2.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="spring-commands-rspec (v1.0.4, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/spring-commands-rspec-1.0.4/lib" />
@@ -33872,6 +34602,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/spring-watcher-listen-2.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="spring-watcher-listen (v2.0.1, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/spring-watcher-listen-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/spring-watcher-listen-2.0.1/lib" />
       </SOURCES>
     </library>
     <library name="spring-watcher-listen (v2.0.1, RVM: ruby-2.5.1 [up_free]) [gem]">
@@ -34090,6 +34828,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/sprockets-3.7.2/lib" />
       </SOURCES>
     </library>
+    <library name="sprockets (v3.7.2, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sprockets-3.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sprockets-3.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sprockets-3.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sprockets-3.7.2/lib" />
+      </SOURCES>
+    </library>
     <library name="sprockets (v3.7.2, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sprockets-3.7.2/bin" />
@@ -34244,6 +34992,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/sprockets-rails-3.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="sprockets-rails (v3.2.1, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sprockets-rails-3.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sprockets-rails-3.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="sprockets-rails (v3.2.1, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sprockets-rails-3.2.1/lib" />
@@ -34364,6 +35120,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/sqlite3-1.3.13/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/sqlite3-1.3.13/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/sqlite3-1.3.13/tasks" />
+      </SOURCES>
+    </library>
+    <library name="sqlite3 (v1.4.1, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sqlite3/1.4.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sqlite3-1.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sqlite3-1.4.1/faq" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sqlite3-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sqlite3-1.4.1/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sqlite3/1.4.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sqlite3-1.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sqlite3-1.4.1/faq" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sqlite3-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/sqlite3-1.4.1/rakelib" />
       </SOURCES>
     </library>
     <library name="sshkit (v1.11.3, RVM: ruby-2.2.2 [freshfw]) [gem]">
@@ -35076,6 +35848,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/test-unit-3.2.7/sample" />
       </SOURCES>
     </library>
+    <library name="test-unit (v3.2.7, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/sample" />
+      </SOURCES>
+    </library>
     <library name="test-unit (v3.2.7, RVM: ruby-2.5.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/lib" />
@@ -35510,6 +36292,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/thor-0.20.3/lib" />
       </SOURCES>
     </library>
+    <library name="thor (v0.20.3, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/thor-0.20.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/thor-0.20.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/thor-0.20.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/thor-0.20.3/lib" />
+      </SOURCES>
+    </library>
     <library name="thor (v0.20.3, RVM: ruby-2.5.3 [scraping]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/thor-0.20.3/bin" />
@@ -35800,6 +36592,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/thread_safe-0.3.6/yard-template" />
       </SOURCES>
     </library>
+    <library name="thread_safe (v0.3.6, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/thread_safe-0.3.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/thread_safe-0.3.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/thread_safe-0.3.6/yard-template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/thread_safe-0.3.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/thread_safe-0.3.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/thread_safe-0.3.6/yard-template" />
+      </SOURCES>
+    </library>
     <library name="thread_safe (v0.3.6, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/thread_safe-0.3.6/ext" />
@@ -36082,6 +36888,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/tilt-2.0.9/man" />
       </SOURCES>
     </library>
+    <library name="tilt (v2.0.9, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/tilt-2.0.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/tilt-2.0.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/tilt-2.0.9/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/tilt-2.0.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/tilt-2.0.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/tilt-2.0.9/man" />
+      </SOURCES>
+    </library>
     <library name="timecop (v0.6.1, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/timecop-0.6.1/lib" />
@@ -36250,6 +37068,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/turbolinks-5.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="turbolinks (v5.2.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/turbolinks-5.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/turbolinks-5.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="turbolinks-source (v5.0.0, RVM: ruby-2.2.2 [survey]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/turbolinks-source-5.0.0/lib" />
@@ -36296,6 +37122,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/turbolinks-source-5.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="turbolinks-source (v5.2.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/turbolinks-source-5.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/turbolinks-source-5.2.0/lib" />
       </SOURCES>
     </library>
     <library name="twitter-bootstrap-rails (v4.0.0@f2ccef, RVM: ruby-2.4.1 [dcdt]) [gem]">
@@ -36498,6 +37332,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@social_health_online/gems/tzinfo-1.2.5/lib" />
       </SOURCES>
     </library>
+    <library name="tzinfo (v1.2.5, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/tzinfo-1.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/tzinfo-1.2.5/lib" />
+      </SOURCES>
+    </library>
     <library name="tzinfo (v1.2.5, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/tzinfo-1.2.5/lib" />
@@ -36682,6 +37524,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/uglifier-4.1.20/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v4.1.20, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/uglifier-4.1.20/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/uglifier-4.1.20/lib" />
       </SOURCES>
     </library>
     <library name="uglifier (v4.1.5, RVM: ruby-2.4.1 [new_app]) [gem]">
@@ -37524,6 +38374,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/web-console-3.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="web-console (v3.7.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/web-console-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/web-console-3.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="web_translate_it (v2.4.1, RVM: ruby-2.3.4 [sharetribe]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@sharetribe/gems/web_translate_it-2.4.1/bin" />
@@ -37860,6 +38718,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/websocket-driver-0.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="websocket-driver (v0.7.1, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.7.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/websocket-driver-0.7.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/websocket-driver-0.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.7.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/websocket-driver-0.7.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/websocket-driver-0.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="websocket-extensions (v0.1.2, RVM: ruby-2.3.4 [sharetribe]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@sharetribe/gems/websocket-extensions-0.1.2/lib" />
@@ -37994,6 +38864,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/websocket-extensions-0.1.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="websocket-extensions (v0.1.4, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/websocket-extensions-0.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/websocket-extensions-0.1.4/lib" />
       </SOURCES>
     </library>
     <library name="whenever (v0.10.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
@@ -38396,6 +39274,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/xmlrpc-0.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="xmlrpc (v0.3.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/xmlrpc-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/xmlrpc-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/xmlrpc-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/xmlrpc-0.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="xmlrpc (v0.3.0, RVM: ruby-2.5.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/xmlrpc-0.3.0/bin" />
@@ -38532,6 +39420,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/xpath-3.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="xpath (v3.2.0, RVM: ruby-2.5.1 [docker_hw3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/xpath-3.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@docker_hw3/gems/xpath-3.2.0/lib" />
       </SOURCES>
     </library>
     <library name="xpath (v3.2.0, RVM: ruby-2.5.3 [scraping]) [gem]">
