@@ -36410,6 +36410,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/turbolinks-source-5.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="twitter-bootstrap-rails (v4.0.0@25c530, RVM: ruby-2.4.1 [dcdt]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/bundler/gems/twitter-bootstrap-rails-25c530ce9ac0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/bundler/gems/twitter-bootstrap-rails-25c530ce9ac0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/bundler/gems/twitter-bootstrap-rails-25c530ce9ac0/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/bundler/gems/twitter-bootstrap-rails-25c530ce9ac0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/bundler/gems/twitter-bootstrap-rails-25c530ce9ac0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/bundler/gems/twitter-bootstrap-rails-25c530ce9ac0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/bundler/gems/twitter-bootstrap-rails-25c530ce9ac0/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/bundler/gems/twitter-bootstrap-rails-25c530ce9ac0/.github" />
+      </SOURCES>
+    </library>
     <library name="twitter-bootstrap-rails (v4.0.0@f2ccef, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/bundler/gems/twitter-bootstrap-rails-f2ccef4c92e6/app" />
