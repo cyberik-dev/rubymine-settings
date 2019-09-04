@@ -4686,10 +4686,12 @@
     </library>
     <library name="binding_of_caller (v0.7.2, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/binding_of_caller-0.7.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/binding_of_caller-0.7.2/lib" />
       </SOURCES>
@@ -23900,6 +23902,7 @@
     </library>
     <library name="passenger (v5.1.2, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/passenger/5.1.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/passenger-5.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/passenger-5.1.2/dev" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/passenger-5.1.2/man" />
@@ -23909,6 +23912,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/passenger-5.1.2/download_cache" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/passenger/5.1.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/passenger-5.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/passenger-5.1.2/dev" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/passenger-5.1.2/man" />
@@ -24096,11 +24100,13 @@
     </library>
     <library name="pg (v0.19.0, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.19.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/pg-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/pg-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/pg-0.19.0/sample" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.19.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/pg-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/pg-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/pg-0.19.0/sample" />
