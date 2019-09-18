@@ -26,6 +26,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/actioncable-5.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v5.0.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/actioncable-5.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/actioncable-5.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actioncable (v5.0.5, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/actioncable-5.0.5/lib" />
@@ -210,6 +218,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/actionmailer-5.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="actionmailer (v5.0.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/actionmailer-5.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/actionmailer-5.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v5.0.5, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/actionmailer-5.0.5/lib" />
@@ -392,6 +408,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/actionpack-5.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v5.0.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/actionpack-5.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/actionpack-5.0.1/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v5.0.5, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
@@ -588,6 +612,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/actionview-5.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.0.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/actionview-5.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/actionview-5.0.1/lib" />
       </SOURCES>
     </library>
     <library name="actionview (v5.0.5, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
@@ -848,6 +880,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/activejob-5.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v5.0.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/activejob-5.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/activejob-5.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activejob (v5.0.5, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/activejob-5.0.5/lib" />
@@ -1030,6 +1070,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/activemodel-5.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v5.0.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/activemodel-5.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/activemodel-5.0.1/lib" />
       </SOURCES>
     </library>
     <library name="activemodel (v5.0.5, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
@@ -1230,6 +1278,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/activerecord-5.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v5.0.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/activerecord-5.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/activerecord-5.0.1/lib" />
       </SOURCES>
     </library>
     <library name="activerecord (v5.0.5, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
@@ -1544,6 +1600,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/activesupport-5.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v5.0.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/activesupport-5.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/activesupport-5.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v5.0.5, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/activesupport-5.0.5/lib" />
@@ -1826,6 +1890,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/addressable-2.5.2/tasks" />
       </SOURCES>
     </library>
+    <library name="addressable (v2.5.2, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/addressable-2.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/addressable-2.5.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/addressable-2.5.2/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/addressable-2.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/addressable-2.5.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/addressable-2.5.2/tasks" />
+      </SOURCES>
+    </library>
     <library name="addressable (v2.5.2, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/addressable-2.5.2/lib" />
@@ -1996,6 +2072,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/airbrussh-1.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/airbrussh-1.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="airbrussh (v1.1.2, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/airbrussh-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/airbrussh-1.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/airbrussh-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/airbrussh-1.1.2/lib" />
       </SOURCES>
     </library>
     <library name="airbrussh (v1.3.0, RVM: ruby-2.4.1 [new_app]) [gem]">
@@ -2240,6 +2326,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/arel-7.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="arel (v7.1.4, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/arel-7.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/arel-7.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="arel (v7.1.4, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/arel-7.1.4/lib" />
@@ -2406,6 +2500,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/ast-2.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ast (v2.3.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/ast-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/ast-2.3.0/lib" />
       </SOURCES>
     </library>
     <library name="ast (v2.3.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -4340,6 +4442,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
     </library>
+    <library name="bcrypt (v3.1.11, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.11" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/bcrypt-3.1.11/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/bcrypt-3.1.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.11" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/bcrypt-3.1.11/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/bcrypt-3.1.11/lib" />
+      </SOURCES>
+    </library>
     <library name="bcrypt (v3.1.11, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/bcrypt-3.1.11/ext" />
@@ -4490,6 +4604,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/better_errors-2.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="better_errors (v2.1.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/better_errors-2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/better_errors-2.1.1/lib" />
       </SOURCES>
     </library>
     <library name="better_errors (v2.4.0, RVM: ruby-2.2.2 [itera]) [gem]">
@@ -4706,6 +4828,18 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/binding_of_caller-0.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="binding_of_caller (v0.7.2, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.7.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/binding_of_caller-0.7.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/binding_of_caller-0.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.7.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/binding_of_caller-0.7.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/binding_of_caller-0.7.2/lib" />
       </SOURCES>
     </library>
     <library name="binding_of_caller (v0.7.3, RVM: ruby-2.2.2 [itera]) [gem]">
@@ -5030,6 +5164,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/bson-4.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="bson (v4.2.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bson/4.2.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/bson-4.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/bson-4.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bson/4.2.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/bson-4.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/bson-4.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="builder (v3.0.4, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/builder-3.0.4/lib" />
@@ -5156,6 +5302,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/builder-3.2.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/builder-3.2.3/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="builder (v3.2.3, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/builder-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/builder-3.2.3/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/builder-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/builder-3.2.3/rakelib" />
       </SOURCES>
     </library>
     <library name="builder (v3.2.3, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -5506,6 +5662,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/bundler-1.17.3/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/bundler-1.17.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/bundler-1.17.3/man" />
+      </SOURCES>
+    </library>
+    <library name="bundler (v1.17.3, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/bundler-1.17.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/bundler-1.17.3/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/bundler-1.17.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/bundler-1.17.3/man" />
       </SOURCES>
     </library>
     <library name="bundler (v1.17.3, RVM: ruby-2.5.0 [maestro_backend]) [gem]">
@@ -6152,6 +6320,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/byebug-9.0.6/lib" />
       </SOURCES>
     </library>
+    <library name="byebug (v9.0.6, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.0.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/byebug-9.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/byebug-9.0.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/byebug-9.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.0.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/byebug-9.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/byebug-9.0.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/byebug-9.0.6/lib" />
+      </SOURCES>
+    </library>
     <library name="byebug (v9.0.6, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/byebug-9.0.6/bin" />
@@ -6388,6 +6570,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/capistrano-3.4.0/features" />
       </SOURCES>
     </library>
+    <library name="capistrano (v3.7.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-3.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-3.7.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-3.7.1/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-3.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-3.7.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-3.7.1/features" />
+      </SOURCES>
+    </library>
     <library name="capistrano (v3.7.2, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/capistrano-3.7.2/bin" />
@@ -6452,6 +6648,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/capistrano-bundler-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-bundler (v1.2.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-bundler-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-bundler-1.2.0/lib" />
       </SOURCES>
     </library>
     <library name="capistrano-bundler (v1.2.0, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
@@ -6538,6 +6742,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/capistrano-harrow-0.5.3/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-harrow (v0.5.3, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-harrow-0.5.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-harrow-0.5.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-harrow-0.5.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-harrow-0.5.3/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-passenger (v0.2.0, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/capistrano-passenger-0.2.0/lib" />
@@ -6552,6 +6766,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/capistrano-passenger-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-passenger (v0.2.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-passenger-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-passenger-0.2.0/lib" />
       </SOURCES>
     </library>
     <library name="capistrano-platform-resources (v0.1.3, RVM: ruby-2.0.0-p648 [ecoaching]) [gem]">
@@ -6584,6 +6806,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/capistrano-rails-1.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-rails (v1.2.2, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-rails-1.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-rails-1.2.2/lib" />
       </SOURCES>
     </library>
     <library name="capistrano-rails (v1.3.0, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
@@ -6760,6 +6990,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/capistrano-rvm-0.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-rvm (v0.1.2, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-rvm-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-rvm-0.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-rvm (v0.1.2, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/capistrano-rvm-0.1.2/lib" />
@@ -6782,6 +7020,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/capistrano-rvm-0.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-sidekiq (v0.10.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-sidekiq-0.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/capistrano-sidekiq-0.10.0/lib" />
       </SOURCES>
     </library>
     <library name="capistrano-sidekiq (v0.5.4, RVM: ruby-2.2.2 [freshfw]) [gem]">
@@ -7312,6 +7558,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/chronic-0.10.2/lib" />
       </SOURCES>
     </library>
+    <library name="chronic (v0.10.2, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/chronic-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/chronic-0.10.2/lib" />
+      </SOURCES>
+    </library>
     <library name="chronic (v0.10.2, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/chronic-0.10.2/lib" />
@@ -7498,6 +7752,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/climate_control-0.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="climate_control (v0.2.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/climate_control-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/climate_control-0.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="climate_control (v0.2.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/climate_control-0.2.0/lib" />
@@ -7656,6 +7918,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/coderay-1.1.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/coderay-1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="coderay (v1.1.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/coderay-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/coderay-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/coderay-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/coderay-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="coderay (v1.1.1, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
@@ -7874,6 +8146,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/coffee-rails-4.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="coffee-rails (v4.2.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/coffee-rails-4.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/coffee-rails-4.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="coffee-rails (v4.2.2, RVM: ruby-2.3.4 [sharetribe]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@sharetribe/gems/coffee-rails-4.2.2/lib" />
@@ -8058,6 +8338,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/coffee-script-2.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="coffee-script (v2.4.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/coffee-script-2.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/coffee-script-2.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="coffee-script (v2.4.1, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/coffee-script-2.4.1/lib" />
@@ -8192,6 +8480,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/coffee-script-source-1.12.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-script-source (v1.12.2, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/coffee-script-source-1.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/coffee-script-source-1.12.2/lib" />
       </SOURCES>
     </library>
     <library name="coffee-script-source (v1.12.2, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -8450,6 +8746,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/concurrent-ruby-1.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="concurrent-ruby (v1.0.4, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/concurrent-ruby-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/concurrent-ruby-1.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="concurrent-ruby (v1.0.5, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/concurrent-ruby-1.0.5/lib" />
@@ -8646,6 +8950,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/connection_pool-2.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="connection_pool (v2.2.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/connection_pool-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/connection_pool-2.2.1/lib" />
       </SOURCES>
     </library>
     <library name="connection_pool (v2.2.1, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -9408,6 +9720,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/debug_inspector-0.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="debug_inspector (v0.0.3, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/debug_inspector-0.0.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/debug_inspector-0.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/debug_inspector-0.0.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/debug_inspector-0.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="debug_inspector (v0.0.3, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/debug_inspector-0.0.3/ext" />
@@ -9452,6 +9776,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/declarative-0.0.10/lib" />
       </SOURCES>
     </library>
+    <library name="declarative (v0.0.10, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/declarative-0.0.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/declarative-0.0.10/lib" />
+      </SOURCES>
+    </library>
     <library name="declarative (v0.0.10, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/declarative-0.0.10/lib" />
@@ -9482,6 +9814,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/declarative-option-0.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="declarative-option (v0.1.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/declarative-option-0.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/declarative-option-0.1.0/lib" />
       </SOURCES>
     </library>
     <library name="declarative-option (v0.1.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -9770,6 +10110,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/devise-4.3.0/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/devise-4.3.0/guides" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/devise-4.3.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="devise (v4.4.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/devise-4.4.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/devise-4.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/devise-4.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/devise-4.4.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/devise-4.4.1/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/devise-4.4.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/devise-4.4.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/devise-4.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/devise-4.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/devise-4.4.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/devise-4.4.1/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/devise-4.4.1/gemfiles" />
       </SOURCES>
     </library>
     <library name="devise (v4.4.1, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -10362,6 +10720,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/diff-lcs-1.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/diff-lcs-1.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/diff-lcs-1.3/autotest" />
+      </SOURCES>
+    </library>
+    <library name="diff-lcs (v1.3, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/diff-lcs-1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/diff-lcs-1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/diff-lcs-1.3/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/diff-lcs-1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/diff-lcs-1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/diff-lcs-1.3/autotest" />
       </SOURCES>
     </library>
     <library name="diff-lcs (v1.3, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -11182,6 +11552,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/erubis-2.7.0/benchmark" />
       </SOURCES>
     </library>
+    <library name="erubis (v2.7.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/erubis-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/erubis-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/erubis-2.7.0/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/erubis-2.7.0/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/erubis-2.7.0/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/erubis-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/erubis-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/erubis-2.7.0/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/erubis-2.7.0/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/erubis-2.7.0/benchmark" />
+      </SOURCES>
+    </library>
     <library name="erubis (v2.7.0, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/erubis-2.7.0/bin" />
@@ -11448,6 +11834,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/excon-0.62.0/benchmarks" />
       </SOURCES>
     </library>
+    <library name="excon (v0.62.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/excon-0.62.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/excon-0.62.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/excon-0.62.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/excon-0.62.0/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/excon-0.62.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/excon-0.62.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/excon-0.62.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/excon-0.62.0/benchmarks" />
+      </SOURCES>
+    </library>
     <library name="excon (v0.62.0, RVM: ruby-2.5.0 [maestro_backend]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/excon-0.62.0/lib" />
@@ -11556,6 +11956,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/execjs-2.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="execjs (v2.7.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/execjs-2.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/execjs-2.7.0/lib" />
       </SOURCES>
     </library>
     <library name="execjs (v2.7.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -12536,6 +12944,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/faraday-0.13.1/lib" />
       </SOURCES>
     </library>
+    <library name="faraday (v0.14.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/faraday-0.14.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/faraday-0.14.0/lib" />
+      </SOURCES>
+    </library>
     <library name="faraday (v0.14.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/faraday-0.14.0/lib" />
@@ -12720,6 +13136,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/ffi-1.9.17/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/ffi-1.9.17/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/ffi-1.9.17/libtest" />
+      </SOURCES>
+    </library>
+    <library name="ffi (v1.9.17, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.17" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/ffi-1.9.17/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/ffi-1.9.17/gen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/ffi-1.9.17/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/ffi-1.9.17/libtest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.17" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/ffi-1.9.17/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/ffi-1.9.17/gen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/ffi-1.9.17/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/ffi-1.9.17/libtest" />
       </SOURCES>
     </library>
     <library name="ffi (v1.9.18, RVM: ruby-2.2.2 [itera]) [gem]">
@@ -12978,6 +13410,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/figaro-1.1.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/figaro-1.1.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/figaro-1.1.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="figaro (v1.1.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/figaro-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/figaro-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/figaro-1.1.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/figaro-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/figaro-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/figaro-1.1.1/gemfiles" />
       </SOURCES>
     </library>
     <library name="figaro (v1.1.1, RVM: ruby-2.5.0 [maestro_backend]) [gem]">
@@ -13400,6 +13844,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/font-awesome-rails-4.7.0.1/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/font-awesome-rails-4.7.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="font-awesome-rails (v4.7.0.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/font-awesome-rails-4.7.0.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/font-awesome-rails-4.7.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/font-awesome-rails-4.7.0.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/font-awesome-rails-4.7.0.1/lib" />
       </SOURCES>
     </library>
     <library name="font-awesome-rails (v4.7.0.2, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -14302,6 +14756,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/globalid-0.3.7/lib" />
       </SOURCES>
     </library>
+    <library name="globalid (v0.3.7, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/globalid-0.3.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/globalid-0.3.7/lib" />
+      </SOURCES>
+    </library>
     <library name="globalid (v0.4.0, RVM: ruby-2.3.4 [sharetribe]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@sharetribe/gems/globalid-0.4.0/lib" />
@@ -14530,6 +14992,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/google-api-client-0.17.0/generated" />
       </SOURCES>
     </library>
+    <library name="google-api-client (v0.17.4, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/google-api-client-0.17.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/google-api-client-0.17.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/google-api-client-0.17.4/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/google-api-client-0.17.4/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/google-api-client-0.17.4/generated" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/google-api-client-0.17.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/google-api-client-0.17.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/google-api-client-0.17.4/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/google-api-client-0.17.4/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/google-api-client-0.17.4/generated" />
+      </SOURCES>
+    </library>
     <library name="google-api-client (v0.19.3, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/google-api-client-0.19.3/bin" />
@@ -14582,6 +15060,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-api-client-0.28.4/generated" />
       </SOURCES>
     </library>
+    <library name="google-cloud-bigquery (v1.0.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/google-cloud-bigquery-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/google-cloud-bigquery-1.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="google-cloud-bigquery (v1.11.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-cloud-bigquery-1.11.0/lib" />
@@ -14590,12 +15076,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-cloud-bigquery-1.11.0/lib" />
       </SOURCES>
     </library>
+    <library name="google-cloud-core (v1.1.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/google-cloud-core-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/google-cloud-core-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="google-cloud-core (v1.3.0, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-cloud-core-1.3.0/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/google-cloud-core-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="google-cloud-env (v1.0.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/google-cloud-env-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/google-cloud-env-1.0.1/lib" />
       </SOURCES>
     </library>
     <library name="google-cloud-env (v1.0.5, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
@@ -14620,6 +15122,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/googleauth-0.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="googleauth (v0.6.2, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/googleauth-0.6.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/googleauth-0.6.2/lib" />
       </SOURCES>
     </library>
     <library name="googleauth (v0.6.2, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -15002,6 +15512,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/haml-4.0.7/lib" />
       </SOURCES>
     </library>
+    <library name="haml (v4.0.7, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/haml-4.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/haml-4.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/haml-4.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/haml-4.0.7/lib" />
+      </SOURCES>
+    </library>
     <library name="haml (v5.0.1, RVM: ruby-2.3.4 [sharetribe]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@sharetribe/gems/haml-5.0.1/bin" />
@@ -15352,6 +15872,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/honeybadger-4.2.1/resources" />
       </SOURCES>
     </library>
+    <library name="honeybadger (v4.2.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/honeybadger-4.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/honeybadger-4.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/honeybadger-4.2.1/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/honeybadger-4.2.1/resources" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/honeybadger-4.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/honeybadger-4.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/honeybadger-4.2.1/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/honeybadger-4.2.1/resources" />
+      </SOURCES>
+    </library>
     <library name="honeybadger (v4.2.1, RVM: ruby-2.5.0 [maestro_backend]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/honeybadger-4.2.1/bin" />
@@ -15636,6 +16170,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/httpclient-2.8.3/sample" />
       </SOURCES>
     </library>
+    <library name="httpclient (v2.8.3, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/httpclient-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/httpclient-2.8.3/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/httpclient-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/httpclient-2.8.3/sample" />
+      </SOURCES>
+    </library>
     <library name="httpclient (v2.8.3, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/httpclient-2.8.3/bin" />
@@ -15748,6 +16294,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/i18n-0.7.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/i18n-0.7.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v0.7.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/i18n-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/i18n-0.7.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/i18n-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/i18n-0.7.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="i18n (v0.8.4, RVM: ruby-2.3.4 [sharetribe]) [gem]">
@@ -16982,6 +17538,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/jquery-rails-4.2.2/vendor" />
       </SOURCES>
     </library>
+    <library name="jquery-rails (v4.2.2, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/jquery-rails-4.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/jquery-rails-4.2.2/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/jquery-rails-4.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/jquery-rails-4.2.2/vendor" />
+      </SOURCES>
+    </library>
     <library name="jquery-rails (v4.3.1, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/jquery-rails-4.3.1/lib" />
@@ -17140,6 +17706,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/jquery-ui-rails-5.0.5/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/jquery-ui-rails-5.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="jquery-ui-rails (v5.0.5, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/jquery-ui-rails-5.0.5/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/jquery-ui-rails-5.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/jquery-ui-rails-5.0.5/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/jquery-ui-rails-5.0.5/lib" />
       </SOURCES>
     </library>
     <library name="jquery-ui-rails (v6.0.1, RVM: ruby-2.4.1 [fraud_buster]) [gem]">
@@ -17372,6 +17948,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/json-1.8.6/diagrams" />
       </SOURCES>
     </library>
+    <library name="json (v1.8.6, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/1.8.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/json-1.8.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/json-1.8.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/json-1.8.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/json-1.8.6/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/json-1.8.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/json-1.8.6/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/json-1.8.6/diagrams" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/1.8.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/json-1.8.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/json-1.8.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/json-1.8.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/json-1.8.6/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/json-1.8.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/json-1.8.6/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/json-1.8.6/diagrams" />
+      </SOURCES>
+    </library>
     <library name="json (v1.8.6, RVM: ruby-2.5.0 [maestro_backend]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/1.8.6" />
@@ -17602,6 +18200,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/jwt-2.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="jwt (v2.1.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/jwt-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/jwt-2.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="jwt (v2.1.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/jwt-2.1.0/lib" />
@@ -17662,6 +18268,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/kaminari-0.17.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/kaminari-0.17.0/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/kaminari-0.17.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="kaminari (v0.17.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/kaminari-0.17.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/kaminari-0.17.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/kaminari-0.17.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/kaminari-0.17.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/kaminari-0.17.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/kaminari-0.17.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/kaminari-0.17.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/kaminari-0.17.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="kaminari (v1.0.1, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -17992,6 +18612,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/launchy-2.4.3/tasks" />
       </SOURCES>
     </library>
+    <library name="launchy (v2.4.3, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/launchy-2.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/launchy-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/launchy-2.4.3/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/launchy-2.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/launchy-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/launchy-2.4.3/tasks" />
+      </SOURCES>
+    </library>
     <library name="launchy (v2.4.3, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/launchy-2.4.3/bin" />
@@ -18140,6 +18772,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/letter_opener-1.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="letter_opener (v1.6.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/letter_opener-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/letter_opener-1.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="letter_opener (v1.6.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/letter_opener-1.6.0/lib" />
@@ -18240,6 +18880,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/libv8-3.16.14.19-x86_64-linux/vendor" />
       </SOURCES>
     </library>
+    <library name="libv8 (v3.16.14.19, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/libv8/3.16.14.19" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/libv8-3.16.14.19-x86_64-linux/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/libv8-3.16.14.19-x86_64-linux/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/libv8-3.16.14.19-x86_64-linux/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/libv8/3.16.14.19" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/libv8-3.16.14.19-x86_64-linux/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/libv8-3.16.14.19-x86_64-linux/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/libv8-3.16.14.19-x86_64-linux/vendor" />
+      </SOURCES>
+    </library>
     <library name="libv8 (v3.16.14.19, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/libv8-3.16.14.19-x86_64-linux/ext" />
@@ -18278,6 +18932,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/listen-3.0.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/listen-3.0.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="listen (v3.0.8, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/listen-3.0.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/listen-3.0.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/listen-3.0.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/listen-3.0.8/lib" />
       </SOURCES>
     </library>
     <library name="listen (v3.0.8, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -18408,6 +19072,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/little-plugger-1.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="little-plugger (v1.1.4, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/little-plugger-1.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/little-plugger-1.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="little-plugger (v1.1.4, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/little-plugger-1.1.4/lib" />
@@ -18442,6 +19114,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/logging-2.2.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/logging-2.2.2/script" />
+      </SOURCES>
+    </library>
+    <library name="logging (v2.2.2, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/logging-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/logging-2.2.2/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/logging-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/logging-2.2.2/script" />
       </SOURCES>
     </library>
     <library name="logging (v2.2.2, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -18560,6 +19242,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/loofah-2.0.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/loofah-2.0.3/benchmark" />
+      </SOURCES>
+    </library>
+    <library name="loofah (v2.0.3, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/loofah-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/loofah-2.0.3/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/loofah-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/loofah-2.0.3/benchmark" />
       </SOURCES>
     </library>
     <library name="loofah (v2.0.3, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -18812,6 +19504,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/mail-2.6.4/lib" />
       </SOURCES>
     </library>
+    <library name="mail (v2.6.4, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mail-2.6.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mail-2.6.4/lib" />
+      </SOURCES>
+    </library>
     <library name="mail (v2.6.6, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/mail-2.6.6/lib" />
@@ -19054,6 +19754,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/mandrill-api-1.0.53/lib" />
       </SOURCES>
     </library>
+    <library name="mandrill-api (v1.0.53, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mandrill-api-1.0.53/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mandrill-api-1.0.53/lib" />
+      </SOURCES>
+    </library>
     <library name="mandrill-api (v1.0.53, RVM: ruby-2.5.0 [maestro_backend]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/mandrill-api-1.0.53/lib" />
@@ -19180,6 +19888,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/memoist-0.16.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/memoist-0.16.0/script" />
+      </SOURCES>
+    </library>
+    <library name="memoist (v0.16.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/memoist-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/memoist-0.16.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/memoist-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/memoist-0.16.0/script" />
       </SOURCES>
     </library>
     <library name="memoist (v0.16.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -19340,6 +20058,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/method_source-0.8.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="method_source (v0.8.2, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/method_source-0.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/method_source-0.8.2/lib" />
       </SOURCES>
     </library>
     <library name="method_source (v0.8.2, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -19550,6 +20276,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/mime-types-3.1/lib" />
       </SOURCES>
     </library>
+    <library name="mime-types (v3.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mime-types-3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mime-types-3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="mime-types (v3.1, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/mime-types-3.1/lib" />
@@ -19720,6 +20454,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/mime-types-data-3.2016.0521/data" />
       </SOURCES>
     </library>
+    <library name="mime-types-data (v3.2016.0521, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mime-types-data-3.2016.0521/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mime-types-data-3.2016.0521/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mime-types-data-3.2016.0521/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mime-types-data-3.2016.0521/data" />
+      </SOURCES>
+    </library>
     <library name="mime-types-data (v3.2016.0521, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/mime-types-data-3.2016.0521/lib" />
@@ -19860,6 +20604,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/mimemagic-0.3.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/mimemagic-0.3.2/script" />
+      </SOURCES>
+    </library>
+    <library name="mimemagic (v0.3.2, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mimemagic-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mimemagic-0.3.2/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mimemagic-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mimemagic-0.3.2/script" />
       </SOURCES>
     </library>
     <library name="mimemagic (v0.3.2, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -20154,6 +20908,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/mini_portile2-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="mini_portile2 (v2.1.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mini_portile2-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mini_portile2-2.1.0/lib" />
       </SOURCES>
     </library>
     <library name="mini_portile2 (v2.2.0, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
@@ -20960,6 +21722,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/mongo-2.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="mongo (v2.4.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mongo-2.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mongo-2.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mongo-2.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mongo-2.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="mongoid (v6.0.3, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mongoid-6.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/mongoid-6.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="mongoid (v6.1.0, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/mongoid-6.1.0/lib" />
@@ -21218,6 +21998,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/multi_json-1.13.1/lib" />
       </SOURCES>
     </library>
+    <library name="multi_json (v1.13.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/multi_json-1.13.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/multi_json-1.13.1/lib" />
+      </SOURCES>
+    </library>
     <library name="multi_json (v1.13.1, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/multi_json-1.13.1/lib" />
@@ -21400,6 +22188,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/multipart-post-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="multipart-post (v2.0.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/multipart-post-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="multipart-post (v2.0.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -21654,6 +22450,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/nested_form-0.3.2/vendor" />
       </SOURCES>
     </library>
+    <library name="nested_form (v0.3.2, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nested_form-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nested_form-0.3.2/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nested_form-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nested_form-0.3.2/vendor" />
+      </SOURCES>
+    </library>
     <library name="nested_form_fields (v0.8.2, RVM: ruby-2.5.1 [social_health_online]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/nested_form_fields-0.8.2/lib" />
@@ -21762,6 +22568,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/net-scp-1.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="net-scp (v1.2.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/net-scp-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/net-scp-1.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="net-scp (v1.2.1, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/net-scp-1.2.1/lib" />
@@ -21850,6 +22664,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/net-ssh-4.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/net-ssh-4.0.1/support" />
+      </SOURCES>
+    </library>
+    <library name="net-ssh (v4.0.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/net-ssh-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/net-ssh-4.0.1/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/net-ssh-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/net-ssh-4.0.1/support" />
       </SOURCES>
     </library>
     <library name="net-ssh (v4.1.0, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
@@ -22406,6 +23230,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/nio4r-1.2.1/tasks" />
       </SOURCES>
     </library>
+    <library name="nio4r (v1.2.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/1.2.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nio4r-1.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nio4r-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nio4r-1.2.1/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/1.2.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nio4r-1.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nio4r-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nio4r-1.2.1/tasks" />
+      </SOURCES>
+    </library>
     <library name="nio4r (v2.1.0, RVM: ruby-2.3.4 [sharetribe]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@sharetribe/gems/nio4r-2.1.0/ext" />
@@ -22740,6 +23578,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/nokogiri-1.7.0.1/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/nokogiri-1.7.0.1/patches" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/nokogiri-1.7.0.1/suppressions" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.7.0.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.7.0.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nokogiri-1.7.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nokogiri-1.7.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nokogiri-1.7.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nokogiri-1.7.0.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nokogiri-1.7.0.1/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nokogiri-1.7.0.1/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.7.0.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nokogiri-1.7.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nokogiri-1.7.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nokogiri-1.7.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nokogiri-1.7.0.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nokogiri-1.7.0.1/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/nokogiri-1.7.0.1/suppressions" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.8.0, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
@@ -23374,6 +24232,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/orm_adapter-0.5.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="orm_adapter (v0.5.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/orm_adapter-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/orm_adapter-0.5.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/orm_adapter-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/orm_adapter-0.5.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="orm_adapter (v0.5.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/orm_adapter-0.5.0/lib" />
@@ -23432,6 +24300,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/os-0.9.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/os-0.9.6/autotest" />
+      </SOURCES>
+    </library>
+    <library name="os (v0.9.6, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/os-0.9.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/os-0.9.6/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/os-0.9.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/os-0.9.6/autotest" />
       </SOURCES>
     </library>
     <library name="os (v0.9.6, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -23524,6 +24402,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/paperclip-5.2.1/features" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/paperclip-5.2.1/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/paperclip-5.2.1/shoulda_macros" />
+      </SOURCES>
+    </library>
+    <library name="paperclip (v6.0.0@4c0eac, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/bundler/gems/paperclip-4c0eacdb585d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/bundler/gems/paperclip-4c0eacdb585d/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/bundler/gems/paperclip-4c0eacdb585d/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/bundler/gems/paperclip-4c0eacdb585d/shoulda_macros" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/bundler/gems/paperclip-4c0eacdb585d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/bundler/gems/paperclip-4c0eacdb585d/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/bundler/gems/paperclip-4c0eacdb585d/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/bundler/gems/paperclip-4c0eacdb585d/shoulda_macros" />
       </SOURCES>
     </library>
     <library name="paperclip-meta (v0.4.3, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
@@ -23734,6 +24626,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/parser-2.3.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.3.3.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/parser-2.3.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/parser-2.3.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/parser-2.3.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/parser-2.3.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.4.0.0, RVM: ruby-2.3.4 [sharetribe]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@sharetribe/gems/parser-2.4.0.0/bin" />
@@ -23898,6 +24800,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/parser-2.6.2.0/ci" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/parser-2.6.2.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/parser-2.6.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="passenger (v5.1.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/passenger/5.1.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/passenger-5.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/passenger-5.1.1/dev" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/passenger-5.1.1/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/passenger-5.1.1/src" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/passenger-5.1.1/build" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/passenger-5.1.1/resources" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/passenger-5.1.1/download_cache" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/passenger/5.1.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/passenger-5.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/passenger-5.1.1/dev" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/passenger-5.1.1/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/passenger-5.1.1/src" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/passenger-5.1.1/build" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/passenger-5.1.1/resources" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/passenger-5.1.1/download_cache" />
       </SOURCES>
     </library>
     <library name="passenger (v5.1.2, RVM: ruby-2.4.1 [dcdt]) [gem]">
@@ -24124,6 +25048,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/pg-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/pg-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/pg-0.19.0/sample" />
+      </SOURCES>
+    </library>
+    <library name="pg (v0.19.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.19.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/pg-0.19.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/pg-0.19.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/pg-0.19.0/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.19.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/pg-0.19.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/pg-0.19.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/pg-0.19.0/sample" />
       </SOURCES>
     </library>
     <library name="pg (v0.20.0, RVM: ruby-2.2.2 [itera]) [gem]">
@@ -24746,6 +25684,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/powerpack-0.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="powerpack (v0.1.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/powerpack-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/powerpack-0.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="powerpack (v0.1.1, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/powerpack-0.1.1/lib" />
@@ -25350,6 +26296,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/public_suffix-3.0.1/data" />
       </SOURCES>
     </library>
+    <library name="public_suffix (v3.0.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/public_suffix-3.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/public_suffix-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/public_suffix-3.0.1/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/public_suffix-3.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/public_suffix-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/public_suffix-3.0.1/data" />
+      </SOURCES>
+    </library>
     <library name="public_suffix (v3.0.2, RVM: ruby-2.4.1 [devana]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/public_suffix-3.0.2/bin" />
@@ -25732,6 +26690,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/puma-3.9.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="pundit (v1.1.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/pundit-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/pundit-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="pundit (v1.1.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/pundit-1.1.0/lib" />
@@ -25960,6 +26926,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/rack-2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/rack-2.0.1/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/rack-2.0.1/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v2.0.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rack-2.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rack-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rack-2.0.1/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rack-2.0.1/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rack-2.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rack-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rack-2.0.1/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rack-2.0.1/example" />
       </SOURCES>
     </library>
     <library name="rack (v2.0.3, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -26214,6 +27194,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/rack-cache-1.2/example" />
       </SOURCES>
     </library>
+    <library name="rack-cache (v1.6.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rack-cache-1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rack-cache-1.6.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-contrib (v1.2.0, RVM: ruby-2.3.4 [sharetribe]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@sharetribe/gems/rack-contrib-1.2.0/lib" />
@@ -26302,6 +27290,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/rack-pjax-1.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="rack-pjax (v1.0.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rack-pjax-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rack-pjax-1.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-protection (v1.5.3, RVM: ruby-2.2.2 [freshfw]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/rack-protection-1.5.3/lib" />
@@ -26356,6 +27352,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/rack-protection-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v2.0.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rack-protection-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rack-protection-2.0.1/lib" />
       </SOURCES>
     </library>
     <library name="rack-protection (v2.0.1, RVM: ruby-2.5.0 [maestro_backend]) [gem]">
@@ -26544,6 +27548,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/rack-test-0.6.3/lib" />
       </SOURCES>
     </library>
+    <library name="rack-test (v0.6.3, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rack-test-0.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rack-test-0.6.3/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-test (v0.6.3, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/rack-test-0.6.3/lib" />
@@ -26698,6 +27710,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/rails-5.0.1" />
+      </SOURCES>
+    </library>
+    <library name="rails (v5.0.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rails-5.0.1" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rails-5.0.1" />
       </SOURCES>
     </library>
     <library name="rails (v5.0.5, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
@@ -26932,6 +27952,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/rails-dom-testing-2.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="rails-dom-testing (v2.0.2, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rails-dom-testing-2.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rails-dom-testing-2.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rails-dom-testing (v2.0.3, RVM: ruby-2.3.4 [sharetribe]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@sharetribe/gems/rails-dom-testing-2.0.3/lib" />
@@ -27130,6 +28158,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/rails-html-sanitizer-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="rails-html-sanitizer (v1.0.3, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rails-html-sanitizer-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rails-html-sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="rails-html-sanitizer (v1.0.3, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/rails-html-sanitizer-1.0.3/lib" />
@@ -27312,6 +28348,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/rails_12factor-0.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="rails_admin (v1.1.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rails_admin-1.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rails_admin-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rails_admin-1.1.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rails_admin-1.1.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rails_admin-1.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rails_admin-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rails_admin-1.1.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rails_admin-1.1.0/vendor" />
+      </SOURCES>
+    </library>
     <library name="rails_admin (v1.1.1, RVM: ruby-2.4.1 [dcdt]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/rails_admin-1.1.1/app" />
@@ -27324,6 +28374,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/rails_admin-1.1.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/rails_admin-1.1.1/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/rails_admin-1.1.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="rails_admin_pundit (v0.0.1@5fde2d, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/bundler/gems/rails_admin_pundit-5fde2da4120b/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/bundler/gems/rails_admin_pundit-5fde2da4120b/lib" />
       </SOURCES>
     </library>
     <library name="rails_autolink (v1.1.6, RVM: ruby-2.0.0-p648 [ecoaching]) [gem]">
@@ -27496,6 +28554,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/railties-5.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="railties (v5.0.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/railties-5.0.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/railties-5.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/railties-5.0.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/railties-5.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="railties (v5.0.5, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/railties-5.0.5/exe" />
@@ -27652,6 +28720,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rainbow-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rainbow (v2.2.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rainbow-2.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rainbow-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rainbow-2.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rainbow-2.2.1/lib" />
       </SOURCES>
     </library>
     <library name="rainbow (v2.2.2, RVM: ruby-2.2.2 [itera]) [gem]">
@@ -28716,6 +29794,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/rb-fsevent-0.9.8/lib" />
       </SOURCES>
     </library>
+    <library name="rb-fsevent (v0.9.8, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rb-fsevent-0.9.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rb-fsevent-0.9.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rb-fsevent-0.9.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rb-fsevent-0.9.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rb-fsevent-0.9.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rb-fsevent-0.9.8/lib" />
+      </SOURCES>
+    </library>
     <library name="rb-inotify (v0.10.0, RVM: ruby-2.3.0 [finvoice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/rb-inotify-0.10.0/lib" />
@@ -28834,6 +29924,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/rb-inotify-0.9.10/lib" />
+      </SOURCES>
+    </library>
+    <library name="rb-inotify (v0.9.7, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rb-inotify-0.9.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rb-inotify-0.9.7/lib" />
       </SOURCES>
     </library>
     <library name="rb-inotify (v0.9.8, RVM: ruby-2.3.4 [sharetribe]) [gem]">
@@ -29138,6 +30236,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/redis-3.3.3/benchmarking" />
       </SOURCES>
     </library>
+    <library name="redis (v3.3.3, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-3.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-3.3.3/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-3.3.3/benchmarking" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-3.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-3.3.3/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-3.3.3/benchmarking" />
+      </SOURCES>
+    </library>
     <library name="redis (v3.3.3, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/redis-3.3.3/lib" />
@@ -29220,12 +30330,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/redis-4.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="redis-actionpack (v5.0.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-actionpack-5.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-actionpack-5.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="redis-actionpack (v5.0.1, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/redis-actionpack-5.0.1/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/redis-actionpack-5.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="redis-activesupport (v5.0.3, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-activesupport-5.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-activesupport-5.0.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-activesupport-5.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-activesupport-5.0.3/gemfiles" />
       </SOURCES>
     </library>
     <library name="redis-activesupport (v5.0.3, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -29246,6 +30374,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/redis-namespace-1.5.3/lib" />
       </SOURCES>
     </library>
+    <library name="redis-namespace (v1.5.3, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-namespace-1.5.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-namespace-1.5.3/lib" />
+      </SOURCES>
+    </library>
     <library name="redis-namespace (v1.6.0, RVM: ruby-2.3.0 [finvoice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/redis-namespace-1.6.0/lib" />
@@ -29262,6 +30398,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@maestro_backend/gems/redis-namespace-1.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="redis-rack (v2.0.2, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-rack-2.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-rack-2.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="redis-rack (v2.0.2, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/redis-rack-2.0.2/lib" />
@@ -29270,12 +30414,36 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/redis-rack-2.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="redis-rack-cache (v2.0.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-rack-cache-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-rack-cache-2.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="redis-rails (v5.0.2, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-rails-5.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-rails-5.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="redis-rails (v5.0.2, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/redis-rails-5.0.2/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/redis-rails-5.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="redis-store (v1.3.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-store-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/redis-store-1.3.0/lib" />
       </SOURCES>
     </library>
     <library name="redis-store (v1.3.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -29364,6 +30532,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/ref-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="ref (v2.0.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/ref-2.0.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/ref-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/ref-2.0.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/ref-2.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ref (v2.0.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/ref-2.0.0/ext" />
@@ -29402,6 +30580,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/remotipart-1.3.1/vendor" />
       </SOURCES>
     </library>
+    <library name="remotipart (v1.3.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/remotipart-1.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/remotipart-1.3.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/remotipart-1.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/remotipart-1.3.1/vendor" />
+      </SOURCES>
+    </library>
     <library name="render_async (v1.2.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/render_async-1.2.0/app" />
@@ -29428,6 +30616,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/representable-3.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="representable (v3.0.4, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/representable-3.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/representable-3.0.4/lib" />
       </SOURCES>
     </library>
     <library name="representable (v3.0.4, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -29558,6 +30754,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/responders-2.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="responders (v2.4.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/responders-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/responders-2.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="responders (v2.4.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/responders-2.4.0/lib" />
@@ -29682,6 +30886,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/retriable-3.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="retriable (v3.1.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/retriable-3.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/retriable-3.1.1/lib" />
       </SOURCES>
     </library>
     <library name="retriable (v3.1.1, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -29870,6 +31082,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/rspec-core-2.13.1/features" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.5.4, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rspec-core-3.5.4/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rspec-core-3.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rspec-core-3.5.4/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rspec-core-3.5.4/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v3.5.4, RVM: ruby-2.4.1 [telegram_bot_sample_app]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot_sample_app/gems/rspec-core-3.5.4/exe" />
@@ -30040,6 +31262,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/rspec-expectations-2.13.0/features" />
       </SOURCES>
     </library>
+    <library name="rspec-expectations (v3.5.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rspec-expectations-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rspec-expectations-3.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.5.0, RVM: ruby-2.4.1 [telegram_bot_sample_app]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot_sample_app/gems/rspec-expectations-3.5.0/lib" />
@@ -30202,6 +31432,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/rspec-mocks-2.13.1/features" />
       </SOURCES>
     </library>
+    <library name="rspec-mocks (v3.5.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rspec-mocks-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rspec-mocks-3.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-mocks (v3.5.0, RVM: ruby-2.4.1 [telegram_bot_sample_app]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot_sample_app/gems/rspec-mocks-3.5.0/lib" />
@@ -30340,6 +31578,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/rspec-rails-2.13.1/features" />
       </SOURCES>
     </library>
+    <library name="rspec-rails (v3.5.2, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rspec-rails-3.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rspec-rails-3.5.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-rails (v3.5.2, RVM: ruby-2.4.1 [telegram_bot_sample_app]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot_sample_app/gems/rspec-rails-3.5.2/lib" />
@@ -30466,6 +31712,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rspec-sidekiq-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.5.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rspec-support-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rspec-support-3.5.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-support (v3.5.0, RVM: ruby-2.4.1 [telegram_bot_sample_app]) [gem]">
@@ -30640,6 +31894,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rubocop-0.45.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rubocop-0.45.0/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/rubocop-0.45.0/config" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.47.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rubocop-0.47.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rubocop-0.47.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rubocop-0.47.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rubocop-0.47.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rubocop-0.47.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rubocop-0.47.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rubocop-0.47.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/rubocop-0.47.1/config" />
       </SOURCES>
     </library>
     <library name="rubocop (v0.49.1, RVM: ruby-2.3.4 [sharetribe]) [gem]">
@@ -31072,6 +32340,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@sharetribe/gems/ruby-progressbar-1.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.8.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/ruby-progressbar-1.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/ruby-progressbar-1.8.1/lib" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.8.3, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -32188,6 +33464,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/sass-3.4.23/vendor" />
       </SOURCES>
     </library>
+    <library name="sass (v3.4.23, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sass-3.4.23/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sass-3.4.23/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sass-3.4.23/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sass-3.4.23/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sass-3.4.23/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sass-3.4.23/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sass-3.4.23/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sass-3.4.23/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sass-3.4.23/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sass-3.4.23/vendor" />
+      </SOURCES>
+    </library>
     <library name="sass (v3.4.24, RVM: ruby-2.3.4 [sharetribe]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@sharetribe/gems/sass-3.4.24/bin" />
@@ -32538,6 +33830,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/sass-rails-5.0.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="sass-rails (v5.0.6, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sass-rails-5.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sass-rails-5.0.6/lib" />
       </SOURCES>
     </library>
     <library name="sass-rails (v5.0.7, RVM: ruby-2.2.2 [itera]) [gem]">
@@ -33100,6 +34400,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/sidekiq-4.2.9/.github" />
       </SOURCES>
     </library>
+    <library name="sidekiq (v5.0.4, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sidekiq-5.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sidekiq-5.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sidekiq-5.0.4/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sidekiq-5.0.4/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sidekiq-5.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sidekiq-5.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sidekiq-5.0.4/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sidekiq-5.0.4/.github" />
+      </SOURCES>
+    </library>
     <library name="sidekiq (v5.0.4, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/sidekiq-5.0.4/bin" />
@@ -33258,6 +34572,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/signet-0.8.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/signet-0.8.1/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/signet-0.8.1/website" />
+      </SOURCES>
+    </library>
+    <library name="signet (v0.8.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/signet-0.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/signet-0.8.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/signet-0.8.1/website" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/signet-0.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/signet-0.8.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/signet-0.8.1/website" />
       </SOURCES>
     </library>
     <library name="signet (v0.8.1, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -33762,6 +35088,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/spring-2.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="spring (v2.0.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/spring-2.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/spring-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/spring-2.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/spring-2.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="spring (v2.0.2, RVM: ruby-2.2.2 [itera]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@itera/gems/spring-2.0.2/bin" />
@@ -33960,6 +35296,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/spring-watcher-listen-2.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="spring-watcher-listen (v2.0.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/spring-watcher-listen-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/spring-watcher-listen-2.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="spring-watcher-listen (v2.0.1, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/spring-watcher-listen-2.0.1/lib" />
@@ -34104,6 +35448,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/sprockets-3.7.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/sprockets-3.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets (v3.7.1, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sprockets-3.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sprockets-3.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sprockets-3.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sprockets-3.7.1/lib" />
       </SOURCES>
     </library>
     <library name="sprockets (v3.7.1, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -34280,6 +35634,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/sprockets-rails-3.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets-rails (v3.2.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sprockets-rails-3.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sprockets-rails-3.2.0/lib" />
       </SOURCES>
     </library>
     <library name="sprockets-rails (v3.2.0, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
@@ -34514,6 +35876,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/sshkit-1.11.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="sshkit (v1.11.5, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sshkit-1.11.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/sshkit-1.11.5/lib" />
       </SOURCES>
     </library>
     <library name="sshkit (v1.14.0, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
@@ -34758,6 +36128,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p648@ecoaching/gems/subexec-0.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="swagger-docs (v0.2.9, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/swagger-docs-0.2.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/swagger-docs-0.2.9/certs" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/swagger-docs-0.2.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/swagger-docs-0.2.9/certs" />
+      </SOURCES>
+    </library>
+    <library name="swagger-ui_rails (v0.1.8@b040b8, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/bundler/gems/swagger-ui_rails-b040b8240886/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/bundler/gems/swagger-ui_rails-b040b8240886/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/bundler/gems/swagger-ui_rails-b040b8240886/swagger-ui-src" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/bundler/gems/swagger-ui_rails-b040b8240886/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/bundler/gems/swagger-ui_rails-b040b8240886/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/bundler/gems/swagger-ui_rails-b040b8240886/swagger-ui-src" />
+      </SOURCES>
+    </library>
     <library name="telegram-bot (v0.11.3, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telegram_bot/gems/telegram-bot-0.11.3/bin" />
@@ -34850,6 +36242,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/temple-0.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="terrapin (v0.6.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/terrapin-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/terrapin-0.6.0/lib" />
       </SOURCES>
     </library>
     <library name="test-unit (v2.0.0.0, RVM: ruby-2.0.0-p648 [ecoaching]) [gem]">
@@ -35328,6 +36728,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/therubyracer-0.12.3/lib" />
       </SOURCES>
     </library>
+    <library name="therubyracer (v0.12.3, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/therubyracer/0.12.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/therubyracer-0.12.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/therubyracer-0.12.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/therubyracer/0.12.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/therubyracer-0.12.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/therubyracer-0.12.3/lib" />
+      </SOURCES>
+    </library>
     <library name="therubyracer (v0.12.3, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/therubyracer-0.12.3/ext" />
@@ -35506,6 +36918,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/thor-0.19.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/thor-0.19.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.19.4, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/thor-0.19.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/thor-0.19.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/thor-0.19.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/thor-0.19.4/lib" />
       </SOURCES>
     </library>
     <library name="thor (v0.19.4, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
@@ -35726,6 +37148,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/thread_safe-0.3.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/thread_safe-0.3.5/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/thread_safe-0.3.5/yard-template" />
+      </SOURCES>
+    </library>
+    <library name="thread_safe (v0.3.5, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/thread_safe-0.3.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/thread_safe-0.3.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/thread_safe-0.3.5/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/thread_safe-0.3.5/yard-template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/thread_safe-0.3.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/thread_safe-0.3.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/thread_safe-0.3.5/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/thread_safe-0.3.5/yard-template" />
       </SOURCES>
     </library>
     <library name="thread_safe (v0.3.6, RVM: ruby-2.2.2 [itera]) [gem]">
@@ -36050,6 +37486,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/tilt-2.0.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/tilt-2.0.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/tilt-2.0.6/man" />
+      </SOURCES>
+    </library>
+    <library name="tilt (v2.0.6, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/tilt-2.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/tilt-2.0.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/tilt-2.0.6/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/tilt-2.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/tilt-2.0.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/tilt-2.0.6/man" />
       </SOURCES>
     </library>
     <library name="tilt (v2.0.8, RVM: ruby-2.2.2 [itera]) [gem]">
@@ -36530,6 +37978,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/tzinfo-1.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="tzinfo (v1.2.2, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/tzinfo-1.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/tzinfo-1.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="tzinfo (v1.2.3, RVM: ruby-2.3.4 [sharetribe]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@sharetribe/gems/tzinfo-1.2.3/lib" />
@@ -36696,6 +38152,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/uber-0.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="uber (v0.1.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/uber-0.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/uber-0.1.0/lib" />
       </SOURCES>
     </library>
     <library name="uber (v0.1.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
@@ -36994,6 +38458,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/unicode-display_width-1.1.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@survey/gems/unicode-display_width-1.1.1/data" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v1.1.3, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/unicode-display_width-1.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/unicode-display_width-1.1.3/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/unicode-display_width-1.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/unicode-display_width-1.1.3/data" />
       </SOURCES>
     </library>
     <library name="unicode-display_width (v1.2.1, RVM: ruby-2.3.4 [sharetribe]) [gem]">
@@ -37472,6 +38946,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/warden-1.2.7/lib" />
       </SOURCES>
     </library>
+    <library name="warden (v1.2.7, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/warden-1.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/warden-1.2.7/lib" />
+      </SOURCES>
+    </library>
     <library name="warden (v1.2.7, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/warden-1.2.7/lib" />
@@ -37902,6 +39384,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@new_app/gems/websocket-driver-0.6.5/lib" />
       </SOURCES>
     </library>
+    <library name="websocket-driver (v0.6.5, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/websocket-driver-0.6.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/websocket-driver-0.6.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/websocket-driver-0.6.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/websocket-driver-0.6.5/lib" />
+      </SOURCES>
+    </library>
     <library name="websocket-driver (v0.6.5, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@reminder_bot/gems/websocket-driver-0.6.5/ext" />
@@ -38046,6 +39540,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcpi/gems/websocket-extensions-0.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="websocket-extensions (v0.1.2, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/websocket-extensions-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/websocket-extensions-0.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="websocket-extensions (v0.1.2, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/websocket-extensions-0.1.2/lib" />
@@ -38172,6 +39674,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/whenever-0.10.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/whenever-0.10.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/whenever-0.10.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="whenever (v0.10.0, RVM: ruby-2.4.1 [ops_automation]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/whenever-0.10.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/whenever-0.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/whenever-0.10.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/whenever-0.10.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/whenever-0.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/whenever-0.10.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="whenever (v0.10.0, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
