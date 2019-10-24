@@ -5838,6 +5838,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/bundler-1.17.3/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.17.3, RVM: ruby-2.4.1 [dcdt]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/bundler-1.17.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/bundler-1.17.3/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/bundler-1.17.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/bundler-1.17.3/man" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.17.3, RVM: ruby-2.4.1 [ops_automation]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ops_automation/gems/bundler-1.17.3/exe" />
@@ -16204,6 +16216,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/headless-2.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="health_check (v3.0.0, RVM: ruby-2.4.1 [dcdt]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/health_check-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/health_check-3.0.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/health_check-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@dcdt/gems/health_check-3.0.0/config" />
       </SOURCES>
     </library>
     <library name="hellosign-ruby-sdk (v3.7.7, RVM: ruby-2.3.0 [finvoice]) [gem]">
