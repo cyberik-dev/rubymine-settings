@@ -6354,6 +6354,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vue_demo_app/gems/bcrypt-3.1.12/lib" />
       </SOURCES>
     </library>
+    <library name="bcrypt (v3.1.13, RVM: ruby-2.5.0 [hiphipstay-api]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.13" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/bcrypt-3.1.13/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/bcrypt-3.1.13/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.13" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/bcrypt-3.1.13/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/bcrypt-3.1.13/lib" />
+      </SOURCES>
+    </library>
     <library name="bcrypt (v3.1.13, RVM: ruby-2.6.3 [dao]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.13" />
@@ -9464,6 +9476,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/chartkick-3.0.2/vendor" />
       </SOURCES>
     </library>
+    <library name="chartkick (v3.2.2, RVM: ruby-2.5.0 [hiphipstay-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/chartkick-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/chartkick-3.2.2/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/chartkick-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/chartkick-3.2.2/vendor" />
+      </SOURCES>
+    </library>
     <library name="childprocess (v0.5.9, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/childprocess-0.5.9/lib" />
@@ -11512,6 +11534,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/crass-1.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="crass (v1.0.5, RVM: ruby-2.5.0 [hiphipstay-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/crass-1.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/crass-1.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="crass (v1.0.5, RVM: ruby-2.6.3 [dao]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/crass-1.0.5/lib" />
@@ -12632,6 +12662,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/bundler/gems/devise-4e4e42e1ae29/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/bundler/gems/devise-4e4e42e1ae29/guides" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/bundler/gems/devise-4e4e42e1ae29/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="devise (v4.7.1, RVM: ruby-2.5.0 [hiphipstay-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/devise-4.7.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/devise-4.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/devise-4.7.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/devise-4.7.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/devise-4.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/devise-4.7.1/config" />
       </SOURCES>
     </library>
     <library name="devise (v4.7.1, RVM: ruby-2.6.3 [dao]) [gem]">
@@ -23030,6 +23072,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/loofah-2.2.3/benchmark" />
       </SOURCES>
     </library>
+    <library name="loofah (v2.3.1, RVM: ruby-2.5.0 [hiphipstay-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/loofah-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/loofah-2.3.1/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/loofah-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/loofah-2.3.1/benchmark" />
+      </SOURCES>
+    </library>
     <library name="loofah (v2.3.1, RVM: ruby-2.6.3 [dao]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/loofah-2.3.1/lib" />
@@ -25264,6 +25316,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@global/gems/minitest-5.11.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.13.0, RVM: ruby-2.5.0 [hiphipstay-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/minitest-5.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/minitest-5.13.0/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.4.3, RVM: ruby-2.2.2 [freshfw]) [gem]">
@@ -32966,6 +33026,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/rails-html-sanitizer-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="rails-html-sanitizer (v1.3.0, RVM: ruby-2.5.0 [hiphipstay-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/rails-html-sanitizer-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/rails-html-sanitizer-1.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rails-i18n (v5.0.4, RVM: ruby-2.3.4 [sharetribe]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@sharetribe/gems/rails-i18n-5.0.4/lib" />
@@ -34412,6 +34480,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/rake-12.3.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/rake-12.3.3/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/rake-12.3.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v13.0.0, RVM: ruby-2.5.0 [hiphipstay-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/rake-13.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/rake-13.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/rake-13.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/rake-13.0.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/rake-13.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/rake-13.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/rake-13.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/rake-13.0.0/.github" />
       </SOURCES>
     </library>
     <library name="randexp (v0.1.7, RVM: ruby-2.5.0 [hiphipstay-api]) [gem]">
@@ -38304,6 +38386,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/rubyzip-1.3.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/rubyzip-1.3.0/samples" />
+      </SOURCES>
+    </library>
+    <library name="rubyzip (v2.0.0, RVM: ruby-2.5.0 [hiphipstay-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/rubyzip-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/rubyzip-2.0.0/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/rubyzip-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/rubyzip-2.0.0/samples" />
       </SOURCES>
     </library>
     <library name="rufus-scheduler (v3.1.10, RVM: ruby-2.2.2 [freshfw]) [gem]">
