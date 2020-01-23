@@ -11,6 +11,7 @@
       <mapping pattern="Dockerfile_gcp" type="PLAIN_TEXT" />
       <mapping pattern="telegram_bot" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="gem" type="PLAIN_TEXT" />
       <mapping ext="tt" type="RHTML" />
       <mapping pattern="telegram_bot_ctl" type="Ruby" />
