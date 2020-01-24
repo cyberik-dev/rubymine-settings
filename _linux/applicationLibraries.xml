@@ -6742,12 +6742,10 @@
     </library>
     <library name="bindex (v0.8.1, RVM: ruby-2.7.0 [exchanger]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bindex/0.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/bindex-0.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/bindex-0.8.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bindex/0.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/bindex-0.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/bindex-0.8.1/lib" />
       </SOURCES>
@@ -7014,14 +7012,12 @@
     </library>
     <library name="bootsnap (v1.4.5, RVM: ruby-2.7.0 [exchanger]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.4.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/bootsnap-1.4.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/bootsnap-1.4.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/bootsnap-1.4.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/bootsnap-1.4.5/.github" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.4.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/bootsnap-1.4.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/bootsnap-1.4.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/bootsnap-1.4.5/lib" />
@@ -8320,14 +8316,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@global/gems/bundler-unload-1.0.2/lib" />
       </SOURCES>
     </library>
-    <library name="bundler-unload (v1.0.2, RVM: ruby-2.7.0 [exchanger]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/bundler-unload-1.0.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/bundler-unload-1.0.2/lib" />
-      </SOURCES>
-    </library>
     <library name="bundler-unload (v1.0.2, RVM: ruby-2.7.0 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/bundler-unload-1.0.2/lib" />
@@ -8508,13 +8496,11 @@
     </library>
     <library name="byebug (v11.1.1, RVM: ruby-2.7.0 [exchanger]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/11.1.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/byebug-11.1.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/byebug-11.1.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/byebug-11.1.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/11.1.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/byebug-11.1.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/byebug-11.1.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/byebug-11.1.1/lib" />
@@ -15638,24 +15624,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@global/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
       </SOURCES>
     </library>
-    <library name="executable-hooks (v1.6.0, RVM: ruby-2.7.0 [exchanger]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/executable-hooks-1.6.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/executable-hooks-1.6.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/executable-hooks-1.6.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/executable-hooks-1.6.0/test-tf" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/executable-hooks-1.6.0/test-tf-bundle" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/executable-hooks-1.6.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/executable-hooks-1.6.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/executable-hooks-1.6.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/executable-hooks-1.6.0/test-tf" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/executable-hooks-1.6.0/test-tf-bundle" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
-      </SOURCES>
-    </library>
     <library name="executable-hooks (v1.6.0, RVM: ruby-2.7.0 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/executable-hooks-1.6.0/bin" />
@@ -16348,13 +16316,11 @@
     </library>
     <library name="ffi (v1.12.1, RVM: ruby-2.7.0 [exchanger]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.12.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/ffi-1.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/ffi-1.12.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/ffi-1.12.1/samples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.12.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/ffi-1.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/ffi-1.12.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/ffi-1.12.1/samples" />
@@ -18050,16 +18016,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@global/gems/gem-wrappers-1.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@global/gems/gem-wrappers-1.4.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="gem-wrappers (v1.4.0, RVM: ruby-2.7.0 [exchanger]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/gem-wrappers-1.4.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/gem-wrappers-1.4.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/gem-wrappers-1.4.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/gem-wrappers-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="gem-wrappers (v1.4.0, RVM: ruby-2.7.0 [global]) [gem]">
@@ -21136,12 +21092,10 @@
     </library>
     <library name="jaro_winkler (v1.5.4, RVM: ruby-2.7.0 [exchanger]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/jaro_winkler-1.5.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/jaro_winkler-1.5.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/jaro_winkler-1.5.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/jaro_winkler-1.5.4/lib" />
       </SOURCES>
@@ -25906,14 +25860,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/minitest-5.13.0/lib" />
       </SOURCES>
     </library>
-    <library name="minitest (v5.13.0, RVM: ruby-2.7.0 [exchanger]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/minitest-5.13.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/minitest-5.13.0/lib" />
-      </SOURCES>
-    </library>
     <library name="minitest (v5.13.0, RVM: ruby-2.7.0 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/minitest-5.13.0/lib" />
@@ -26464,14 +26410,12 @@
     </library>
     <library name="msgpack (v1.3.1, RVM: ruby-2.7.0 [exchanger]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/msgpack/1.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/msgpack-1.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/msgpack-1.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/msgpack-1.3.1/bench" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/msgpack-1.3.1/doclib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/msgpack/1.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/msgpack-1.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/msgpack-1.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/msgpack-1.3.1/bench" />
@@ -27800,16 +27744,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@global/gems/net-telnet-0.2.0/lib" />
       </SOURCES>
     </library>
-    <library name="net-telnet (v0.2.0, RVM: ruby-2.7.0 [exchanger]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/net-telnet-0.2.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/net-telnet-0.2.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/net-telnet-0.2.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/net-telnet-0.2.0/lib" />
-      </SOURCES>
-    </library>
     <library name="net-telnet (v0.2.0, RVM: ruby-2.7.0 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/net-telnet-0.2.0/bin" />
@@ -28256,13 +28190,11 @@
     </library>
     <library name="nio4r (v2.5.2, RVM: ruby-2.7.0 [exchanger]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/nio4r-2.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/nio4r-2.5.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/nio4r-2.5.2/rakelib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/nio4r-2.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/nio4r-2.5.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/nio4r-2.5.2/rakelib" />
@@ -28364,14 +28296,12 @@
     </library>
     <library name="nokogiri (v1.10.7, RVM: ruby-2.7.0 [exchanger]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/nokogiri-1.10.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/nokogiri-1.10.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/nokogiri-1.10.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/nokogiri-1.10.7/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/nokogiri-1.10.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/nokogiri-1.10.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/nokogiri-1.10.7/lib" />
@@ -30246,12 +30176,10 @@
     </library>
     <library name="pg (v1.2.2, RVM: ruby-2.7.0 [exchanger]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/1.2.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/pg-1.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/pg-1.2.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/1.2.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/pg-1.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/pg-1.2.2/lib" />
       </SOURCES>
@@ -30750,16 +30678,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@global/gems/power_assert-1.1.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@global/gems/power_assert-1.1.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="power_assert (v1.1.5, RVM: ruby-2.7.0 [exchanger]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/power_assert-1.1.5/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/power_assert-1.1.5/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/power_assert-1.1.5/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/power_assert-1.1.5/lib" />
       </SOURCES>
     </library>
     <library name="power_assert (v1.1.5, RVM: ruby-2.7.0 [global]) [gem]">
@@ -31958,14 +31876,12 @@
     </library>
     <library name="puma (v4.3.1, RVM: ruby-2.7.0 [exchanger]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/4.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/puma-4.3.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/puma-4.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/puma-4.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/puma-4.3.1/tools" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/4.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/puma-4.3.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/puma-4.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/puma-4.3.1/lib" />
@@ -35370,20 +35286,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/rake-13.0.0/.github" />
       </SOURCES>
     </library>
-    <library name="rake (v13.0.1, RVM: ruby-2.7.0 [exchanger]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/rake-13.0.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/rake-13.0.1/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/rake-13.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/rake-13.0.1/.github" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/rake-13.0.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/rake-13.0.1/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/rake-13.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/rake-13.0.1/.github" />
-      </SOURCES>
-    </library>
     <library name="rake (v13.0.1, RVM: ruby-2.7.0 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/rake-13.0.1/bin" />
@@ -35670,13 +35572,11 @@
     </library>
     <library name="rb-fsevent (v0.10.3, RVM: ruby-2.7.0 [exchanger]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rb-fsevent-0.10.3/lib" />
@@ -39214,14 +39114,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@global/gems/rubygems-bundler-1.4.5/lib" />
       </SOURCES>
     </library>
-    <library name="rubygems-bundler (v1.4.5, RVM: ruby-2.7.0 [exchanger]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/rubygems-bundler-1.4.5/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/rubygems-bundler-1.4.5/lib" />
-      </SOURCES>
-    </library>
     <library name="rubygems-bundler (v1.4.5, RVM: ruby-2.7.0 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/rubygems-bundler-1.4.5/lib" />
@@ -39814,14 +39706,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@global/gems/rvm-1.11.3.9/lib" />
-      </SOURCES>
-    </library>
-    <library name="rvm (v1.11.3.9, RVM: ruby-2.7.0 [exchanger]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/rvm-1.11.3.9/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/rvm-1.11.3.9/lib" />
       </SOURCES>
     </library>
     <library name="rvm (v1.11.3.9, RVM: ruby-2.7.0 [global]) [gem]">
@@ -40552,12 +40436,10 @@
     </library>
     <library name="sassc (v2.2.1, RVM: ruby-2.7.0 [exchanger]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sassc/2.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/sassc-2.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/sassc-2.2.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sassc/2.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/sassc-2.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/sassc-2.2.1/lib" />
       </SOURCES>
@@ -43712,16 +43594,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@global/gems/test-unit-3.2.9/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@global/gems/test-unit-3.2.9/sample" />
-      </SOURCES>
-    </library>
-    <library name="test-unit (v3.3.4, RVM: ruby-2.7.0 [exchanger]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/test-unit-3.3.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/test-unit-3.3.4/sample" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/test-unit-3.3.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/test-unit-3.3.4/sample" />
       </SOURCES>
     </library>
     <library name="test-unit (v3.3.4, RVM: ruby-2.7.0 [global]) [gem]">
@@ -47070,12 +46942,10 @@
     </library>
     <library name="websocket-driver (v0.7.1, RVM: ruby-2.7.0 [exchanger]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.7.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/websocket-driver-0.7.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/websocket-driver-0.7.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.7.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/websocket-driver-0.7.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/websocket-driver-0.7.1/lib" />
       </SOURCES>
@@ -47824,16 +47694,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@global/gems/xmlrpc-0.3.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@global/gems/xmlrpc-0.3.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="xmlrpc (v0.3.0, RVM: ruby-2.7.0 [exchanger]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/xmlrpc-0.3.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/xmlrpc-0.3.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/xmlrpc-0.3.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@global/gems/xmlrpc-0.3.0/lib" />
       </SOURCES>
     </library>
     <library name="xmlrpc (v0.3.0, RVM: ruby-2.7.0 [global]) [gem]">
