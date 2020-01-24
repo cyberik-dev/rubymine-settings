@@ -7110,6 +7110,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/bootstrap-4.1.2/assets" />
       </SOURCES>
     </library>
+    <library name="bootstrap (v4.3.1, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/bootstrap-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/bootstrap-4.3.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/bootstrap-4.3.1/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/bootstrap-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/bootstrap-4.3.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/bootstrap-4.3.1/assets" />
+      </SOURCES>
+    </library>
     <library name="bootstrap-daterangepicker-rails (v3.0.3, RVM: ruby-2.5.0 [hiphipstay-api]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/bootstrap-daterangepicker-rails-3.0.3/lib" />
