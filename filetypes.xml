@@ -13,6 +13,7 @@
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="gem" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="tt" type="RHTML" />
       <mapping pattern="telegram_bot_ctl" type="Ruby" />
     </extensionMap>
