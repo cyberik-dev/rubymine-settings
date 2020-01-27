@@ -26324,6 +26324,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/monetize-1.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="monetize (v1.9.4, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/monetize-1.9.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/monetize-1.9.4/lib" />
+      </SOURCES>
+    </library>
     <library name="money (v6.13.2, RVM: ruby-2.5.0 [hiphipstay-api]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/money-6.13.2/lib" />
@@ -26332,6 +26340,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/money-6.13.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/money-6.13.2/config" />
+      </SOURCES>
+    </library>
+    <library name="money (v6.13.7, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/money-6.13.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/money-6.13.7/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/money-6.13.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/money-6.13.7/config" />
       </SOURCES>
     </library>
     <library name="money (v6.8.4, RVM: ruby-2.3.4 [sharetribe]) [gem]">
@@ -26378,6 +26396,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/money-rails-1.13.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/money-rails-1.13.1/config" />
+      </SOURCES>
+    </library>
+    <library name="money-rails (v1.13.3, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/money-rails-1.13.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/money-rails-1.13.3/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/money-rails-1.13.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/money-rails-1.13.3/config" />
       </SOURCES>
     </library>
     <library name="money-rails (v1.8.0, RVM: ruby-2.3.4 [sharetribe]) [gem]">
