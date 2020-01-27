@@ -13742,6 +13742,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/diff-lcs-1.3/autotest" />
       </SOURCES>
     </library>
+    <library name="diff-lcs (v1.3, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/diff-lcs-1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/diff-lcs-1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/diff-lcs-1.3/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/diff-lcs-1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/diff-lcs-1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/diff-lcs-1.3/autotest" />
+      </SOURCES>
+    </library>
     <library name="diffy (v3.2.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/diffy-3.2.0/lib" />
@@ -37634,6 +37646,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rspec-core-3.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.9.1, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rspec-core-3.9.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rspec-core-3.9.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rspec-core-3.9.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rspec-core-3.9.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v2.13.0, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/rspec-expectations-2.13.0/lib" />
@@ -37786,6 +37808,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rspec-expectations-3.8.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v3.9.0, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rspec-expectations-3.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rspec-expectations-3.9.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-its (v1.2.0, RVM: ruby-2.4.1 [telegram_bot]) [gem]">
@@ -37966,6 +37996,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rspec-mocks-3.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-mocks (v3.9.1, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rspec-mocks-3.9.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rspec-mocks-3.9.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-rails (v2.13.1, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/rspec-rails-2.13.1/lib" />
@@ -38110,6 +38148,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/rspec-rails-3.8.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-rails (v3.9.0, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rspec-rails-3.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rspec-rails-3.9.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-sidekiq (v3.0.3, RVM: ruby-2.5.1 [social_health_online]) [gem]">
@@ -38262,6 +38308,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/rspec-support-3.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.9.2, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rspec-support-3.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rspec-support-3.9.2/lib" />
       </SOURCES>
     </library>
     <library name="rspec_junit_formatter (v0.2.3, RVM: ruby-2.3.4 [sharetribe]) [gem]">
