@@ -15978,6 +15978,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/factory_bot-5.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="factory_bot (v5.1.1, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/factory_bot-5.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/factory_bot-5.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="factory_bot_rails (v4.10.0, RVM: ruby-2.4.1 [devana]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/factory_bot_rails-4.10.0/bin" />
@@ -16098,6 +16106,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@fraud_buster/gems/factory_bot_rails-5.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="factory_bot_rails (v5.1.1, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/factory_bot_rails-5.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/factory_bot_rails-5.1.1/lib" />
       </SOURCES>
     </library>
     <library name="factory_girl (v4.2.0, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
