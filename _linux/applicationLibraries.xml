@@ -9786,6 +9786,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/chartkick-3.2.2/vendor" />
       </SOURCES>
     </library>
+    <library name="chartkick (v3.3.1, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/chartkick-3.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/chartkick-3.3.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/chartkick-3.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/chartkick-3.3.1/vendor" />
+      </SOURCES>
+    </library>
     <library name="childprocess (v0.5.9, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/childprocess-0.5.9/lib" />
