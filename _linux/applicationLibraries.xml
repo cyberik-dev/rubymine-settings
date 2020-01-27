@@ -2390,6 +2390,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/addressable-2.6.0/tasks" />
       </SOURCES>
     </library>
+    <library name="addressable (v2.7.0, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/addressable-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/addressable-2.7.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/addressable-2.7.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/addressable-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/addressable-2.7.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/addressable-2.7.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="airbrake (v6.1.2, RVM: ruby-2.3.4 [sharetribe]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@sharetribe/gems/airbrake-6.1.2/lib" />
@@ -2644,6 +2656,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/archive-zip-0.12.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="archive-zip (v0.12.0, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/archive-zip-0.12.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/archive-zip-0.12.0/lib" />
       </SOURCES>
     </library>
     <library name="archive-zip (v0.7.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
@@ -9636,6 +9656,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/capybara-3.28.0/lib" />
       </SOURCES>
     </library>
+    <library name="capybara (v3.31.0, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/capybara-3.31.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/capybara-3.31.0/lib" />
+      </SOURCES>
+    </library>
     <library name="capybara (v3.5.1, RVM: ruby-2.4.1 [devana]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@devana/gems/capybara-3.5.1/lib" />
@@ -9894,6 +9922,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/childprocess-1.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="childprocess (v3.0.0, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/childprocess-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/childprocess-3.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="choice (v0.2.0, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/choice-0.2.0/lib" />
@@ -9984,6 +10020,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/chromedriver-helper-2.1.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/chromedriver-helper-2.1.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/chromedriver-helper-2.1.1/concourse" />
+      </SOURCES>
+    </library>
+    <library name="chromedriver-helper (v2.1.1, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/chromedriver-helper-2.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/chromedriver-helper-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/chromedriver-helper-2.1.1/concourse" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/chromedriver-helper-2.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/chromedriver-helper-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/chromedriver-helper-2.1.1/concourse" />
       </SOURCES>
     </library>
     <library name="chronic (v0.10.2, RVM: ruby-2.2.2 [freshfw]) [gem]">
@@ -12302,6 +12350,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@up_free/gems/database_cleaner-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="database_cleaner (v1.7.0, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/database_cleaner-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/database_cleaner-1.7.0/lib" />
       </SOURCES>
     </library>
     <library name="date_validator (v0.9.0, RVM: ruby-2.2.2 [itera]) [gem]">
@@ -21242,6 +21298,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/io-like-0.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="io-like (v0.3.0, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/io-like-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/io-like-0.3.0/lib" />
       </SOURCES>
     </library>
     <library name="ipaddress (v0.8.3, RVM: ruby-2.2.2 [freshfw]) [gem]">
@@ -31870,6 +31934,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/public_suffix-3.1.1/data" />
       </SOURCES>
     </library>
+    <library name="public_suffix (v4.0.3, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/public_suffix-4.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/public_suffix-4.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/public_suffix-4.0.3/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/public_suffix-4.0.3/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/public_suffix-4.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/public_suffix-4.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/public_suffix-4.0.3/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/public_suffix-4.0.3/.github" />
+      </SOURCES>
+    </library>
     <library name="puma (v2.0.1, RVM: ruby-2.0.0-p648 [ecoaching]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p648@ecoaching/gems/puma-2.0.1/bin" />
@@ -36802,6 +36880,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/regexp_parser-1.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="regexp_parser (v1.6.0, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/regexp_parser-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/regexp_parser-1.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="remotipart (v1.3.0, RVM: ruby-2.2.2 [freshfw]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/remotipart-1.3.0/lib" />
@@ -39644,6 +39730,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/rubyzip-2.0.0/samples" />
       </SOURCES>
     </library>
+    <library name="rubyzip (v2.1.0, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rubyzip-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rubyzip-2.1.0/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rubyzip-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/rubyzip-2.1.0/samples" />
+      </SOURCES>
+    </library>
     <library name="rufus-scheduler (v3.1.10, RVM: ruby-2.2.2 [freshfw]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@freshfw/gems/rufus-scheduler-3.1.10/lib" />
@@ -40986,6 +41082,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/selenium-webdriver-3.142.3/lib" />
       </SOURCES>
     </library>
+    <library name="selenium-webdriver (v3.142.7, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/selenium-webdriver-3.142.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/selenium-webdriver-3.142.7/lib" />
+      </SOURCES>
+    </library>
     <library name="selenium-webdriver (v3.5.2, RVM: ruby-2.4.1 [salesfolk]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/selenium-webdriver-3.5.2/lib" />
@@ -41286,6 +41390,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/shoulda-matchers-3.1.3/script" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/shoulda-matchers-3.1.3/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/shoulda-matchers-3.1.3/doc_config" />
+      </SOURCES>
+    </library>
+    <library name="shoulda-matchers (v4.2.0, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/shoulda-matchers-4.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/shoulda-matchers-4.2.0/lib" />
       </SOURCES>
     </library>
     <library name="sidekiq (v4.2.1, RVM: ruby-2.2.2 [freshfw]) [gem]">
@@ -46982,6 +47094,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@scraping/gems/webdrivers-3.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="webdrivers (v4.2.0, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/webdrivers-4.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/webdrivers-4.2.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/webdrivers-4.2.0/support" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/webdrivers-4.2.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/webdrivers-4.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/webdrivers-4.2.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/webdrivers-4.2.0/support" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/webdrivers-4.2.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="webmock (v1.8.11, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@spin_studio/gems/webmock-1.8.11/lib" />
@@ -48218,6 +48344,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/xpath-3.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="xpath (v3.2.0, RVM: ruby-2.7.0 [exchanger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/xpath-3.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/xpath-3.2.0/lib" />
       </SOURCES>
     </library>
     <library name="xray-rails (v0.3.1, RVM: ruby-2.4.1 [devana]) [gem]">
