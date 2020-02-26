@@ -37440,6 +37440,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/rest-client-2.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="rest-client-logger (v0.0.1, RVM: ruby-2.5.0 [hiphipstay-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/rest-client-logger-0.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/rest-client-logger-0.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="retriable (v3.1.1, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/retriable-3.1.1/lib" />
@@ -42178,6 +42186,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/slack-notifier-2.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="slack-notifier (v2.3.2, RVM: ruby-2.5.0 [hiphipstay-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/slack-notifier-2.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/slack-notifier-2.3.2/lib" />
       </SOURCES>
     </library>
     <library name="slim (v3.0.9, RVM: ruby-2.4.1 [reminder_bot]) [gem]">
