@@ -986,6 +986,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@finvoice/gems/active_attr-0.13.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="active_material (v1.4.1@446dbc, RVM: ruby-2.6.5 [mixfit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/bundler/gems/active_material-446dbcf6db7d/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/bundler/gems/active_material-446dbcf6db7d/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/bundler/gems/active_material-446dbcf6db7d/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/bundler/gems/active_material-446dbcf6db7d/lib" />
+      </SOURCES>
+    </library>
     <library name="active_material (v1.4.1@ea09ea, RVM: ruby-2.6.5 [mixfit]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/bundler/gems/active_material-ea09eaccf07c/app" />
@@ -32988,6 +32998,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/parser-2.7.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.7.0.4, RVM: ruby-2.6.5 [mixfit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/parser-2.7.0.4/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/parser-2.7.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/parser-2.7.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/parser-2.7.0.4/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/parser-2.7.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/parser-2.7.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.7.1.0, RVM: ruby-2.4.0 [vladey]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@vladey/gems/parser-2.7.1.0/ci" />
@@ -45734,6 +45756,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@social_health_online/gems/sidekiq-5.2.1/.github" />
       </SOURCES>
     </library>
+    <library name="sidekiq (v6.0.6, RVM: ruby-2.6.5 [mixfit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/sidekiq-6.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/sidekiq-6.0.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/sidekiq-6.0.6/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/sidekiq-6.0.6/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/sidekiq-6.0.6/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/sidekiq-6.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/sidekiq-6.0.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/sidekiq-6.0.6/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/sidekiq-6.0.6/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/sidekiq-6.0.6/.circleci" />
+      </SOURCES>
+    </library>
     <library name="sidekiq (v6.0.7, RVM: ruby-2.6.5 [mixfit]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/sidekiq-6.0.7/bin" />
@@ -45768,6 +45806,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/sidekiq-client-cli-0.1.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@salesfolk/gems/sidekiq-client-cli-0.1.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="sidekiq-cron (v1.1.0, RVM: ruby-2.6.5 [mixfit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/sidekiq-cron-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/sidekiq-cron-1.1.0/lib" />
       </SOURCES>
     </library>
     <library name="sidekiq-cron (v1.2.0, RVM: ruby-2.6.5 [mixfit]) [gem]">
@@ -47906,6 +47952,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/stripe-3.31.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/stripe-3.31.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/stripe-3.31.1/.github" />
+      </SOURCES>
+    </library>
+    <library name="stripe (v5.17.0, RVM: ruby-2.6.5 [mixfit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/stripe-5.17.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/stripe-5.17.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/stripe-5.17.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/stripe-5.17.0/.vscode" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/stripe-5.17.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/stripe-5.17.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/stripe-5.17.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/stripe-5.17.0/.vscode" />
       </SOURCES>
     </library>
     <library name="stripe (v5.22.0, RVM: ruby-2.6.5 [mixfit]) [gem]">
@@ -50604,6 +50664,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@dao/gems/tzinfo-1.2.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v1.2.6, RVM: ruby-2.6.5 [mixfit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/tzinfo-1.2.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/tzinfo-1.2.6/lib" />
       </SOURCES>
     </library>
     <library name="tzinfo (v1.2.6, RVM: ruby-2.7.0 [exchanger]) [gem]">
