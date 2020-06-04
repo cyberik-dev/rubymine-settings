@@ -18936,12 +18936,14 @@
     </library>
     <library name="ffi (v1.13.0, RVM: ruby-2.7.1 [secure_player]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.13.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/ffi-1.13.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/ffi-1.13.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/ffi-1.13.0/.github" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/ffi-1.13.0/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.13.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/ffi-1.13.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/ffi-1.13.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/ffi-1.13.0/.github" />
@@ -31446,11 +31448,13 @@
     </library>
     <library name="mysql2 (v0.5.3, RVM: ruby-2.7.1 [secure_player]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.5.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/mysql2-0.5.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/mysql2-0.5.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/mysql2-0.5.3/support" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.5.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/mysql2-0.5.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/mysql2-0.5.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/mysql2-0.5.3/support" />
@@ -37136,12 +37140,14 @@
     </library>
     <library name="puma (v4.3.5, RVM: ruby-2.7.1 [secure_player]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/4.3.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/puma-4.3.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/puma-4.3.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/puma-4.3.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/puma-4.3.5/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/4.3.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/puma-4.3.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/puma-4.3.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/puma-4.3.5/lib" />
@@ -41420,11 +41426,13 @@
     </library>
     <library name="rb-fsevent (v0.10.4, RVM: ruby-2.7.1 [secure_player]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/rb-fsevent-0.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/rb-fsevent-0.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/rb-fsevent-0.10.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/rb-fsevent-0.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/rb-fsevent-0.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/rb-fsevent-0.10.4/lib" />
@@ -47300,10 +47308,12 @@
     </library>
     <library name="sassc (v2.4.0, RVM: ruby-2.7.1 [secure_player]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sassc/2.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/sassc-2.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/sassc-2.4.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sassc/2.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/sassc-2.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/sassc-2.4.0/lib" />
       </SOURCES>
@@ -55142,10 +55152,12 @@
     </library>
     <library name="websocket-driver (v0.7.2, RVM: ruby-2.7.1 [secure_player]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/websocket-driver-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/websocket-driver-0.7.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/websocket-driver-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/websocket-driver-0.7.2/lib" />
       </SOURCES>
