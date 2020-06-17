@@ -16790,6 +16790,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/ethon-0.12.0/profile" />
       </SOURCES>
     </library>
+    <library name="ethon (v0.12.0, RVM: ruby-2.6.5 [mixfit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/ethon-0.12.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/ethon-0.12.0/profile" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/ethon-0.12.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/ethon-0.12.0/profile" />
+      </SOURCES>
+    </library>
     <library name="eventmachine (v0.12.10, RVM: ruby-1.9.2-p330 [voit]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs19/eventmachine/0.12.10" />
@@ -26110,6 +26120,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-1.2.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="kaminari (v1.2.1, RVM: ruby-2.6.5 [mixfit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-1.2.1/misc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-1.2.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-1.2.1/misc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-1.2.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="kaminari-actionview (v1.0.1, RVM: ruby-2.4.0 [vladey]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@vladey/gems/kaminari-actionview-1.0.1/lib" />
@@ -26166,6 +26188,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-actionview-1.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="kaminari-actionview (v1.2.1, RVM: ruby-2.6.5 [mixfit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-actionview-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-actionview-1.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="kaminari-activerecord (v1.0.1, RVM: ruby-2.4.0 [vladey]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@vladey/gems/kaminari-activerecord-1.0.1/lib" />
@@ -26220,6 +26250,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-activerecord-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-activerecord (v1.2.1, RVM: ruby-2.6.5 [mixfit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-activerecord-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-activerecord-1.2.1/lib" />
       </SOURCES>
     </library>
     <library name="kaminari-core (v1.0.1, RVM: ruby-2.4.0 [vladey]) [gem]">
@@ -26304,6 +26342,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-core-1.2.0/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-core-1.2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-core-1.2.0/config" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-core (v1.2.1, RVM: ruby-2.6.5 [mixfit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-core-1.2.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-core-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-core-1.2.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-core-1.2.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-core-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/kaminari-core-1.2.1/config" />
       </SOURCES>
     </library>
     <library name="keepass-password-generator (v0.1.1, RVM: ruby-2.2.0 [manage_apps]) [gem]">
@@ -36876,6 +36926,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/public_suffix-4.0.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/public_suffix-4.0.4/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/public_suffix-4.0.4/.github" />
+      </SOURCES>
+    </library>
+    <library name="public_suffix (v4.0.5, RVM: ruby-2.6.5 [mixfit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/public_suffix-4.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/public_suffix-4.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/public_suffix-4.0.5/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/public_suffix-4.0.5/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/public_suffix-4.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/public_suffix-4.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/public_suffix-4.0.5/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/public_suffix-4.0.5/.github" />
       </SOURCES>
     </library>
     <library name="public_suffix (v4.0.5, RVM: ruby-2.7.1 [secure_player]) [gem]">
@@ -50642,6 +50706,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/stripe_event-2.3.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="stripe_event (v2.3.1, RVM: ruby-2.6.5 [mixfit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/stripe_event-2.3.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/stripe_event-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/stripe_event-2.3.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/stripe_event-2.3.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/stripe_event-2.3.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/stripe_event-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/stripe_event-2.3.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/stripe_event-2.3.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="subexec (v0.0.4, RVM: ruby-2.0.0-p648 [ecoaching]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p648@ecoaching/gems/subexec-0.0.4/lib" />
@@ -53188,6 +53266,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/typhoeus-1.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/typhoeus-1.3.1/perf" />
+      </SOURCES>
+    </library>
+    <library name="typhoeus (v1.4.0, RVM: ruby-2.6.5 [mixfit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/typhoeus-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/typhoeus-1.4.0/perf" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/typhoeus-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/typhoeus-1.4.0/perf" />
       </SOURCES>
     </library>
     <library name="tzinfo (v0.3.37, RVM: ruby-1.9.3-p551 [spin_studio]) [gem]">
