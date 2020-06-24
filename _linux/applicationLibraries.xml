@@ -7578,6 +7578,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/better_errors-2.5.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="better_errors (v2.7.1, RVM: ruby-2.6.5 [mixfit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/better_errors-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/better_errors-2.7.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/better_errors-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/better_errors-2.7.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="better_errors (v2.7.1, RVM: ruby-2.7.1 [secure_player]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@secure_player/gems/better_errors-2.7.1/lib" />
