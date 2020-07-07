@@ -8786,6 +8786,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/bullet-5.9.0/tasks" />
       </SOURCES>
     </library>
+    <library name="bullet (v6.1.0, RVM: ruby-2.6.5 [mixfit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/bullet-6.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/bullet-6.1.0/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/bullet-6.1.0/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/bullet-6.1.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/bullet-6.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/bullet-6.1.0/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/bullet-6.1.0/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/bullet-6.1.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="bullet (v6.1.0, RVM: ruby-2.7.0 [exchanger]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@exchanger/gems/bullet-6.1.0/lib" />
@@ -54678,6 +54692,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hiphipstay-api/gems/uniform_notifier-1.12.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="uniform_notifier (v1.13.0, RVM: ruby-2.6.5 [mixfit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/uniform_notifier-1.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mixfit/gems/uniform_notifier-1.13.0/lib" />
       </SOURCES>
     </library>
     <library name="uniform_notifier (v1.13.0, RVM: ruby-2.7.0 [exchanger]) [gem]">
