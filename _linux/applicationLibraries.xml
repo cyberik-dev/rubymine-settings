@@ -6083,6 +6083,17 @@
         <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/gems/2.6.0/gems/mimemagic-0.3.5/script" />
       </excluded>
     </library>
+    <library name="mini_magick (v4.10.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mini_magick-4.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mini_magick-4.10.1/lib" />
+      </SOURCES>
+    </library>
     <library name="mini_mime (v1.0.2, RVM: ruby-2.6.5 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
