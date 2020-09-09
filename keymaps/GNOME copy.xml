@@ -8,4 +8,7 @@
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
 </keymap>
