@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.secret" type="PLAIN_TEXT" />
+      <mapping pattern="Fastfile" type="Ruby" />
     </extensionMap>
   </component>
 </application>
