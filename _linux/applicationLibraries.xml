@@ -1898,52 +1898,6 @@
         <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/compact_index_client" />
       </excluded>
     </library>
-    <library name="bundler (v1.17.3, RVM: ruby-2.6.5) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/ui" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/cli" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/plugin" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/source" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/vendor" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/fetcher" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/resolver" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/settings" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/installer" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/ssl_certs" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/templates" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/compact_index_client" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/ui" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/cli" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/plugin" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/source" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/vendor" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/fetcher" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/resolver" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/settings" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/installer" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/ssl_certs" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/templates" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/compact_index_client" />
-      </SOURCES>
-      <excluded>
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/ui" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/cli" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/plugin" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/source" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/fetcher" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/resolver" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/settings" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/installer" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/ssl_certs" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/templates" />
-        <root url="file:///usr/share/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0/bundler/compact_index_client" />
-      </excluded>
-    </library>
     <library name="bundler (v2.0.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
