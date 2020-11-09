@@ -1,0 +1,6 @@
+<keymap version="1" name="GNOME copy 1" parent="Default for GNOME">
+  <action id="CopyContentRootPath">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="Github.PullRequest.Diff.Comment.Create" />
+</keymap>
