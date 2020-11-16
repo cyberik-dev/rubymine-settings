@@ -953,6 +953,31 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.5/lib/ruby/2.6.0/csv/core_ext" />
       </excluded>
     </library>
+    <library name="data_migrate (v6.5.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/data_migrate-6.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/data_migrate-6.5.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/data_migrate-6.5.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/data_migrate-6.5.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/data_migrate-6.5.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/data_migrate-6.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/data_migrate-6.5.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/data_migrate-6.5.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/data_migrate-6.5.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/data_migrate-6.5.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/data_migrate-6.5.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/data_migrate-6.5.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/data_migrate-6.5.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/data_migrate-6.5.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="database_cleaner (v1.8.5, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
