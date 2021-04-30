@@ -2774,6 +2774,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/os-1.1.1/autotest" />
       </excluded>
     </library>
+    <library name="pagy (v3.13.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/pagy-3.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/pagy-3.13.0/lib" />
+      </SOURCES>
+    </library>
     <library name="paper_trail (v10.3.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
