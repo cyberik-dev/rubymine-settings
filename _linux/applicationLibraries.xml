@@ -524,6 +524,17 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="blueprinter (v0.25.3, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/blueprinter-0.25.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/blueprinter-0.25.3/lib" />
+      </SOURCES>
+    </library>
     <library name="bootsnap (v1.4.6, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2176,6 +2187,22 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.5/lib/ruby/2.6.0/json/add" />
       </excluded>
     </library>
+    <library name="json-schema (v2.8.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-schema-2.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-schema-2.8.1/resources" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-schema-2.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-schema-2.8.1/resources" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-schema-2.8.1/resources" />
+      </excluded>
+    </library>
     <library name="jsonapi-renderer (v0.2.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2366,6 +2393,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/memoist-0.16.2/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/memoist-0.16.2/script" />
+      </excluded>
+    </library>
+    <library name="memory_profiler (v1.0.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/memory_profiler-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/memory_profiler-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/memory_profiler-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/memory_profiler-1.0.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/memory_profiler-1.0.0/bin" />
       </excluded>
     </library>
     <library name="method_source (v1.0.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -2635,6 +2678,34 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.2/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.2/rakelib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.2/examples" />
+      </excluded>
+    </library>
+    <library name="nio4r (v2.5.7, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.7/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.7/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.7/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.7/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.7/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.7/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.7/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.7/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.7/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.7/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.7/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.7/examples" />
       </excluded>
     </library>
     <library name="nokogiri (v1.10.9, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -3022,6 +3093,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.5/docs" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.5/tools" />
+      </excluded>
+    </library>
+    <library name="puma (v4.3.8, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.8/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.8/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.8/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.8/tools" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.8/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.8/tools" />
       </excluded>
     </library>
     <library name="pundit (v2.1.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
