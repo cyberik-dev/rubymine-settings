@@ -2465,6 +2465,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-types-data-3.2019.1009/types" />
       </excluded>
     </library>
+    <library name="mimemagic (v0.3.10, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mimemagic-0.3.10/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mimemagic-0.3.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mimemagic-0.3.10/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mimemagic-0.3.10/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mimemagic-0.3.10/ext" />
+      </excluded>
+    </library>
     <library name="mimemagic (v0.3.5, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
